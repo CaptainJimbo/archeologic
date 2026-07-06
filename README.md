@@ -35,9 +35,10 @@ advantage in language and sources.
 
 ## Status
 
-🚧 Private while under construction. **Build step 1 of 6 is complete** — the wiki
-→ graph → interactive UI pipeline is proven end-to-end with a hand-authored seed
-corpus, ahead of turning the investigation agent loose on it.
+🚧 Private while under construction. **Steps 1–2 of 6 are in place** — the wiki →
+graph → interactive UI pipeline (step 1, hand-authored seed) *and* the
+investigation agent that extends it (step 2), including a model-in-the-loop run
+that grew the corpus through the anti-hallucination gate.
 
 ## What's built so far (step 1: de-risk the demo)
 
@@ -54,6 +55,18 @@ Every **source** node is backed by a real, fetched document (Bartsiokas 2000 in
 *Science*, Musgrave et al. 2010, Bartsiokas et al. 2015 in *PNAS*, Friedrich et al.
 2006, Pearson et al. 2018, Ehrlich et al. 2023) — the project's cardinal rule
 (*no source node without a fetched document*) applied even to the hand-written seed.
+
+### Step 2 in action — the agent grows the corpus
+
+The [investigation agent](agent/README.md) has since added a third cluster
+(8 notes) by investigating a *new* claim — **"the Thera eruption destroyed Minoan
+civilization"** — through the same tools and the same gate. It found the popular
+claim **refuted** (confidence 0.20): the eruption falls in Late Minoan IA but the
+Cretan palace destructions are Late Minoan IB, 30–150 years later, and it traced
+the thesis to a single citogenesis root (Marinatos 1939). Every source it cites
+(Pichler & Schiering 1977, Bruins et al. 2009, Lespez et al. 2021) is a document
+it fetched through the gate. Those notes are byte-identical in format to the
+hand-authored ones — same parser, same graph — so the corpus is now 32 notes.
 
 ![The citation graph — two claim clusters](docs/img/graph-overview.png)
 

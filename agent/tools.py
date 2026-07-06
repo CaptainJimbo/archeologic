@@ -154,6 +154,35 @@ class ToolContext:
             timeout=cfg.request_timeout,
             headers={"User-Agent": cfg.user_agent},
         )
+        # Provenance persists to disk so the gate works across separate
+        # processes (e.g. one tool call per invocation, as a subagent drives it).
+        self._load_ledger()
+
+    def _load_ledger(self):
+        p = self.cfg.run_dir / "provenance.json"
+        if p.exists():
+            d = json.loads(p.read_text(encoding="utf-8"))
+            self.fetched_by_url = d.get("by_url", {})
+            self.fetched_by_id = d.get("by_id", {})
+            self.fetch_count = d.get("fetch_count", 0)
+            self.notes_written = d.get("notes_written", [])
+            self.gate_rejections = d.get("gate_rejections", 0)
+
+    def _save_ledger(self):
+        self.cfg.run_dir.mkdir(parents=True, exist_ok=True)
+        (self.cfg.run_dir / "provenance.json").write_text(
+            json.dumps(
+                {
+                    "by_url": self.fetched_by_url,
+                    "by_id": self.fetched_by_id,
+                    "fetch_count": self.fetch_count,
+                    "notes_written": self.notes_written,
+                    "gate_rejections": self.gate_rejections,
+                },
+                indent=2,
+            ),
+            encoding="utf-8",
+        )
 
     # -- dispatch -------------------------------------------------------------
     def dispatch(self, name: str, args: dict) -> tuple[str, bool]:
@@ -241,6 +270,7 @@ class ToolContext:
             self.fetched_by_url[key] = record
         self.fetched_by_id[fetch_id] = record
         self.fetch_count += 1
+        self._save_ledger()
 
         excerpt = text[:_MAX_TEXT]
         more = "" if len(text) <= _MAX_TEXT else f"\n[... {len(text)-_MAX_TEXT} more chars stored on disk]"
@@ -279,6 +309,7 @@ class ToolContext:
             )
             if not grounded:
                 self.gate_rejections += 1
+                self._save_ledger()
                 return (
                     "REJECTED: a `source` note must correspond to a document "
                     "fetched THIS RUN. Call fetch_document(url) first, then write "
@@ -294,6 +325,7 @@ class ToolContext:
         path = wiki_io.write_note(self.cfg.out_dir, meta, args["body"])
         if args["id"] not in self.notes_written:
             self.notes_written.append(args["id"])
+        self._save_ledger()
         return f"wrote {path.name} ({ntype}).", False
 
     def provenance(self) -> dict:

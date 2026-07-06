@@ -1,12 +1,36 @@
 {
   "nodes": [
     {
+      "id": "claim-thera-destroyed-minoans",
+      "type": "claim",
+      "title": "The Thera (Santorini) eruption destroyed Minoan civilization",
+      "status": "refuted",
+      "confidence": 0.2,
+      "body": "**The popular claim.** The Bronze Age Plinian eruption of Thera (VEI 7) so devastated Minoan Crete — through ashfall, earthquakes and tsunamis — that it destroyed Minoan civilization outright. This is the version in textbooks, documentaries and the Atlantis literature.\n\n**Origin (primary vs echo).** The thesis traces to a single root: Spyridon Marinatos' 1939 *Antiquity* paper (see [[scholar-spyridon-marinatos]]), which proposed volcanic destruction of Minoan Crete decades before Akrotiri was even excavated. Most later popular repetitions are ECHOES of Marinatos, not independent evidence — a textbook citogenesis funnel.\n\n**Why specialists reject it as stated.** The eruption buried [[site-akrotiri-thera]] during the **Late Minoan IA** ceramic phase. But the near-simultaneous destructions of the Cretan palaces and towns ([[site-minoan-crete]]) date archaeologically to **Late Minoan IB** — roughly 30-50 years, and by the radiocarbon [[claim-thera-high-chronology|~1600 BCE eruption date]] as much as ~100-150 years, LATER. This chronological separation is the crux ([[claim-thera-lmib-gap]]). After the eruption the Minoans demonstrably RECOVERED: LM IB is often called the zenith of Minoan material culture, with sites rebuilt (Palaikastro, Zakros, Phaistos). A civilization that flourishes for a generation or more after the alleged killing blow was not destroyed by it.\n\n**What the physical evidence actually shows.** The eruption did reach Crete — verified tsunami deposits at Palaikastro ([[source-bruins-2009]]) and Malia ([[source-lespez-2021]]) — but the run-up was modest (max ~8 m asl, ~400 m inland at Malia) and the impact coastal and local, not island-wide annihilation. The founding stratigraphic exchange ([[source-pichler-schiering-1977]]) further showed there was only ONE eruption, so no second volcanic event coincides with the later LM IB destructions.\n\n**Verdict.** Refuted as literally stated. Held at 0.2 (a popular oversimplification, not a live scholarly position). The defensible residue — that the eruption may have contributed INDIRECTLY to a slower decline — is tracked separately at [[claim-thera-indirect-contribution]].\n"
+    },
+    {
       "id": "claim-thera-high-chronology",
       "type": "claim",
       "title": "The Thera (Santorini) eruption dates to c. 1600 BCE (high chronology)",
       "status": "contested",
       "confidence": 0.6,
       "body": "The **radiocarbon-driven** date for the Bronze Age eruption that buried\n[[site-akrotiri-thera]]: roughly the late 17th to mid-16th century BCE. The\nfoundational exhibit is the [[source-friedrich-2006|buried olive branch]]\nwiggle-matched to 1627–1600 BCE; later annual-resolution ¹⁴C work\n([[source-pearson-2018]]) supports a 16th-century date and narrows the offset.\n\n**Contested against** [[claim-thera-low-chronology]], the archaeologically-derived\ndate about a century later. The gap matters: it re-times the entire east\nMediterranean Late Bronze Age and the Aegean–Egyptian synchronisms. Held at 0.6 —\nthe scientific dating has strengthened the high chronology, but the conflict with\nEgyptian historical chronology is real and unresolved, so this is not called\nsettled.\n"
+    },
+    {
+      "id": "claim-thera-indirect-contribution",
+      "type": "claim",
+      "title": "The Thera eruption may have contributed indirectly to the later decline of Minoan Crete",
+      "status": "contested",
+      "confidence": 0.45,
+      "body": "The defensible middle ground left standing once the direct-destruction claim ([[claim-thera-destroyed-minoans]]) is set aside.\n\n**The thesis.** Even though the eruption did not cause the LM IB destructions, its aftermath — crop failure and ashfall on farmland, disrupted maritime trade, damaged coastal harbours from tsunamis, and psychological/religious shock — could have quietly weakened Neopalatial society, so that the richness of LM IB masked underlying economic and political fragility that led to collapse a generation or two later. This is essentially the Driessen & Macdonald *The Troubled Island* argument.\n\n**Evidence for.** The eruption was genuinely enormous (VEI 7, ~78-86 km3 DRE) and its tsunamis reached the north Cretan coast, including the palatial centre of Malia ([[source-lespez-2021]]), whose authors explicitly frame their find as opening 'new research on... impact and consequences for the Minoan civilization.'\n\n**Evidence against / caveats.** The measured impact was modest (run-up not exceeding ~8 m, inundation ~400 m inland) and local to the coast; interior sites show quick rebuilding and a cultural florescence. Subsequent work suggests the 'hidden decline' was not a general island-wide pattern, and separating a real volcanic contribution from ordinary Bronze Age instability is very hard.\n\nHeld at 0.45 - genuinely contested: plausible and argued by serious scholars, but under-determined by the evidence and easy to over-read backwards from the known collapse. It disputes the strong claim by offering a weaker, slower causal story rather than endorsing it.\n"
+    },
+    {
+      "id": "claim-thera-lmib-gap",
+      "type": "claim",
+      "title": "The Thera eruption (LM IA) predates the Late Minoan IB palace destructions by decades to ~150 years",
+      "status": "supported",
+      "confidence": 0.82,
+      "body": "The chronological keystone that dismantles the direct-destruction thesis ([[claim-thera-destroyed-minoans]]).\n\n**Two different ceramic phases.** The eruption fell during **Late Minoan IA**: the youngest pottery sealed beneath the Santorini ash and in the derived tsunami deposits on Crete is LM IA ([[source-bruins-2009]]). The wave of destructions that ended the Cretan palatial (Neopalatial) system belongs to **Late Minoan IB** — a demonstrably later phase, whose diagnostic Marine Style pottery post-dates the eruption.\n\n**Size of the gap.** By the conventional archaeological chronology the offset is ~30-50 years (stated explicitly in [[source-pichler-schiering-1977]]). By the radiocarbon [[claim-thera-high-chronology|high chronology (~1627-1600 BCE)]] the eruption is pushed earlier still, widening the gap to ~100-150 years before the LM IB horizon (~1500-1450 BCE). Either way the eruption and the palace destructions are separated by at least a full ceramic phase.\n\n**No second eruption to blame.** [[source-pichler-schiering-1977]] showed geologically that there was a single eruption, not two events ~50 years apart, so there is no volcanic paroxysm coinciding with the LM IB destructions. Their causes (internal upheaval, possible Mycenaean takeover, further earthquakes) are debated but are NOT the Theran eruption.\n\nHeld at 0.82: the LM IA / LM IB separation is broadly accepted; residual uncertainty is over the exact magnitude of the gap, which rides on the unresolved high-vs-low chronology dispute.\n"
     },
     {
       "id": "claim-thera-low-chronology",
@@ -89,6 +113,14 @@
       "body": "Greek archaeologist who excavated the [[site-great-tumulus]] at\n[[site-aigai-vergina]] in 1977–78 and announced the unlooted royal tombs to the\nworld. He identified [[site-tomb-ii]] as the burial of **Philip II** — the\nfounding claim, [[claim-tomb-ii-philip-ii]] — and staked his professional legacy\non it.\n\nHis identification is the historical root of the entire debate: every later\npaper, whether it defends or attacks Philip II, is arguing with Andronikos.\nTracking him as a node makes the graph show *why* the literature clusters the way\nit does — the dispute is, in part, about whether the excavator got it right.\n"
     },
     {
+      "id": "scholar-spyridon-marinatos",
+      "type": "scholar",
+      "title": "Spyridon Marinatos",
+      "status": "reference",
+      "confidence": 0.9,
+      "body": "Greek archaeologist (1901-1974), excavator of [[site-akrotiri-thera]] from 1967. Originator of the volcanic-destruction hypothesis: his 1939 *Antiquity* paper ('The volcanic destruction of Minoan Crete', Antiquity 13: 425-439) proposed that the Thera eruption devastated Minoan Crete — the root claim [[claim-thera-destroyed-minoans]] and the source of nearly every later popular echo.\n\nIncluded as the protagonist node for this debate — the counterpart to [[scholar-sturt-manning]] in the chronology dispute. Note the epistemic point the graph should surface: Marinatos advanced the theory in 1939, DECADES before Akrotiri was dug and long before the LM IA/LM IB stratigraphy and radiocarbon work that later undercut it. No `source` node is created for the 1939 paper here because it was not fetched this run; this scholar node records the attribution without standing in for the document.\n"
+    },
+    {
       "id": "scholar-sturt-manning",
       "type": "scholar",
       "title": "Sturt W. Manning",
@@ -119,6 +151,14 @@
       "status": "reference",
       "confidence": 0.97,
       "body": "The great earthen mound at [[site-aigai-vergina]] raised over the royal tombs,\nexcavated by [[scholar-manolis-andronikos]] in 1977–78. It covers at least three\ntombs: the looted [[site-tomb-i]], the unlooted [[site-tomb-ii]], and Tomb III\n(the \"Prince's Tomb\").\n\nThe tumulus is the container that ties the whole Vergina dispute together — the\nargument is really about *which body in which chamber under this mound* is which\nMacedonian royal. It is the natural hub node of the cluster.\n"
+    },
+    {
+      "id": "site-minoan-crete",
+      "type": "site",
+      "title": "Minoan Crete (Neopalatial palaces: Knossos, Malia, Phaistos, Zakros)",
+      "status": "reference",
+      "confidence": 0.96,
+      "body": "The island of Crete and its Bronze Age Minoan palace centres — Knossos, Malia, Phaistos, Zakros — the 'civilization' whose alleged destruction by the Thera eruption is under examination ([[claim-thera-destroyed-minoans]]).\n\nThe relevant sequence is the Neopalatial period, spanning **Late Minoan IA** (during which the eruption occurred and buried [[site-akrotiri-thera]] ~120 km to the north) and **Late Minoan IB** (during which a wave of destructions ended most palace centres). The gap between those two phases is the whole argument ([[claim-thera-lmib-gap]]).\n\nA place node, not a document. Distinct from [[site-akrotiri-thera]], which is the Cycladic town on Thera itself; this node is the Cretan mainland target of the destruction claim. Tsunami evidence has been documented on its north coast at Palaikastro and Malia (see [[source-bruins-2009]], [[source-lespez-2021]]).\n"
     },
     {
       "id": "site-tomb-i",
@@ -153,6 +193,14 @@
       "body": "**Peer-reviewed article, PNAS, 2015.** Fetched and verified via PubMed Central\n(PMC4538655); full citation and DOI confirmed from the article record.\n\nShifts [[scholar-antonis-bartsiokas]]'s argument to a different tomb. Reports a\nknee ankylosis (fused at ~79°, pierced by a healed penetrating lesion) in the\n[[site-tomb-i]] male — see [[claim-tomb-i-knee-lameness]] — and reads it as the\nlameness Philip II suffered from a 339 BC lance wound. Concludes Philip II lies in\nTomb I, with Cleopatra and their newborn; and, consequently, that\n[[site-tomb-ii]] holds Arrhidaios and Eurydice.\n\nSupports [[claim-tomb-i-philip-ii]]; disputes [[claim-tomb-ii-philip-ii]]. A\nstriking, much-discussed paper that nonetheless remains a minority position —\ncovered in the synthesis [[source-vergina-review-2023]].\n"
     },
     {
+      "id": "source-bruins-2009",
+      "type": "source",
+      "title": "Bruins, van der Plicht & MacGillivray 2009 — The Minoan Santorini Eruption and Tsunami Deposits in Palaikastro (Crete)",
+      "status": "primary",
+      "confidence": 0.9,
+      "body": "**Peer-reviewed article, Radiocarbon, 2009 (open access).** Fetched via Cambridge Core (DOI 10.1017/S003382220005579X); the full abstract was returned and grounds this note.\n\nPrimary geoarchaeology. The team found extensive **tsunami deposits at Palaikastro on the north coast of Crete** containing reworked volcanic Santorini ash — physical proof the eruption reached Crete (airborne ashfall preceded a tsunami generated during a later eruption phase). So the eruption's effects on Crete are REAL, which is why the popular claim is not simply nonsense.\n\nBut two data points cut against direct destruction: (1) the **youngest pottery in the tsunami deposits is Late Minoan IA**, fixing the eruption in LM IA — before the LM IB palace destructions ([[claim-thera-lmib-gap]]); (2) the radiocarbon dates on animal bone in the deposits (~3350 BP) match the Akrotiri eruption date, wiggle-matched to **1627-1600 cal BCE** ([[claim-thera-high-chronology]]), ~100-150 yr older than the Egyptian-synchronism date the authors note is 'conventionally linked at ~1500 BCE.'\n\nSupports [[claim-thera-lmib-gap]] and disputes [[claim-thera-destroyed-minoans]]: the eruption struck Crete during LM IA, not at the LM IB destruction horizon. A primary datum (excavated tsunami stratigraphy + on-site 14C), not an echo.\n"
+    },
+    {
       "id": "source-ehrlich-2023",
       "type": "source",
       "title": "Ehrlich et al. 2023 — Olive shrub buried on Therasia supports a mid-16th century BCE date for the Thera eruption",
@@ -167,6 +215,14 @@
       "status": "primary",
       "confidence": 0.9,
       "body": "**Peer-reviewed article, Science, 2006.** Fetched and verified via the PubMed\nrecord (PMID 16645088); author list and result confirmed.\n\nReports an olive tree buried alive in growth position by the Thera tephra.\nRadiocarbon wiggle-matching of successive tree-ring segments constrains the\neruption to **1627–1600 BCE at 95.4% probability** — about a century earlier than\nthe Egyptian-synchronism date. The keystone exhibit for\n[[claim-thera-high-chronology]].\n\nA root of the high-chronology citation funnel: much later argument leans on this\nsingle buried branch, which is also why the branch itself became contested (its\nring count and the assumption it died in the eruption have both been questioned).\nA clean example of why the graph distinguishes a primary datum from the many\npapers that echo it.\n"
+    },
+    {
+      "id": "source-lespez-2021",
+      "type": "source",
+      "title": "Lespez et al. 2021 — Discovery of a tsunami deposit from the Bronze Age Santorini eruption at Malia (Crete)",
+      "status": "primary",
+      "confidence": 0.9,
+      "body": "**Peer-reviewed article, Scientific Reports, 2021 (open access).** Fetched via Nature (DOI 10.1038/s41598-021-94859-1); full abstract and introduction returned and ground this note.\n\nModern primary geoarchaeology confirming and bounding the eruption's reach onto Crete. A geomorphological survey west of the palatial town of **Malia** (north Crete, ~120 km from Santorini) found a unique Late Minoan erosional event capped by a high-energy marine sand unit: a **tsunami that inundated up to ~400 m inland**, reaching the outskirts of the palatial centre. Radiocarbon brackets the event (pre-tsunami 1744-1544 BCE; post-event 1509-1430 BCE).\n\nTwo load-bearing quantities temper the popular claim: the reconstructed **run-up did not exceed ~8 m asl**, and Malia was not destroyed by it — the town was abandoned only much later, in **LM IIIB (13th c. BCE)**. So the tsunami impact was real but coastal, localized and survivable, not civilization-ending. The eruption is characterized as VEI 7, ~78-86 km3 DRE — genuinely one of the largest of the Holocene.\n\nThe authors explicitly frame the find as opening 'new research on... impact and consequences for the Minoan civilization' — hence it supports the weaker [[claim-thera-indirect-contribution]] while disputing the strong [[claim-thera-destroyed-minoans]]. (Co-author Charlotte Pearson also authored the chronology paper [[source-pearson-2018]].)\n"
     },
     {
       "id": "source-musgrave-2010",
@@ -185,6 +241,14 @@
       "body": "**Peer-reviewed article, Science Advances, 2018 (open access).** Verified via the\njournal record and PMC (PMC6093623); the paywalled HTML blocked a direct read but\nthe citation, authorship, and result are confirmed across the indexed record.\n\nUses annual-resolution radiocarbon measurements on known-age tree rings to refine\nthe calibration curve around the eruption window. Concludes the data indicate a\n**16th-century BCE** date, narrowing — though not eliminating — the offset from\nthe archaeological chronology. Supports [[claim-thera-high-chronology]];\nco-authored by [[scholar-sturt-manning]].\n\nSits *downstream* of [[source-friedrich-2006]] in the argument but is\nmethodologically independent (calibration, not the buried branch), so it\ngenuinely strengthens the high chronology rather than merely echoing it — the\ndistinction the citogenesis check is built to surface.\n"
     },
     {
+      "id": "source-pichler-schiering-1977",
+      "type": "source",
+      "title": "Pichler & Schiering 1977 — The Thera eruption and Late Minoan-IB destructions on Crete",
+      "status": "primary",
+      "confidence": 0.85,
+      "body": "**Peer-reviewed Letter, Nature, 1977.** Fetched via the Nature record (DOI 10.1038/267819a0); the full abstract was returned and is the basis for this note (the body text is paywalled).\n\nThe abstract is directly load-bearing for the destruction debate. It states that '[[scholar-spyridon-marinatos|Marinatos]]' theory of the decline of the Minoan civilisation by paroxysmal volcanic events of the Thera volcano is widely accepted,' then identifies 'the main and controversial problem': the LM IB devastations of Cretan sites and palaces are dated archaeologically as **30-50 yr later** than the LM IA destruction of Akrotiri on Santorini. Marinatos' theory would therefore require TWO eruptions (~1500 BCE for LM IA, ~1450 BCE for LM IB).\n\nThe authors' own fieldwork on Santorini finds 'neither products of two volcanic outbursts nor of a two-phase eruption... differing in a time interval of about 50 yr' — i.e. a SINGLE eruption. Load-bearing consequence: with only one eruption (in LM IA), there is no volcanic event to blame for the later LM IB Cretan destructions. Cited for [[claim-thera-lmib-gap]] and against [[claim-thera-destroyed-minoans]].\n\nA near-primary node in the citation graph: a geological field study, not a textbook echo, and one of the two founding 1977-78 Nature papers (with Sparks et al. 1978) that first pinned down the chronological separation.\n"
+    },
+    {
       "id": "source-vergina-review-2023",
       "type": "source",
       "title": "Maniatis et al. 2023 — The identification of the Royal Tombs in the Great Tumulus at Vergina: A comprehensive review",
@@ -194,6 +258,51 @@
     }
   ],
   "links": [
+    {
+      "source": "claim-thera-destroyed-minoans",
+      "target": "claim-thera-lmib-gap",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-thera-destroyed-minoans",
+      "target": "claim-thera-indirect-contribution",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-thera-destroyed-minoans",
+      "target": "source-pichler-schiering-1977",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-thera-destroyed-minoans",
+      "target": "source-bruins-2009",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-thera-destroyed-minoans",
+      "target": "source-lespez-2021",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-thera-destroyed-minoans",
+      "target": "claim-thera-high-chronology",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-thera-destroyed-minoans",
+      "target": "site-akrotiri-thera",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-thera-destroyed-minoans",
+      "target": "site-minoan-crete",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-thera-destroyed-minoans",
+      "target": "scholar-spyridon-marinatos",
+      "rel": "mentions"
+    },
     {
       "source": "claim-thera-high-chronology",
       "target": "claim-thera-low-chronology",
@@ -212,6 +321,41 @@
     {
       "source": "claim-thera-high-chronology",
       "target": "site-akrotiri-thera",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-thera-indirect-contribution",
+      "target": "claim-thera-destroyed-minoans",
+      "rel": "disputes"
+    },
+    {
+      "source": "claim-thera-indirect-contribution",
+      "target": "source-lespez-2021",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-thera-indirect-contribution",
+      "target": "site-minoan-crete",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-thera-lmib-gap",
+      "target": "claim-thera-destroyed-minoans",
+      "rel": "disputes"
+    },
+    {
+      "source": "claim-thera-lmib-gap",
+      "target": "source-pichler-schiering-1977",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-thera-lmib-gap",
+      "target": "source-bruins-2009",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-thera-lmib-gap",
+      "target": "claim-thera-high-chronology",
       "rel": "cites"
     },
     {
@@ -445,6 +589,21 @@
       "rel": "mentions"
     },
     {
+      "source": "scholar-spyridon-marinatos",
+      "target": "claim-thera-destroyed-minoans",
+      "rel": "supports"
+    },
+    {
+      "source": "scholar-spyridon-marinatos",
+      "target": "site-akrotiri-thera",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-spyridon-marinatos",
+      "target": "scholar-sturt-manning",
+      "rel": "mentions"
+    },
+    {
       "source": "scholar-sturt-manning",
       "target": "claim-thera-high-chronology",
       "rel": "supports"
@@ -502,6 +661,31 @@
     {
       "source": "site-great-tumulus",
       "target": "scholar-manolis-andronikos",
+      "rel": "mentions"
+    },
+    {
+      "source": "site-minoan-crete",
+      "target": "claim-thera-destroyed-minoans",
+      "rel": "mentions"
+    },
+    {
+      "source": "site-minoan-crete",
+      "target": "site-akrotiri-thera",
+      "rel": "mentions"
+    },
+    {
+      "source": "site-minoan-crete",
+      "target": "claim-thera-lmib-gap",
+      "rel": "mentions"
+    },
+    {
+      "source": "site-minoan-crete",
+      "target": "source-bruins-2009",
+      "rel": "mentions"
+    },
+    {
+      "source": "site-minoan-crete",
+      "target": "source-lespez-2021",
       "rel": "mentions"
     },
     {
@@ -610,6 +794,26 @@
       "rel": "mentions"
     },
     {
+      "source": "source-bruins-2009",
+      "target": "claim-thera-destroyed-minoans",
+      "rel": "disputes"
+    },
+    {
+      "source": "source-bruins-2009",
+      "target": "claim-thera-lmib-gap",
+      "rel": "supports"
+    },
+    {
+      "source": "source-bruins-2009",
+      "target": "claim-thera-high-chronology",
+      "rel": "cites"
+    },
+    {
+      "source": "source-bruins-2009",
+      "target": "site-minoan-crete",
+      "rel": "mentions"
+    },
+    {
       "source": "source-ehrlich-2023",
       "target": "claim-thera-high-chronology",
       "rel": "supports"
@@ -638,6 +842,26 @@
       "source": "source-friedrich-2006",
       "target": "site-akrotiri-thera",
       "rel": "cites"
+    },
+    {
+      "source": "source-lespez-2021",
+      "target": "claim-thera-indirect-contribution",
+      "rel": "supports"
+    },
+    {
+      "source": "source-lespez-2021",
+      "target": "claim-thera-destroyed-minoans",
+      "rel": "disputes"
+    },
+    {
+      "source": "source-lespez-2021",
+      "target": "site-minoan-crete",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-lespez-2021",
+      "target": "source-pearson-2018",
+      "rel": "mentions"
     },
     {
       "source": "source-musgrave-2010",
@@ -685,6 +909,26 @@
       "rel": "mentions"
     },
     {
+      "source": "source-pichler-schiering-1977",
+      "target": "claim-thera-destroyed-minoans",
+      "rel": "disputes"
+    },
+    {
+      "source": "source-pichler-schiering-1977",
+      "target": "claim-thera-lmib-gap",
+      "rel": "supports"
+    },
+    {
+      "source": "source-pichler-schiering-1977",
+      "target": "site-akrotiri-thera",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-pichler-schiering-1977",
+      "target": "scholar-spyridon-marinatos",
+      "rel": "mentions"
+    },
+    {
       "source": "source-vergina-review-2023",
       "target": "claim-tomb-ii-philip-ii",
       "rel": "cites"
@@ -721,19 +965,19 @@
     }
   ],
   "meta": {
-    "node_count": 24,
-    "link_count": 105,
+    "node_count": 32,
+    "link_count": 141,
     "by_type": {
-      "claim": 7,
-      "scholar": 5,
-      "site": 5,
-      "source": 7
+      "claim": 10,
+      "scholar": 6,
+      "site": 6,
+      "source": 10
     },
     "by_rel": {
-      "disputes": 12,
-      "cites": 32,
-      "supports": 17,
-      "mentions": 44
+      "mentions": 62,
+      "cites": 41,
+      "disputes": 17,
+      "supports": 21
     }
   }
 }
