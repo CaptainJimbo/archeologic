@@ -1,0 +1,36 @@
+{
+  "_about": "Golden set for the ArcheoLogic evaluation layer. Each entry pairs a claim note id with the claim's KNOWN scholarly status, in three buckets: settled-true, settled-false, contested. The system is scored on whether its verdict (the note's status) matches the bucket, whether the confidence is calibrated to the bucket, and whether the sources it rests on were actually fetched. A correct system must call a contested claim 'contested' — not pick a side. This is a v0 seed (~13 claims over 3 domains); the spec targets 30-50.",
+  "buckets": {
+    "settled-true":  {"accept_status": ["supported", "settled"],  "confidence_band": [0.70, 1.00]},
+    "settled-false": {"accept_status": ["refuted"],               "confidence_band": [0.00, 0.35]},
+    "contested":     {"accept_status": ["contested"],             "confidence_band": [0.30, 0.70]}
+  },
+  "claims": [
+    {"id": "claim-tomb-ii-philip-ii", "domain": "vergina", "expected": "contested",
+     "rationale": "Andronikos's Philip II identification is peer-reviewed but genuinely disputed; no inscription settles it."},
+    {"id": "claim-tomb-ii-arrhidaios", "domain": "vergina", "expected": "contested",
+     "rationale": "Bartsiokas's Arrhidaios reading has forensic support but is not consensus."},
+    {"id": "claim-tomb-i-philip-ii", "domain": "vergina", "expected": "contested",
+     "rationale": "The Tomb I lameness argument (Bartsiokas 2015) is a serious published minority view."},
+    {"id": "claim-tomb-ii-green-cremation", "domain": "vergina", "expected": "contested",
+     "rationale": "Green- vs dry-cremation is the live forensic crux; better-supported recently but not closed."},
+    {"id": "claim-thera-high-chronology", "domain": "thera", "expected": "contested",
+     "rationale": "Radiocarbon favours ~1600 BCE but conflicts with Egyptian archaeological synchronisms; unresolved."},
+    {"id": "claim-thera-low-chronology", "domain": "thera", "expected": "contested",
+     "rationale": "Archaeological ~1500 BCE date is a defended minority position against the radiocarbon date."},
+    {"id": "claim-thera-indirect-contribution", "domain": "thera", "expected": "contested",
+     "rationale": "Whether the eruption indirectly hastened Minoan decline is genuinely open."},
+    {"id": "claim-mask-authenticity-dispute", "domain": "mycenae", "expected": "contested",
+     "rationale": "Traill/Calder tampering allegations vs Easton's rebuttal; no metallurgical proof either way."},
+
+    {"id": "claim-thera-destroyed-minoans", "domain": "thera", "expected": "settled-false",
+     "rationale": "The eruption (LM IA) predates the LM IB palace destructions by 30-150 yr; direct destruction is rejected."},
+    {"id": "claim-mask-of-agamemnon", "domain": "mycenae", "expected": "settled-false",
+     "rationale": "The mask is LH I (~1600-1550 BCE), ~300 yr before Agamemnon's traditional date; attribution rejected."},
+
+    {"id": "claim-thera-lmib-gap", "domain": "thera", "expected": "settled-true",
+     "rationale": "The chronological separation between the eruption and the LM IB destructions is well established."},
+    {"id": "claim-mask-chronological-gap", "domain": "mycenae", "expected": "settled-true",
+     "rationale": "The mask's Late Helladic I date is securely established by grave-goods and Aegean chronology."}
+  ]
+}
