@@ -150,6 +150,21 @@ cd web && npm install && npm run dev   # open the printed localhost URL
 The graph is fully static — no API key needed to view it. (Growing the corpus
 with the investigation agent is what will use the Claude API; viewing it is free.)
 
+## Publishing (step 6)
+
+`.github/workflows/deploy-pages.yml` builds the graph + web app and publishes it
+to **GitHub Pages**. It's **manual-trigger only** — publishing is public and
+deliberate, so it never deploys on a push by itself. One-time setup:
+
+1. Pages from a **private** repo needs a paid plan (**GitHub Pro** suffices; on the
+   free plan the repo must be public). The published *site* is public either way —
+   independent of repo visibility — so the demo can go live while the code stays
+   private.
+2. Repo → **Settings → Pages → Source: GitHub Actions**, then run the workflow.
+
+Note: the published site bakes the full wiki into `graph.json`, so deploying makes
+the **note content** public even if the repository stays private.
+
 ## Stack (planned)
 
 - **Agent:** Claude API (agentic investigation loop, tool use)
