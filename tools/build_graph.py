@@ -86,6 +86,64 @@ def parse_frontmatter(fm: str) -> dict:
     return data
 
 
+def compute_citation_metrics(nodes: list[dict], links: list[dict]) -> None:
+    """Annotate nodes with citation tier + citogenesis funnels (step 3).
+
+    Derivation follows `cites` edges: `a cites b` means a rests on b, so b is
+    nearer the root. A node's *funnel* is everything that transitively cites it
+    (its ancestors in the cites graph) — how much ultimately rests on it. A node
+    that many chains funnel into but which itself cites little is a citation
+    ROOT; a root with a large funnel is where citogenesis shows up (many claims
+    tracing back to one source). Source nodes are also tiered primary vs
+    secondary (a review/echo) from their frontmatter status.
+    """
+    # Citogenesis is about EVIDENCE: many claims tracing back to one source or
+    # originating scholar. A place (site) cited by many claims is a shared hub,
+    # not citogenesis — so only source/scholar nodes are eligible to be roots.
+    # The signal is transitive funnel size, not direct citation count (the
+    # classic case is one primary paper reached through a chain of echoes).
+    ROOT_TYPES = {"source", "scholar"}
+    FUNNEL_MIN = 3    # this many nodes must transitively rest on it
+
+    type_by_id = {n["id"]: n["type"] for n in nodes}
+    ids = set(type_by_id)
+    cites_in: dict[str, set] = {i: set() for i in ids}
+    cites_out: dict[str, set] = {i: set() for i in ids}
+    for l in links:
+        if l["rel"] == "cites":
+            cites_out[l["source"]].add(l["target"])
+            cites_in[l["target"]].add(l["source"])
+
+    def ancestors(root: str) -> set:
+        seen: set[str] = set()
+        stack = list(cites_in[root])
+        while stack:
+            x = stack.pop()
+            if x in seen:
+                continue
+            seen.add(x)
+            stack.extend(cites_in[x] - seen)
+        return seen
+
+    funnels = {i: ancestors(i) for i in ids}
+    roots = {
+        i for i in ids
+        if type_by_id[i] in ROOT_TYPES and len(funnels[i]) >= FUNNEL_MIN
+    }
+
+    for n in nodes:
+        i = n["id"]
+        n["in_cites"] = len(cites_in[i])
+        n["out_cites"] = len(cites_out[i])
+        n["funnel_size"] = len(funnels[i])
+        n["citogenesis_root"] = i in roots
+        if i in roots:
+            n["funnel_members"] = sorted(funnels[i])
+        if n["type"] == "source":
+            n["tier"] = "secondary" if n.get("status") == "secondary" else "primary"
+        n["traces_to"] = sorted(r for r in roots if i in funnels[r])
+
+
 def main() -> int:
     ap = argparse.ArgumentParser(description="Parse a wiki/ dir into graph.json")
     ap.add_argument("--wiki", type=Path, default=DEFAULT_WIKI,
@@ -180,6 +238,9 @@ def main() -> int:
             print(f"  {src} --{rel}--> {tgt}", file=sys.stderr)
         return 1
 
+    # citation analysis (step 3): tiers + citogenesis funnels
+    compute_citation_metrics(nodes, links)
+
     # summary counts
     by_type: dict[str, int] = {}
     for n in nodes:
@@ -188,11 +249,22 @@ def main() -> int:
     for l in links:
         by_rel[l["rel"]] = by_rel.get(l["rel"], 0) + 1
 
+    citogenesis_roots = sorted(
+        (
+            {"id": n["id"], "title": n["title"], "type": n["type"],
+             "funnel_size": n["funnel_size"]}
+            for n in nodes if n.get("citogenesis_root")
+        ),
+        key=lambda d: d["funnel_size"],
+        reverse=True,
+    )
+
     graph = {
         "nodes": nodes,
         "links": links,
         "meta": {"node_count": len(nodes), "link_count": len(links),
-                 "by_type": by_type, "by_rel": by_rel},
+                 "by_type": by_type, "by_rel": by_rel,
+                 "citogenesis_roots": citogenesis_roots},
     }
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(json.dumps(graph, indent=2, ensure_ascii=False), encoding="utf-8")
@@ -201,6 +273,10 @@ def main() -> int:
     print(f"ok: {len(nodes)} nodes, {len(links)} links -> {rel}")
     print(f"  nodes by type: {by_type}")
     print(f"  links by rel:  {by_rel}")
+    if citogenesis_roots:
+        print(f"  citogenesis roots ({len(citogenesis_roots)}):")
+        for r in citogenesis_roots:
+            print(f"    ◈ {r['id']} — {r['funnel_size']} notes funnel in")
     return 0
 
 
