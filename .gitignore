@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.python-version
+
+# Node / frontend
+node_modules/
+web/dist/
+dist/
+
+# Fetched corpus & large artifacts (wiki notes ARE committed; raw sources are not)
+corpus/
+data/raw/
+*.pdf
+
+# Env / secrets
+.env
+.env.*
+*.pem
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Logs / caches / scratch
+*.log
+.cache/
+.playwright-mcp/
+.ipynb_checkpoints/
