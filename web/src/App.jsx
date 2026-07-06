@@ -60,6 +60,16 @@ export default function App() {
       .then(setData);
   }, []);
 
+  // deep-link: /?focus=<node-id> opens that node's dossier (and its funnel)
+  useEffect(() => {
+    if (!data) return;
+    const id = new URLSearchParams(window.location.search).get("focus");
+    if (id) {
+      const n = data.nodes.find((x) => x.id === id);
+      if (n) setSelected(n);
+    }
+  }, [data]);
+
   const nodesById = useMemo(() => {
     const m = {};
     if (data) for (const n of data.nodes) m[n.id] = n;
@@ -94,6 +104,16 @@ export default function App() {
     return map;
   }, [data]);
 
+  // citogenesis funnels: root id -> set of node ids that trace into it (+ root)
+  const funnelById = useMemo(() => {
+    const m = {};
+    if (data)
+      for (const n of data.nodes)
+        if (n.citogenesis_root)
+          m[n.id] = new Set([...(n.funnel_members || []), n.id]);
+    return m;
+  }, [data]);
+
   const graphData = useMemo(() => {
     if (!data) return { nodes: [], links: [] };
     const nodes = data.nodes.filter((n) => filters[n.type]);
@@ -108,14 +128,27 @@ export default function App() {
 
   const focusId = hoverId || (selected && selected.id) || null;
 
-  const nodeSize = useCallback((n) => 2.6 + Math.sqrt(degree[n.id] || 1) * 1.25, [degree]);
+  // Focus a citogenesis root → highlight its whole funnel (the shape). Focus any
+  // other node → highlight its immediate neighbours.
+  const highlightSet = useMemo(() => {
+    if (!focusId) return null;
+    const s = new Set([focusId]);
+    if (neighbors[focusId]) neighbors[focusId].forEach((x) => s.add(x));
+    if (funnelById[focusId]) funnelById[focusId].forEach((x) => s.add(x));
+    return s;
+  }, [focusId, neighbors, funnelById]);
+
+  const nodeSize = useCallback(
+    (n) => 2.6 + Math.sqrt(degree[n.id] || 1) * 1.25 + (n.citogenesis_root ? 1.6 : 0),
+    [degree]
+  );
 
   const paintNode = useCallback(
     (node, ctx, scale) => {
       const r = nodeSize(node);
-      const dim = focusId && focusId !== node.id && !neighbors[focusId]?.has(node.id);
+      const dim = highlightSet && !highlightSet.has(node.id);
       const color = TYPE_COLOR[node.type] || "#ccc";
-      ctx.globalAlpha = dim ? 0.15 : 1;
+      ctx.globalAlpha = dim ? 0.12 : 1;
 
       // glow for the focused node
       if (focusId === node.id) {
@@ -124,29 +157,53 @@ export default function App() {
         ctx.fillStyle = color + "33";
         ctx.fill();
       }
+
+      // body — secondary/echo sources drawn hollow (lighter evidentiary weight)
+      const echo = node.type === "source" && node.tier === "secondary";
       ctx.beginPath();
       ctx.arc(node.x, node.y, r, 0, 2 * Math.PI);
-      ctx.fillStyle = color;
-      ctx.fill();
+      if (echo) {
+        ctx.fillStyle = "#0e1014";
+        ctx.fill();
+        ctx.lineWidth = 1.5 / scale;
+        ctx.strokeStyle = color;
+        ctx.stroke();
+      } else {
+        ctx.fillStyle = color;
+        ctx.fill();
+      }
+
+      // citogenesis root — gold ring
+      if (node.citogenesis_root) {
+        ctx.beginPath();
+        ctx.arc(node.x, node.y, r + 2.4, 0, 2 * Math.PI);
+        ctx.lineWidth = 1.8 / scale;
+        ctx.strokeStyle = "#f5c451";
+        ctx.stroke();
+      }
+
       if (selected && selected.id === node.id) {
+        ctx.beginPath();
+        ctx.arc(node.x, node.y, r, 0, 2 * Math.PI);
         ctx.lineWidth = 1.5 / scale;
         ctx.strokeStyle = "#fff";
         ctx.stroke();
       }
 
-      // label at closer zoom or when focused
-      if (scale > 1.3 || focusId === node.id || (selected && selected.id === node.id)) {
+      // label when zoomed in, focused, selected, or a citogenesis root
+      if (scale > 1.3 || focusId === node.id || node.citogenesis_root ||
+          (selected && selected.id === node.id)) {
         const label = node.title.length > 34 ? node.title.slice(0, 32) + "…" : node.title;
         const fs = Math.max(2.5, 11 / scale);
         ctx.font = `${fs}px 'Space Grotesk', system-ui, sans-serif`;
         ctx.textAlign = "center";
         ctx.textBaseline = "top";
-        ctx.fillStyle = dim ? "rgba(232,230,225,0.25)" : "rgba(232,230,225,0.92)";
+        ctx.fillStyle = dim ? "rgba(232,230,225,0.22)" : "rgba(232,230,225,0.92)";
         ctx.fillText(label, node.x, node.y + r + 1.5);
       }
       ctx.globalAlpha = 1;
     },
-    [focusId, neighbors, nodeSize, selected]
+    [focusId, highlightSet, nodeSize, selected]
   );
 
   const paintPointer = useCallback(
@@ -163,14 +220,14 @@ export default function App() {
   const linkColor = useCallback(
     (l) => {
       const base = REL_STYLE[l.rel] || REL_STYLE.mentions;
-      if (!focusId) return base.color;
+      if (!highlightSet) return base.color;
       const s = typeof l.source === "object" ? l.source.id : l.source;
       const t = typeof l.target === "object" ? l.target.id : l.target;
-      const on = s === focusId || t === focusId;
-      if (on) return base.color;
-      return "rgba(120,130,145,0.04)";
+      return highlightSet.has(s) && highlightSet.has(t)
+        ? base.color
+        : "rgba(120,130,145,0.04)";
     },
-    [focusId]
+    [highlightSet]
   );
 
   const dossierRef = useRef(null);
@@ -257,12 +314,18 @@ export default function App() {
           <span className="edge-key"><i className="e-dis" />disputes</span>
           <span className="edge-key"><i className="e-cit" />cites</span>
         </div>
+        <div className="legend-group">
+          <span className="lg-title">Evidence</span>
+          <span className="edge-key"><i className="e-root" />citation root</span>
+          <span className="edge-key"><i className="e-echo" />echo / review</span>
+        </div>
       </div>
 
       <footer className="stats">
         {data.meta.node_count} notes · {data.meta.by_rel.disputes || 0} disputes ·{" "}
-        {data.meta.by_rel.supports || 0} supports · {data.meta.by_rel.cites || 0} cites
-        <span className="hint"> — click a node to open its dossier</span>
+        {data.meta.by_rel.supports || 0} supports · {data.meta.by_rel.cites || 0} cites ·{" "}
+        {data.meta.citogenesis_roots ? data.meta.citogenesis_roots.length : 0} citogenesis roots
+        <span className="hint"> — click a gold-ringed node to see its funnel</span>
       </footer>
 
       {selected && (
@@ -284,6 +347,41 @@ export default function App() {
               </span>
             ) : null}
           </div>
+
+          {selected.citogenesis_root && (
+            <div className="citogenesis">
+              ◈ citation root — <b>{selected.funnel_size}</b> notes funnel into this.
+              Everything tracing here is highlighted in the graph.
+            </div>
+          )}
+          {selected.type === "source" && selected.tier && (
+            <div className="tierline">
+              evidence tier:{" "}
+              <b>{selected.tier === "secondary" ? "secondary — echo / review" : "primary"}</b>
+            </div>
+          )}
+          {selected.traces_to && selected.traces_to.length > 0 && (
+            <div className="tracesline">
+              rests on:{" "}
+              {selected.traces_to.map((rid, i) => (
+                <span key={rid}>
+                  {i > 0 ? ", " : ""}
+                  <a
+                    className="wl"
+                    onClick={() => {
+                      const n = nodesById[rid];
+                      if (!n) return;
+                      setSelected(n);
+                      if (fgRef.current && n.x != null) fgRef.current.centerAt(n.x, n.y, 600);
+                    }}
+                  >
+                    {nodesById[rid] ? nodesById[rid].title : rid}
+                  </a>
+                </span>
+              ))}
+            </div>
+          )}
+
           <div
             className="body"
             ref={dossierRef}

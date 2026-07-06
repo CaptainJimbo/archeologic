@@ -137,6 +137,20 @@ body,
 .e-cit {
   border-top: 2px solid rgba(173, 185, 204, 0.5);
 }
+.edge-key i.e-root {
+  width: 11px;
+  height: 11px;
+  border: 1.5px solid #f5c451;
+  border-radius: 50%;
+  background: rgba(245, 196, 81, 0.25);
+}
+.edge-key i.e-echo {
+  width: 11px;
+  height: 11px;
+  border: 1.5px solid var(--source);
+  border-radius: 50%;
+  background: transparent;
+}
 
 /* footer stats */
 .stats {
@@ -255,6 +269,37 @@ body,
   height: 100%;
   background: linear-gradient(90deg, var(--disputes), var(--claim), var(--supports));
 }
+.citogenesis {
+  background: rgba(245, 196, 81, 0.1);
+  border: 1px solid rgba(245, 196, 81, 0.35);
+  border-radius: 7px;
+  padding: 9px 12px;
+  font-size: 12.5px;
+  line-height: 1.45;
+  color: #f0d089;
+  margin-bottom: 12px;
+}
+.citogenesis b {
+  color: #f5c451;
+}
+.tierline,
+.tracesline {
+  font-size: 12px;
+  color: var(--muted);
+  margin-bottom: 10px;
+}
+.tierline b {
+  color: var(--ink);
+}
+.tracesline a.wl {
+  color: var(--claim);
+  cursor: pointer;
+  border-bottom: 1px dotted rgba(240, 180, 41, 0.5);
+}
+.tracesline a.wl:hover {
+  border-bottom-style: solid;
+}
+
 .dossier .body {
   font-size: 14px;
   line-height: 1.62;

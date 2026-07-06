@@ -35,10 +35,11 @@ advantage in language and sources.
 
 ## Status
 
-🚧 Private while under construction. **Steps 1–2 of 6 are in place** — the wiki →
-graph → interactive UI pipeline (step 1, hand-authored seed) *and* the
-investigation agent that extends it (step 2), including a model-in-the-loop run
-that grew the corpus through the anti-hallucination gate.
+🚧 Private while under construction. **Steps 1–3 of 6 are in place** — the wiki →
+graph → interactive UI pipeline (step 1, hand-authored seed), the investigation
+agent that extends it (step 2, including a model-in-the-loop run through the
+anti-hallucination gate), and mechanical citation-chasing + citogenesis detection
+(step 3).
 
 ## What's built so far (step 1: de-risk the demo)
 
@@ -67,6 +68,23 @@ the thesis to a single citogenesis root (Marinatos 1939). Every source it cites
 (Pichler & Schiering 1977, Bruins et al. 2009, Lespez et al. 2021) is a document
 it fetched through the gate. Those notes are byte-identical in format to the
 hand-authored ones — same parser, same graph — so the corpus is now 32 notes.
+
+### Step 3 — citation-chasing & citogenesis detection
+
+The parser now analyzes the citation structure **mechanically** (`tools/build_graph.py`):
+it tiers sources **primary vs. secondary** (a review/echo is drawn hollow) and
+finds citation **roots** — evidence that many claims *transitively funnel into*.
+In the UI, click a gold-ringed root and its whole **funnel lights up** while the
+rest of the graph recedes, so citation circularity becomes a visible shape — the
+thing a human reviewer would otherwise have to trace by hand (as the step-2 agent
+did in prose for Marinatos 1939).
+
+The current corpus surfaces **5 roots** — e.g. the scholar *Antonis Bartsiokas*
+(6 notes funnel in — he anchors the entire Vergina dissent) and *Friedrich et al.
+2006*, the single buried olive branch that much of the Thera high chronology rests
+on. Below: focusing Bartsiokas lights his funnel and dims everything else.
+
+![A citogenesis funnel — six notes tracing to one scholar](docs/img/citogenesis-funnel.png)
 
 ![The citation graph — two claim clusters](docs/img/graph-overview.png)
 

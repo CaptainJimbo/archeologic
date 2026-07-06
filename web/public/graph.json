@@ -6,7 +6,16 @@
       "title": "The Thera (Santorini) eruption destroyed Minoan civilization",
       "status": "refuted",
       "confidence": 0.2,
-      "body": "**The popular claim.** The Bronze Age Plinian eruption of Thera (VEI 7) so devastated Minoan Crete — through ashfall, earthquakes and tsunamis — that it destroyed Minoan civilization outright. This is the version in textbooks, documentaries and the Atlantis literature.\n\n**Origin (primary vs echo).** The thesis traces to a single root: Spyridon Marinatos' 1939 *Antiquity* paper (see [[scholar-spyridon-marinatos]]), which proposed volcanic destruction of Minoan Crete decades before Akrotiri was even excavated. Most later popular repetitions are ECHOES of Marinatos, not independent evidence — a textbook citogenesis funnel.\n\n**Why specialists reject it as stated.** The eruption buried [[site-akrotiri-thera]] during the **Late Minoan IA** ceramic phase. But the near-simultaneous destructions of the Cretan palaces and towns ([[site-minoan-crete]]) date archaeologically to **Late Minoan IB** — roughly 30-50 years, and by the radiocarbon [[claim-thera-high-chronology|~1600 BCE eruption date]] as much as ~100-150 years, LATER. This chronological separation is the crux ([[claim-thera-lmib-gap]]). After the eruption the Minoans demonstrably RECOVERED: LM IB is often called the zenith of Minoan material culture, with sites rebuilt (Palaikastro, Zakros, Phaistos). A civilization that flourishes for a generation or more after the alleged killing blow was not destroyed by it.\n\n**What the physical evidence actually shows.** The eruption did reach Crete — verified tsunami deposits at Palaikastro ([[source-bruins-2009]]) and Malia ([[source-lespez-2021]]) — but the run-up was modest (max ~8 m asl, ~400 m inland at Malia) and the impact coastal and local, not island-wide annihilation. The founding stratigraphic exchange ([[source-pichler-schiering-1977]]) further showed there was only ONE eruption, so no second volcanic event coincides with the later LM IB destructions.\n\n**Verdict.** Refuted as literally stated. Held at 0.2 (a popular oversimplification, not a live scholarly position). The defensible residue — that the eruption may have contributed INDIRECTLY to a slower decline — is tracked separately at [[claim-thera-indirect-contribution]].\n"
+      "body": "**The popular claim.** The Bronze Age Plinian eruption of Thera (VEI 7) so devastated Minoan Crete — through ashfall, earthquakes and tsunamis — that it destroyed Minoan civilization outright. This is the version in textbooks, documentaries and the Atlantis literature.\n\n**Origin (primary vs echo).** The thesis traces to a single root: Spyridon Marinatos' 1939 *Antiquity* paper (see [[scholar-spyridon-marinatos]]), which proposed volcanic destruction of Minoan Crete decades before Akrotiri was even excavated. Most later popular repetitions are ECHOES of Marinatos, not independent evidence — a textbook citogenesis funnel.\n\n**Why specialists reject it as stated.** The eruption buried [[site-akrotiri-thera]] during the **Late Minoan IA** ceramic phase. But the near-simultaneous destructions of the Cretan palaces and towns ([[site-minoan-crete]]) date archaeologically to **Late Minoan IB** — roughly 30-50 years, and by the radiocarbon [[claim-thera-high-chronology|~1600 BCE eruption date]] as much as ~100-150 years, LATER. This chronological separation is the crux ([[claim-thera-lmib-gap]]). After the eruption the Minoans demonstrably RECOVERED: LM IB is often called the zenith of Minoan material culture, with sites rebuilt (Palaikastro, Zakros, Phaistos). A civilization that flourishes for a generation or more after the alleged killing blow was not destroyed by it.\n\n**What the physical evidence actually shows.** The eruption did reach Crete — verified tsunami deposits at Palaikastro ([[source-bruins-2009]]) and Malia ([[source-lespez-2021]]) — but the run-up was modest (max ~8 m asl, ~400 m inland at Malia) and the impact coastal and local, not island-wide annihilation. The founding stratigraphic exchange ([[source-pichler-schiering-1977]]) further showed there was only ONE eruption, so no second volcanic event coincides with the later LM IB destructions.\n\n**Verdict.** Refuted as literally stated. Held at 0.2 (a popular oversimplification, not a live scholarly position). The defensible residue — that the eruption may have contributed INDIRECTLY to a slower decline — is tracked separately at [[claim-thera-indirect-contribution]].\n",
+      "in_cites": 0,
+      "out_cites": 4,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": [
+        "scholar-sturt-manning",
+        "source-friedrich-2006",
+        "source-pearson-2018"
+      ]
     },
     {
       "id": "claim-thera-high-chronology",
@@ -14,7 +23,16 @@
       "title": "The Thera (Santorini) eruption dates to c. 1600 BCE (high chronology)",
       "status": "contested",
       "confidence": 0.6,
-      "body": "The **radiocarbon-driven** date for the Bronze Age eruption that buried\n[[site-akrotiri-thera]]: roughly the late 17th to mid-16th century BCE. The\nfoundational exhibit is the [[source-friedrich-2006|buried olive branch]]\nwiggle-matched to 1627–1600 BCE; later annual-resolution ¹⁴C work\n([[source-pearson-2018]]) supports a 16th-century date and narrows the offset.\n\n**Contested against** [[claim-thera-low-chronology]], the archaeologically-derived\ndate about a century later. The gap matters: it re-times the entire east\nMediterranean Late Bronze Age and the Aegean–Egyptian synchronisms. Held at 0.6 —\nthe scientific dating has strengthened the high chronology, but the conflict with\nEgyptian historical chronology is real and unresolved, so this is not called\nsettled.\n"
+      "body": "The **radiocarbon-driven** date for the Bronze Age eruption that buried\n[[site-akrotiri-thera]]: roughly the late 17th to mid-16th century BCE. The\nfoundational exhibit is the [[source-friedrich-2006|buried olive branch]]\nwiggle-matched to 1627–1600 BCE; later annual-resolution ¹⁴C work\n([[source-pearson-2018]]) supports a 16th-century date and narrows the offset.\n\n**Contested against** [[claim-thera-low-chronology]], the archaeologically-derived\ndate about a century later. The gap matters: it re-times the entire east\nMediterranean Late Bronze Age and the Aegean–Egyptian synchronisms. Held at 0.6 —\nthe scientific dating has strengthened the high chronology, but the conflict with\nEgyptian historical chronology is real and unresolved, so this is not called\nsettled.\n",
+      "in_cites": 3,
+      "out_cites": 3,
+      "funnel_size": 3,
+      "citogenesis_root": false,
+      "traces_to": [
+        "scholar-sturt-manning",
+        "source-friedrich-2006",
+        "source-pearson-2018"
+      ]
     },
     {
       "id": "claim-thera-indirect-contribution",
@@ -22,7 +40,12 @@
       "title": "The Thera eruption may have contributed indirectly to the later decline of Minoan Crete",
       "status": "contested",
       "confidence": 0.45,
-      "body": "The defensible middle ground left standing once the direct-destruction claim ([[claim-thera-destroyed-minoans]]) is set aside.\n\n**The thesis.** Even though the eruption did not cause the LM IB destructions, its aftermath — crop failure and ashfall on farmland, disrupted maritime trade, damaged coastal harbours from tsunamis, and psychological/religious shock — could have quietly weakened Neopalatial society, so that the richness of LM IB masked underlying economic and political fragility that led to collapse a generation or two later. This is essentially the Driessen & Macdonald *The Troubled Island* argument.\n\n**Evidence for.** The eruption was genuinely enormous (VEI 7, ~78-86 km3 DRE) and its tsunamis reached the north Cretan coast, including the palatial centre of Malia ([[source-lespez-2021]]), whose authors explicitly frame their find as opening 'new research on... impact and consequences for the Minoan civilization.'\n\n**Evidence against / caveats.** The measured impact was modest (run-up not exceeding ~8 m, inundation ~400 m inland) and local to the coast; interior sites show quick rebuilding and a cultural florescence. Subsequent work suggests the 'hidden decline' was not a general island-wide pattern, and separating a real volcanic contribution from ordinary Bronze Age instability is very hard.\n\nHeld at 0.45 - genuinely contested: plausible and argued by serious scholars, but under-determined by the evidence and easy to over-read backwards from the known collapse. It disputes the strong claim by offering a weaker, slower causal story rather than endorsing it.\n"
+      "body": "The defensible middle ground left standing once the direct-destruction claim ([[claim-thera-destroyed-minoans]]) is set aside.\n\n**The thesis.** Even though the eruption did not cause the LM IB destructions, its aftermath — crop failure and ashfall on farmland, disrupted maritime trade, damaged coastal harbours from tsunamis, and psychological/religious shock — could have quietly weakened Neopalatial society, so that the richness of LM IB masked underlying economic and political fragility that led to collapse a generation or two later. This is essentially the Driessen & Macdonald *The Troubled Island* argument.\n\n**Evidence for.** The eruption was genuinely enormous (VEI 7, ~78-86 km3 DRE) and its tsunamis reached the north Cretan coast, including the palatial centre of Malia ([[source-lespez-2021]]), whose authors explicitly frame their find as opening 'new research on... impact and consequences for the Minoan civilization.'\n\n**Evidence against / caveats.** The measured impact was modest (run-up not exceeding ~8 m, inundation ~400 m inland) and local to the coast; interior sites show quick rebuilding and a cultural florescence. Subsequent work suggests the 'hidden decline' was not a general island-wide pattern, and separating a real volcanic contribution from ordinary Bronze Age instability is very hard.\n\nHeld at 0.45 - genuinely contested: plausible and argued by serious scholars, but under-determined by the evidence and easy to over-read backwards from the known collapse. It disputes the strong claim by offering a weaker, slower causal story rather than endorsing it.\n",
+      "in_cites": 0,
+      "out_cites": 1,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
     },
     {
       "id": "claim-thera-lmib-gap",
@@ -30,7 +53,16 @@
       "title": "The Thera eruption (LM IA) predates the Late Minoan IB palace destructions by decades to ~150 years",
       "status": "supported",
       "confidence": 0.82,
-      "body": "The chronological keystone that dismantles the direct-destruction thesis ([[claim-thera-destroyed-minoans]]).\n\n**Two different ceramic phases.** The eruption fell during **Late Minoan IA**: the youngest pottery sealed beneath the Santorini ash and in the derived tsunami deposits on Crete is LM IA ([[source-bruins-2009]]). The wave of destructions that ended the Cretan palatial (Neopalatial) system belongs to **Late Minoan IB** — a demonstrably later phase, whose diagnostic Marine Style pottery post-dates the eruption.\n\n**Size of the gap.** By the conventional archaeological chronology the offset is ~30-50 years (stated explicitly in [[source-pichler-schiering-1977]]). By the radiocarbon [[claim-thera-high-chronology|high chronology (~1627-1600 BCE)]] the eruption is pushed earlier still, widening the gap to ~100-150 years before the LM IB horizon (~1500-1450 BCE). Either way the eruption and the palace destructions are separated by at least a full ceramic phase.\n\n**No second eruption to blame.** [[source-pichler-schiering-1977]] showed geologically that there was a single eruption, not two events ~50 years apart, so there is no volcanic paroxysm coinciding with the LM IB destructions. Their causes (internal upheaval, possible Mycenaean takeover, further earthquakes) are debated but are NOT the Theran eruption.\n\nHeld at 0.82: the LM IA / LM IB separation is broadly accepted; residual uncertainty is over the exact magnitude of the gap, which rides on the unresolved high-vs-low chronology dispute.\n"
+      "body": "The chronological keystone that dismantles the direct-destruction thesis ([[claim-thera-destroyed-minoans]]).\n\n**Two different ceramic phases.** The eruption fell during **Late Minoan IA**: the youngest pottery sealed beneath the Santorini ash and in the derived tsunami deposits on Crete is LM IA ([[source-bruins-2009]]). The wave of destructions that ended the Cretan palatial (Neopalatial) system belongs to **Late Minoan IB** — a demonstrably later phase, whose diagnostic Marine Style pottery post-dates the eruption.\n\n**Size of the gap.** By the conventional archaeological chronology the offset is ~30-50 years (stated explicitly in [[source-pichler-schiering-1977]]). By the radiocarbon [[claim-thera-high-chronology|high chronology (~1627-1600 BCE)]] the eruption is pushed earlier still, widening the gap to ~100-150 years before the LM IB horizon (~1500-1450 BCE). Either way the eruption and the palace destructions are separated by at least a full ceramic phase.\n\n**No second eruption to blame.** [[source-pichler-schiering-1977]] showed geologically that there was a single eruption, not two events ~50 years apart, so there is no volcanic paroxysm coinciding with the LM IB destructions. Their causes (internal upheaval, possible Mycenaean takeover, further earthquakes) are debated but are NOT the Theran eruption.\n\nHeld at 0.82: the LM IA / LM IB separation is broadly accepted; residual uncertainty is over the exact magnitude of the gap, which rides on the unresolved high-vs-low chronology dispute.\n",
+      "in_cites": 0,
+      "out_cites": 3,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": [
+        "scholar-sturt-manning",
+        "source-friedrich-2006",
+        "source-pearson-2018"
+      ]
     },
     {
       "id": "claim-thera-low-chronology",
@@ -38,7 +70,12 @@
       "title": "The Thera eruption dates to c. 1500 BCE (low / archaeological chronology)",
       "status": "contested",
       "confidence": 0.4,
-      "body": "The traditional, **archaeologically-derived** date: the eruption falls after the\nstart of the Egyptian New Kingdom, around 1500 BCE (or a little earlier). It rests\non synchronisms between Aegean, Levantine, and Egyptian material culture —\npottery styles and trade goods found above and below the eruption layers.\n\nIt [[claim-thera-high-chronology|disputes the ~1600 BCE radiocarbon date]] by\nabout a century. Proponents argue the ¹⁴C results are distorted (e.g. by\nvolcanic CO₂ or calibration-curve plateaus) and that the cross-cultural\narchaeology should anchor the date. Held at 0.4: it remains a serious position\ndefended by respected Aegean archaeologists, but the weight of recent scientific\ndating has shifted against it — a genuinely live minority view rather than a\nrefuted one.\n"
+      "body": "The traditional, **archaeologically-derived** date: the eruption falls after the\nstart of the Egyptian New Kingdom, around 1500 BCE (or a little earlier). It rests\non synchronisms between Aegean, Levantine, and Egyptian material culture —\npottery styles and trade goods found above and below the eruption layers.\n\nIt [[claim-thera-high-chronology|disputes the ~1600 BCE radiocarbon date]] by\nabout a century. Proponents argue the ¹⁴C results are distorted (e.g. by\nvolcanic CO₂ or calibration-curve plateaus) and that the cross-cultural\narchaeology should anchor the date. Held at 0.4: it remains a serious position\ndefended by respected Aegean archaeologists, but the weight of recent scientific\ndating has shifted against it — a genuinely live minority view rather than a\nrefuted one.\n",
+      "in_cites": 0,
+      "out_cites": 1,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
     },
     {
       "id": "claim-tomb-i-knee-lameness",
@@ -46,7 +83,15 @@
       "title": "The Tomb I male skeleton shows knee ankylosis matching Philip's lameness",
       "status": "contested",
       "confidence": 0.5,
-      "body": "The physical evidence underpinning [[claim-tomb-i-philip-ii]]. The male skeleton\nin [[site-tomb-i]] displays a severe **knee ankylosis** — the joint fused at\nroughly 79° of flexion — pierced by a hole that [[source-bartsiokas-2015]] reads\nas a healed penetrating wound. This is matched to the historically attested lance\nwound that left Philip II permanently lame in 339 BC.\n\nThe inference chain is: pathology → specific historical wound → individual\nidentity. Each link is contestable — knee ankylosis has other causes, and tying\none lesion to one recorded wound is an argument by resemblance, not proof. But it\nis a genuine, striking correspondence and the paper's central exhibit. Confidence\n0.5: the observation is real and well documented; the identification it is\nmarshalled for is not settled.\n"
+      "body": "The physical evidence underpinning [[claim-tomb-i-philip-ii]]. The male skeleton\nin [[site-tomb-i]] displays a severe **knee ankylosis** — the joint fused at\nroughly 79° of flexion — pierced by a hole that [[source-bartsiokas-2015]] reads\nas a healed penetrating wound. This is matched to the historically attested lance\nwound that left Philip II permanently lame in 339 BC.\n\nThe inference chain is: pathology → specific historical wound → individual\nidentity. Each link is contestable — knee ankylosis has other causes, and tying\none lesion to one recorded wound is an argument by resemblance, not proof. But it\nis a genuine, striking correspondence and the paper's central exhibit. Confidence\n0.5: the observation is real and well documented; the identification it is\nmarshalled for is not settled.\n",
+      "in_cites": 1,
+      "out_cites": 2,
+      "funnel_size": 2,
+      "citogenesis_root": false,
+      "traces_to": [
+        "scholar-antonis-bartsiokas",
+        "source-bartsiokas-2015"
+      ]
     },
     {
       "id": "claim-tomb-i-philip-ii",
@@ -54,7 +99,15 @@
       "title": "Vergina Tomb I holds Philip II (the lameness argument)",
       "status": "contested",
       "confidence": 0.4,
-      "body": "A third position, advanced by [[scholar-antonis-bartsiokas]] in\n[[source-bartsiokas-2015]]: Philip II is not in Tomb II at all, but in the\nadjacent, earlier, looted [[site-tomb-i]]. The case is the\n[[claim-tomb-i-knee-lameness|knee-ankylosis]] of the Tomb I male, matched to the\nhistorically documented spear wound that left Philip lame in 339 BC.\n\nIf accepted, this reassigns [[claim-tomb-ii-philip-ii]] to Arrhidaios (agreeing\nwith [[claim-tomb-ii-arrhidaios]] on Tomb II while disagreeing about where\nPhilip II lies). It is the minority view: it depends on associating a specific\npathology with one historical wound, and on dating Tomb I's occupants to\nPhilip's family. Held at 0.4 — a serious, published hypothesis that has not won\nconsensus.\n"
+      "body": "A third position, advanced by [[scholar-antonis-bartsiokas]] in\n[[source-bartsiokas-2015]]: Philip II is not in Tomb II at all, but in the\nadjacent, earlier, looted [[site-tomb-i]]. The case is the\n[[claim-tomb-i-knee-lameness|knee-ankylosis]] of the Tomb I male, matched to the\nhistorically documented spear wound that left Philip lame in 339 BC.\n\nIf accepted, this reassigns [[claim-tomb-ii-philip-ii]] to Arrhidaios (agreeing\nwith [[claim-tomb-ii-arrhidaios]] on Tomb II while disagreeing about where\nPhilip II lies). It is the minority view: it depends on associating a specific\npathology with one historical wound, and on dating Tomb I's occupants to\nPhilip's family. Held at 0.4 — a serious, published hypothesis that has not won\nconsensus.\n",
+      "in_cites": 1,
+      "out_cites": 3,
+      "funnel_size": 1,
+      "citogenesis_root": false,
+      "traces_to": [
+        "scholar-antonis-bartsiokas",
+        "source-bartsiokas-2015"
+      ]
     },
     {
       "id": "claim-tomb-ii-arrhidaios",
@@ -62,7 +115,14 @@
       "title": "Vergina Tomb II holds Philip III Arrhidaios (not Philip II)",
       "status": "contested",
       "confidence": 0.45,
-      "body": "The principal rival to [[claim-tomb-ii-philip-ii]]: the main-chamber male of\n[[site-tomb-ii]] is **Philip III Arrhidaios**, Alexander's half-brother and\nshort-lived successor (died 317 BC), buried with his wife Eurydice. This dates\nthe tomb roughly two decades later than Philip II's death.\n\nThe argument rests on two legs. First, chronology of the grave goods\n(some scholars read the pottery and artefacts as post-320 BC). Second, the\nforensic claim in [[source-bartsiokas-2000]] that the bones were cremated **dry**\n— degreased and unfleshed — implying a body exhumed and burned long after death,\nconsistent with Arrhidaios's disturbed reburial rather than a fresh royal pyre.\n\nThat second leg is exactly what [[claim-tomb-ii-green-cremation]] and\n[[source-musgrave-2010]] attack: they argue the bones were burned fleshed, which\nundercuts the Arrhidaios reconstruction. Held at 0.45 — the mirror of its rival,\nbecause the debate is unresolved.\n"
+      "body": "The principal rival to [[claim-tomb-ii-philip-ii]]: the main-chamber male of\n[[site-tomb-ii]] is **Philip III Arrhidaios**, Alexander's half-brother and\nshort-lived successor (died 317 BC), buried with his wife Eurydice. This dates\nthe tomb roughly two decades later than Philip II's death.\n\nThe argument rests on two legs. First, chronology of the grave goods\n(some scholars read the pottery and artefacts as post-320 BC). Second, the\nforensic claim in [[source-bartsiokas-2000]] that the bones were cremated **dry**\n— degreased and unfleshed — implying a body exhumed and burned long after death,\nconsistent with Arrhidaios's disturbed reburial rather than a fresh royal pyre.\n\nThat second leg is exactly what [[claim-tomb-ii-green-cremation]] and\n[[source-musgrave-2010]] attack: they argue the bones were burned fleshed, which\nundercuts the Arrhidaios reconstruction. Held at 0.45 — the mirror of its rival,\nbecause the debate is unresolved.\n",
+      "in_cites": 1,
+      "out_cites": 2,
+      "funnel_size": 1,
+      "citogenesis_root": false,
+      "traces_to": [
+        "scholar-antonis-bartsiokas"
+      ]
     },
     {
       "id": "claim-tomb-ii-green-cremation",
@@ -70,7 +130,12 @@
       "title": "The Tomb II male was cremated 'green' (fleshed), not dry",
       "status": "contested",
       "confidence": 0.6,
-      "body": "The forensic crux of the whole Vergina debate. **Green cremation** = the body was\nburned soon after death with flesh still on the bone; **dry cremation** = a\nskeleton burned long after decomposition. The two leave different signatures in\nbone colour and in the pattern of warping and fracture lines.\n\n[[source-bartsiokas-2000]] argued for **dry** cremation, supporting\n[[claim-tomb-ii-arrhidaios]] (a delayed, disturbed reburial).\n[[source-musgrave-2010]] argued for **green** cremation — transverse fracture\npatterns and colouration consistent with a fleshed body — which supports a fresh\nroyal pyre and therefore [[claim-tomb-ii-philip-ii]].\n\nThis note is the single point where the physical evidence most directly decides\nbetween the two Tomb II identifications, which is why both camps invest so heavily\nin it. Confidence 0.6: the green reading is somewhat better supported in the\nrecent literature, but the dry reading is not dead.\n"
+      "body": "The forensic crux of the whole Vergina debate. **Green cremation** = the body was\nburned soon after death with flesh still on the bone; **dry cremation** = a\nskeleton burned long after decomposition. The two leave different signatures in\nbone colour and in the pattern of warping and fracture lines.\n\n[[source-bartsiokas-2000]] argued for **dry** cremation, supporting\n[[claim-tomb-ii-arrhidaios]] (a delayed, disturbed reburial).\n[[source-musgrave-2010]] argued for **green** cremation — transverse fracture\npatterns and colouration consistent with a fleshed body — which supports a fresh\nroyal pyre and therefore [[claim-tomb-ii-philip-ii]].\n\nThis note is the single point where the physical evidence most directly decides\nbetween the two Tomb II identifications, which is why both camps invest so heavily\nin it. Confidence 0.6: the green reading is somewhat better supported in the\nrecent literature, but the dry reading is not dead.\n",
+      "in_cites": 0,
+      "out_cites": 2,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
     },
     {
       "id": "claim-tomb-ii-philip-ii",
@@ -78,7 +143,12 @@
       "title": "Vergina Tomb II holds Philip II of Macedon",
       "status": "contested",
       "confidence": 0.55,
-      "body": "The original and still most widely held identification: the cremated male in the\nmain chamber of [[site-tomb-ii]] is **Philip II of Macedon**, father of Alexander\nthe Great, assassinated in 336 BC. Proposed by the excavator\n[[scholar-manolis-andronikos]] in 1977–78 on the basis of the tomb's royal\nrichness, its date, and later the [[claim-tomb-ii-green-cremation|green-cremation]]\nand facial-asymmetry evidence assembled by [[scholar-john-prag]] and\n[[scholar-jonathan-musgrave]].\n\n**Status: genuinely contested.** The rival reading —\n[[claim-tomb-ii-arrhidaios]] — reads the same bones as Philip III Arrhidaios.\nThe system does **not** pick a side: both identifications have peer-reviewed\nforensic support and neither has produced a decisive artifact (no inscription\nnames the occupant). Confidence is held near 0.5 to reflect a live scholarly\nsplit, not ignorance.\n\nEvidence for is marshalled most fully in [[source-musgrave-2010]]. The strongest\ndissent is [[source-bartsiokas-2000]] and, for a different tomb entirely,\n[[source-bartsiokas-2015]].\n"
+      "body": "The original and still most widely held identification: the cremated male in the\nmain chamber of [[site-tomb-ii]] is **Philip II of Macedon**, father of Alexander\nthe Great, assassinated in 336 BC. Proposed by the excavator\n[[scholar-manolis-andronikos]] in 1977–78 on the basis of the tomb's royal\nrichness, its date, and later the [[claim-tomb-ii-green-cremation|green-cremation]]\nand facial-asymmetry evidence assembled by [[scholar-john-prag]] and\n[[scholar-jonathan-musgrave]].\n\n**Status: genuinely contested.** The rival reading —\n[[claim-tomb-ii-arrhidaios]] — reads the same bones as Philip III Arrhidaios.\nThe system does **not** pick a side: both identifications have peer-reviewed\nforensic support and neither has produced a decisive artifact (no inscription\nnames the occupant). Confidence is held near 0.5 to reflect a live scholarly\nsplit, not ignorance.\n\nEvidence for is marshalled most fully in [[source-musgrave-2010]]. The strongest\ndissent is [[source-bartsiokas-2000]] and, for a different tomb entirely,\n[[source-bartsiokas-2015]].\n",
+      "in_cites": 1,
+      "out_cites": 2,
+      "funnel_size": 1,
+      "citogenesis_root": false,
+      "traces_to": []
     },
     {
       "id": "scholar-antonis-bartsiokas",
@@ -86,7 +156,20 @@
       "title": "Antonis Bartsiokas",
       "status": "reference",
       "confidence": 0.9,
-      "body": "Greek palaeoanthropologist (Democritus University of Thrace) and the most\npersistent challenger of Andronikos's identification. Author of\n[[source-bartsiokas-2000]] (Tomb II bones are Arrhidaios, cremated dry) and lead\nauthor of [[source-bartsiokas-2015]] (Philip II is actually in\n[[site-tomb-i]]).\n\nHis two papers anchor the two dissenting claims —\n[[claim-tomb-ii-arrhidaios]] and [[claim-tomb-i-philip-ii]] — and between them\nthey force the field to treat the identification as an open forensic question\nrather than settled fact.\n"
+      "body": "Greek palaeoanthropologist (Democritus University of Thrace) and the most\npersistent challenger of Andronikos's identification. Author of\n[[source-bartsiokas-2000]] (Tomb II bones are Arrhidaios, cremated dry) and lead\nauthor of [[source-bartsiokas-2015]] (Philip II is actually in\n[[site-tomb-i]]).\n\nHis two papers anchor the two dissenting claims —\n[[claim-tomb-ii-arrhidaios]] and [[claim-tomb-i-philip-ii]] — and between them\nthey force the field to treat the identification as an open forensic question\nrather than settled fact.\n",
+      "in_cites": 2,
+      "out_cites": 0,
+      "funnel_size": 6,
+      "citogenesis_root": true,
+      "funnel_members": [
+        "claim-tomb-i-knee-lameness",
+        "claim-tomb-i-philip-ii",
+        "claim-tomb-ii-arrhidaios",
+        "source-bartsiokas-2000",
+        "source-bartsiokas-2015",
+        "source-vergina-review-2023"
+      ],
+      "traces_to": []
     },
     {
       "id": "scholar-john-prag",
@@ -94,7 +177,12 @@
       "title": "A. J. N. W. (John) Prag",
       "status": "reference",
       "confidence": 0.88,
-      "body": "Classicist and curator (Manchester Museum) who, with Richard Neave, created the\n1980s facial reconstruction of the Tomb II skull and read its asymmetry as\nevidence of Philip II's eye wound. Co-author of [[source-musgrave-2010]].\n\nHis reconstruction is the positive case that [[source-bartsiokas-2000]] set out\nto dismantle — the orbital \"scar\" Prag read as a healed wound, Bartsiokas read as\na cremation artefact. Prag is therefore a hub where the [[claim-tomb-ii-philip-ii]]\nargument and its rebuttal meet.\n"
+      "body": "Classicist and curator (Manchester Museum) who, with Richard Neave, created the\n1980s facial reconstruction of the Tomb II skull and read its asymmetry as\nevidence of Philip II's eye wound. Co-author of [[source-musgrave-2010]].\n\nHis reconstruction is the positive case that [[source-bartsiokas-2000]] set out\nto dismantle — the orbital \"scar\" Prag read as a healed wound, Bartsiokas read as\na cremation artefact. Prag is therefore a hub where the [[claim-tomb-ii-philip-ii]]\nargument and its rebuttal meet.\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
     },
     {
       "id": "scholar-jonathan-musgrave",
@@ -102,7 +190,12 @@
       "title": "Jonathan Musgrave (with J. Prag & R. Neave)",
       "status": "reference",
       "confidence": 0.9,
-      "body": "Anatomist at the University of Bristol and, with John Prag and the medical\nartist Richard Neave, part of the team that produced the famous facial\nreconstruction of the Tomb II skull and defended the Philip II identification.\nLead author of [[source-musgrave-2010]].\n\nGrouped here as one node with the [[scholar-john-prag|Prag]]–Neave collaboration\nbecause they argue as a unit. They are the standard-bearers for\n[[claim-tomb-ii-philip-ii]] and the [[claim-tomb-ii-green-cremation|green\ncremation]] reading — and, having built the original reconstruction, they are\ndefending their own earlier conclusion, which the graph records rather than\nhides.\n"
+      "body": "Anatomist at the University of Bristol and, with John Prag and the medical\nartist Richard Neave, part of the team that produced the famous facial\nreconstruction of the Tomb II skull and defended the Philip II identification.\nLead author of [[source-musgrave-2010]].\n\nGrouped here as one node with the [[scholar-john-prag|Prag]]–Neave collaboration\nbecause they argue as a unit. They are the standard-bearers for\n[[claim-tomb-ii-philip-ii]] and the [[claim-tomb-ii-green-cremation|green\ncremation]] reading — and, having built the original reconstruction, they are\ndefending their own earlier conclusion, which the graph records rather than\nhides.\n",
+      "in_cites": 1,
+      "out_cites": 0,
+      "funnel_size": 2,
+      "citogenesis_root": false,
+      "traces_to": []
     },
     {
       "id": "scholar-manolis-andronikos",
@@ -110,7 +203,12 @@
       "title": "Manolis Andronikos (1919–1992)",
       "status": "reference",
       "confidence": 0.95,
-      "body": "Greek archaeologist who excavated the [[site-great-tumulus]] at\n[[site-aigai-vergina]] in 1977–78 and announced the unlooted royal tombs to the\nworld. He identified [[site-tomb-ii]] as the burial of **Philip II** — the\nfounding claim, [[claim-tomb-ii-philip-ii]] — and staked his professional legacy\non it.\n\nHis identification is the historical root of the entire debate: every later\npaper, whether it defends or attacks Philip II, is arguing with Andronikos.\nTracking him as a node makes the graph show *why* the literature clusters the way\nit does — the dispute is, in part, about whether the excavator got it right.\n"
+      "body": "Greek archaeologist who excavated the [[site-great-tumulus]] at\n[[site-aigai-vergina]] in 1977–78 and announced the unlooted royal tombs to the\nworld. He identified [[site-tomb-ii]] as the burial of **Philip II** — the\nfounding claim, [[claim-tomb-ii-philip-ii]] — and staked his professional legacy\non it.\n\nHis identification is the historical root of the entire debate: every later\npaper, whether it defends or attacks Philip II, is arguing with Andronikos.\nTracking him as a node makes the graph show *why* the literature clusters the way\nit does — the dispute is, in part, about whether the excavator got it right.\n",
+      "in_cites": 1,
+      "out_cites": 1,
+      "funnel_size": 2,
+      "citogenesis_root": false,
+      "traces_to": []
     },
     {
       "id": "scholar-spyridon-marinatos",
@@ -118,7 +216,12 @@
       "title": "Spyridon Marinatos",
       "status": "reference",
       "confidence": 0.9,
-      "body": "Greek archaeologist (1901-1974), excavator of [[site-akrotiri-thera]] from 1967. Originator of the volcanic-destruction hypothesis: his 1939 *Antiquity* paper ('The volcanic destruction of Minoan Crete', Antiquity 13: 425-439) proposed that the Thera eruption devastated Minoan Crete — the root claim [[claim-thera-destroyed-minoans]] and the source of nearly every later popular echo.\n\nIncluded as the protagonist node for this debate — the counterpart to [[scholar-sturt-manning]] in the chronology dispute. Note the epistemic point the graph should surface: Marinatos advanced the theory in 1939, DECADES before Akrotiri was dug and long before the LM IA/LM IB stratigraphy and radiocarbon work that later undercut it. No `source` node is created for the 1939 paper here because it was not fetched this run; this scholar node records the attribution without standing in for the document.\n"
+      "body": "Greek archaeologist (1901-1974), excavator of [[site-akrotiri-thera]] from 1967. Originator of the volcanic-destruction hypothesis: his 1939 *Antiquity* paper ('The volcanic destruction of Minoan Crete', Antiquity 13: 425-439) proposed that the Thera eruption devastated Minoan Crete — the root claim [[claim-thera-destroyed-minoans]] and the source of nearly every later popular echo.\n\nIncluded as the protagonist node for this debate — the counterpart to [[scholar-sturt-manning]] in the chronology dispute. Note the epistemic point the graph should surface: Marinatos advanced the theory in 1939, DECADES before Akrotiri was dug and long before the LM IA/LM IB stratigraphy and radiocarbon work that later undercut it. No `source` node is created for the 1939 paper here because it was not fetched this run; this scholar node records the attribution without standing in for the document.\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
     },
     {
       "id": "scholar-sturt-manning",
@@ -126,7 +229,23 @@
       "title": "Sturt W. Manning",
       "status": "reference",
       "confidence": 0.9,
-      "body": "Archaeologist and dendrochronologist (Cornell University), a leading voice for the\nradiocarbon-based [[claim-thera-high-chronology|high chronology]] of the Thera\neruption and a prolific writer on the Aegean–Egyptian dating conflict. Co-author\nof [[source-pearson-2018]].\n\nIncluded as the Thera cluster's scholar node — the counterpart to\n[[scholar-antonis-bartsiokas]] in the Vergina cluster — so the graph shows that\neach debate has identifiable protagonists, not just disembodied \"evidence.\"\n"
+      "body": "Archaeologist and dendrochronologist (Cornell University), a leading voice for the\nradiocarbon-based [[claim-thera-high-chronology|high chronology]] of the Thera\neruption and a prolific writer on the Aegean–Egyptian dating conflict. Co-author\nof [[source-pearson-2018]].\n\nIncluded as the Thera cluster's scholar node — the counterpart to\n[[scholar-antonis-bartsiokas]] in the Vergina cluster — so the graph shows that\neach debate has identifiable protagonists, not just disembodied \"evidence.\"\n",
+      "in_cites": 1,
+      "out_cites": 1,
+      "funnel_size": 6,
+      "citogenesis_root": true,
+      "funnel_members": [
+        "claim-thera-destroyed-minoans",
+        "claim-thera-high-chronology",
+        "claim-thera-lmib-gap",
+        "scholar-sturt-manning",
+        "source-bruins-2009",
+        "source-pearson-2018"
+      ],
+      "traces_to": [
+        "scholar-sturt-manning",
+        "source-pearson-2018"
+      ]
     },
     {
       "id": "site-aigai-vergina",
@@ -134,7 +253,12 @@
       "title": "Aigai (modern Vergina), Macedonia",
       "status": "reference",
       "confidence": 0.98,
-      "body": "The ancient first capital of the kingdom of Macedon, at modern Vergina in northern\nGreece — a UNESCO World Heritage Site. Its identification as Aigai (rather than\nEdessa, an older guess) is now settled, reinforced by the royal necropolis and\npalace.\n\nAigai is the geographic anchor of the Vergina cluster. It contains the\n[[site-great-tumulus]], which in turn contains [[site-tomb-i]] and\n[[site-tomb-ii]]. As a *site* node it is a place, not a document — no source\ncitation is attached, by design: the anti-hallucination rule governs source\nnodes, and places are established context.\n"
+      "body": "The ancient first capital of the kingdom of Macedon, at modern Vergina in northern\nGreece — a UNESCO World Heritage Site. Its identification as Aigai (rather than\nEdessa, an older guess) is now settled, reinforced by the royal necropolis and\npalace.\n\nAigai is the geographic anchor of the Vergina cluster. It contains the\n[[site-great-tumulus]], which in turn contains [[site-tomb-i]] and\n[[site-tomb-ii]]. As a *site* node it is a place, not a document — no source\ncitation is attached, by design: the anti-hallucination rule governs source\nnodes, and places are established context.\n",
+      "in_cites": 0,
+      "out_cites": 1,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
     },
     {
       "id": "site-akrotiri-thera",
@@ -142,7 +266,12 @@
       "title": "Akrotiri, Thera (Santorini)",
       "status": "reference",
       "confidence": 0.97,
-      "body": "The Late Bronze Age Cycladic town on the island of Thera (Santorini), buried and\npreserved under metres of volcanic tephra by the eruption — the \"Aegean Pompeii,\"\nwith multi-storey houses and wall frescoes.\n\nAkrotiri is the geographic anchor of the Thera cluster. The eruption that sealed\nit is what both [[claim-thera-high-chronology]] and [[claim-thera-low-chronology]]\nare trying to date. A place node, not a document.\n"
+      "body": "The Late Bronze Age Cycladic town on the island of Thera (Santorini), buried and\npreserved under metres of volcanic tephra by the eruption — the \"Aegean Pompeii,\"\nwith multi-storey houses and wall frescoes.\n\nAkrotiri is the geographic anchor of the Thera cluster. The eruption that sealed\nit is what both [[claim-thera-high-chronology]] and [[claim-thera-low-chronology]]\nare trying to date. A place node, not a document.\n",
+      "in_cites": 4,
+      "out_cites": 0,
+      "funnel_size": 7,
+      "citogenesis_root": false,
+      "traces_to": []
     },
     {
       "id": "site-great-tumulus",
@@ -150,7 +279,12 @@
       "title": "The Great Tumulus, Vergina",
       "status": "reference",
       "confidence": 0.97,
-      "body": "The great earthen mound at [[site-aigai-vergina]] raised over the royal tombs,\nexcavated by [[scholar-manolis-andronikos]] in 1977–78. It covers at least three\ntombs: the looted [[site-tomb-i]], the unlooted [[site-tomb-ii]], and Tomb III\n(the \"Prince's Tomb\").\n\nThe tumulus is the container that ties the whole Vergina dispute together — the\nargument is really about *which body in which chamber under this mound* is which\nMacedonian royal. It is the natural hub node of the cluster.\n"
+      "body": "The great earthen mound at [[site-aigai-vergina]] raised over the royal tombs,\nexcavated by [[scholar-manolis-andronikos]] in 1977–78. It covers at least three\ntombs: the looted [[site-tomb-i]], the unlooted [[site-tomb-ii]], and Tomb III\n(the \"Prince's Tomb\").\n\nThe tumulus is the container that ties the whole Vergina dispute together — the\nargument is really about *which body in which chamber under this mound* is which\nMacedonian royal. It is the natural hub node of the cluster.\n",
+      "in_cites": 5,
+      "out_cites": 2,
+      "funnel_size": 11,
+      "citogenesis_root": false,
+      "traces_to": []
     },
     {
       "id": "site-minoan-crete",
@@ -158,7 +292,12 @@
       "title": "Minoan Crete (Neopalatial palaces: Knossos, Malia, Phaistos, Zakros)",
       "status": "reference",
       "confidence": 0.96,
-      "body": "The island of Crete and its Bronze Age Minoan palace centres — Knossos, Malia, Phaistos, Zakros — the 'civilization' whose alleged destruction by the Thera eruption is under examination ([[claim-thera-destroyed-minoans]]).\n\nThe relevant sequence is the Neopalatial period, spanning **Late Minoan IA** (during which the eruption occurred and buried [[site-akrotiri-thera]] ~120 km to the north) and **Late Minoan IB** (during which a wave of destructions ended most palace centres). The gap between those two phases is the whole argument ([[claim-thera-lmib-gap]]).\n\nA place node, not a document. Distinct from [[site-akrotiri-thera]], which is the Cycladic town on Thera itself; this node is the Cretan mainland target of the destruction claim. Tsunami evidence has been documented on its north coast at Palaikastro and Malia (see [[source-bruins-2009]], [[source-lespez-2021]]).\n"
+      "body": "The island of Crete and its Bronze Age Minoan palace centres — Knossos, Malia, Phaistos, Zakros — the 'civilization' whose alleged destruction by the Thera eruption is under examination ([[claim-thera-destroyed-minoans]]).\n\nThe relevant sequence is the Neopalatial period, spanning **Late Minoan IA** (during which the eruption occurred and buried [[site-akrotiri-thera]] ~120 km to the north) and **Late Minoan IB** (during which a wave of destructions ended most palace centres). The gap between those two phases is the whole argument ([[claim-thera-lmib-gap]]).\n\nA place node, not a document. Distinct from [[site-akrotiri-thera]], which is the Cycladic town on Thera itself; this node is the Cretan mainland target of the destruction claim. Tsunami evidence has been documented on its north coast at Palaikastro and Malia (see [[source-bruins-2009]], [[source-lespez-2021]]).\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
     },
     {
       "id": "site-tomb-i",
@@ -166,7 +305,12 @@
       "title": "Tomb I (the looted 'Tomb of Persephone'), Vergina",
       "status": "reference",
       "confidence": 0.95,
-      "body": "The earlier, cist-type tomb under the [[site-great-tumulus]], looted in antiquity\nbut famous for its Rape of Persephone wall painting. It contained the disturbed\nremains of a man, a woman, and a newborn.\n\nLong treated as a secondary tomb, it moved to centre stage with\n[[source-bartsiokas-2015]], which argues its male skeleton — with a fused,\npierced knee ([[claim-tomb-i-knee-lameness]]) — is the true Philip II\n([[claim-tomb-i-philip-ii]]). Whether that reassignment holds is unresolved.\n"
+      "body": "The earlier, cist-type tomb under the [[site-great-tumulus]], looted in antiquity\nbut famous for its Rape of Persephone wall painting. It contained the disturbed\nremains of a man, a woman, and a newborn.\n\nLong treated as a secondary tomb, it moved to centre stage with\n[[source-bartsiokas-2015]], which argues its male skeleton — with a fused,\npierced knee ([[claim-tomb-i-knee-lameness]]) — is the true Philip II\n([[claim-tomb-i-philip-ii]]). Whether that reassignment holds is unresolved.\n",
+      "in_cites": 3,
+      "out_cites": 1,
+      "funnel_size": 11,
+      "citogenesis_root": false,
+      "traces_to": []
     },
     {
       "id": "site-tomb-ii",
@@ -174,7 +318,12 @@
       "title": "Tomb II (the unlooted 'Tomb of Philip'), Vergina",
       "status": "reference",
       "confidence": 0.95,
-      "body": "The unlooted, two-chambered barrel-vaulted tomb under the [[site-great-tumulus]],\nfound intact in 1977 with a wealth of royal armour, gold, and two cremation\nburials (a man in the main chamber, a woman in the antechamber).\n\nIts main-chamber male is the single most fought-over skeleton in Greek\narchaeology: claimed for Philip II ([[claim-tomb-ii-philip-ii]]) and for Philip\nIII Arrhidaios ([[claim-tomb-ii-arrhidaios]]). Because the tomb bears no\ninscription naming its occupant, the identification rests entirely on\n[[claim-tomb-ii-green-cremation|forensic]] and chronological argument — which is\nexactly why it stays contested.\n"
+      "body": "The unlooted, two-chambered barrel-vaulted tomb under the [[site-great-tumulus]],\nfound intact in 1977 with a wealth of royal armour, gold, and two cremation\nburials (a man in the main chamber, a woman in the antechamber).\n\nIts main-chamber male is the single most fought-over skeleton in Greek\narchaeology: claimed for Philip II ([[claim-tomb-ii-philip-ii]]) and for Philip\nIII Arrhidaios ([[claim-tomb-ii-arrhidaios]]). Because the tomb bears no\ninscription naming its occupant, the identification rests entirely on\n[[claim-tomb-ii-green-cremation|forensic]] and chronological argument — which is\nexactly why it stays contested.\n",
+      "in_cites": 4,
+      "out_cites": 1,
+      "funnel_size": 11,
+      "citogenesis_root": false,
+      "traces_to": []
     },
     {
       "id": "source-bartsiokas-2000",
@@ -182,7 +331,15 @@
       "title": "Bartsiokas 2000 — The Eye Injury of King Philip II and the Skeletal Evidence from Royal Tomb II at Vergina",
       "status": "primary",
       "confidence": 0.9,
-      "body": "**Peer-reviewed article, Science, 2000.** Verified via search of the Science\nrecord and the surrounding literature (the paper is widely cited by both camps).\n\nRe-examines the cremated Tomb II skull. Argues that the orbital scar earlier read\nas [[scholar-john-prag|Prag]]'s evidence of Philip II's famous eye wound is in\nfact an artefact of cremation, and that the post-cranial skeleton lacks the\ntrauma Philip's documented injuries would predict. Concludes the bones were burned\n**dry** (degreased, unfleshed) and belong to [[scholar-antonis-bartsiokas]]'s\nproposed occupant, Philip III Arrhidaios — i.e. it supports\n[[claim-tomb-ii-arrhidaios]] and attacks [[claim-tomb-ii-philip-ii]].\n\nThis is a **primary node in the dispute**: directly answered by\n[[source-musgrave-2010]]. In graph terms it is one root of the Tomb II\ncitation funnel — a large share of the \"Arrhidaios\" argument traces back here.\n"
+      "body": "**Peer-reviewed article, Science, 2000.** Verified via search of the Science\nrecord and the surrounding literature (the paper is widely cited by both camps).\n\nRe-examines the cremated Tomb II skull. Argues that the orbital scar earlier read\nas [[scholar-john-prag|Prag]]'s evidence of Philip II's famous eye wound is in\nfact an artefact of cremation, and that the post-cranial skeleton lacks the\ntrauma Philip's documented injuries would predict. Concludes the bones were burned\n**dry** (degreased, unfleshed) and belong to [[scholar-antonis-bartsiokas]]'s\nproposed occupant, Philip III Arrhidaios — i.e. it supports\n[[claim-tomb-ii-arrhidaios]] and attacks [[claim-tomb-ii-philip-ii]].\n\nThis is a **primary node in the dispute**: directly answered by\n[[source-musgrave-2010]]. In graph terms it is one root of the Tomb II\ncitation funnel — a large share of the \"Arrhidaios\" argument traces back here.\n",
+      "in_cites": 1,
+      "out_cites": 1,
+      "funnel_size": 2,
+      "citogenesis_root": false,
+      "tier": "primary",
+      "traces_to": [
+        "scholar-antonis-bartsiokas"
+      ]
     },
     {
       "id": "source-bartsiokas-2015",
@@ -190,7 +347,20 @@
       "title": "Bartsiokas et al. 2015 — The lameness of King Philip II and Royal Tomb I at Vergina",
       "status": "primary",
       "confidence": 0.92,
-      "body": "**Peer-reviewed article, PNAS, 2015.** Fetched and verified via PubMed Central\n(PMC4538655); full citation and DOI confirmed from the article record.\n\nShifts [[scholar-antonis-bartsiokas]]'s argument to a different tomb. Reports a\nknee ankylosis (fused at ~79°, pierced by a healed penetrating lesion) in the\n[[site-tomb-i]] male — see [[claim-tomb-i-knee-lameness]] — and reads it as the\nlameness Philip II suffered from a 339 BC lance wound. Concludes Philip II lies in\nTomb I, with Cleopatra and their newborn; and, consequently, that\n[[site-tomb-ii]] holds Arrhidaios and Eurydice.\n\nSupports [[claim-tomb-i-philip-ii]]; disputes [[claim-tomb-ii-philip-ii]]. A\nstriking, much-discussed paper that nonetheless remains a minority position —\ncovered in the synthesis [[source-vergina-review-2023]].\n"
+      "body": "**Peer-reviewed article, PNAS, 2015.** Fetched and verified via PubMed Central\n(PMC4538655); full citation and DOI confirmed from the article record.\n\nShifts [[scholar-antonis-bartsiokas]]'s argument to a different tomb. Reports a\nknee ankylosis (fused at ~79°, pierced by a healed penetrating lesion) in the\n[[site-tomb-i]] male — see [[claim-tomb-i-knee-lameness]] — and reads it as the\nlameness Philip II suffered from a 339 BC lance wound. Concludes Philip II lies in\nTomb I, with Cleopatra and their newborn; and, consequently, that\n[[site-tomb-ii]] holds Arrhidaios and Eurydice.\n\nSupports [[claim-tomb-i-philip-ii]]; disputes [[claim-tomb-ii-philip-ii]]. A\nstriking, much-discussed paper that nonetheless remains a minority position —\ncovered in the synthesis [[source-vergina-review-2023]].\n",
+      "in_cites": 2,
+      "out_cites": 1,
+      "funnel_size": 3,
+      "citogenesis_root": true,
+      "funnel_members": [
+        "claim-tomb-i-knee-lameness",
+        "claim-tomb-i-philip-ii",
+        "source-vergina-review-2023"
+      ],
+      "tier": "primary",
+      "traces_to": [
+        "scholar-antonis-bartsiokas"
+      ]
     },
     {
       "id": "source-bruins-2009",
@@ -198,7 +368,17 @@
       "title": "Bruins, van der Plicht & MacGillivray 2009 — The Minoan Santorini Eruption and Tsunami Deposits in Palaikastro (Crete)",
       "status": "primary",
       "confidence": 0.9,
-      "body": "**Peer-reviewed article, Radiocarbon, 2009 (open access).** Fetched via Cambridge Core (DOI 10.1017/S003382220005579X); the full abstract was returned and grounds this note.\n\nPrimary geoarchaeology. The team found extensive **tsunami deposits at Palaikastro on the north coast of Crete** containing reworked volcanic Santorini ash — physical proof the eruption reached Crete (airborne ashfall preceded a tsunami generated during a later eruption phase). So the eruption's effects on Crete are REAL, which is why the popular claim is not simply nonsense.\n\nBut two data points cut against direct destruction: (1) the **youngest pottery in the tsunami deposits is Late Minoan IA**, fixing the eruption in LM IA — before the LM IB palace destructions ([[claim-thera-lmib-gap]]); (2) the radiocarbon dates on animal bone in the deposits (~3350 BP) match the Akrotiri eruption date, wiggle-matched to **1627-1600 cal BCE** ([[claim-thera-high-chronology]]), ~100-150 yr older than the Egyptian-synchronism date the authors note is 'conventionally linked at ~1500 BCE.'\n\nSupports [[claim-thera-lmib-gap]] and disputes [[claim-thera-destroyed-minoans]]: the eruption struck Crete during LM IA, not at the LM IB destruction horizon. A primary datum (excavated tsunami stratigraphy + on-site 14C), not an echo.\n"
+      "body": "**Peer-reviewed article, Radiocarbon, 2009 (open access).** Fetched via Cambridge Core (DOI 10.1017/S003382220005579X); the full abstract was returned and grounds this note.\n\nPrimary geoarchaeology. The team found extensive **tsunami deposits at Palaikastro on the north coast of Crete** containing reworked volcanic Santorini ash — physical proof the eruption reached Crete (airborne ashfall preceded a tsunami generated during a later eruption phase). So the eruption's effects on Crete are REAL, which is why the popular claim is not simply nonsense.\n\nBut two data points cut against direct destruction: (1) the **youngest pottery in the tsunami deposits is Late Minoan IA**, fixing the eruption in LM IA — before the LM IB palace destructions ([[claim-thera-lmib-gap]]); (2) the radiocarbon dates on animal bone in the deposits (~3350 BP) match the Akrotiri eruption date, wiggle-matched to **1627-1600 cal BCE** ([[claim-thera-high-chronology]]), ~100-150 yr older than the Egyptian-synchronism date the authors note is 'conventionally linked at ~1500 BCE.'\n\nSupports [[claim-thera-lmib-gap]] and disputes [[claim-thera-destroyed-minoans]]: the eruption struck Crete during LM IA, not at the LM IB destruction horizon. A primary datum (excavated tsunami stratigraphy + on-site 14C), not an echo.\n",
+      "in_cites": 2,
+      "out_cites": 1,
+      "funnel_size": 2,
+      "citogenesis_root": false,
+      "tier": "primary",
+      "traces_to": [
+        "scholar-sturt-manning",
+        "source-friedrich-2006",
+        "source-pearson-2018"
+      ]
     },
     {
       "id": "source-ehrlich-2023",
@@ -206,7 +386,13 @@
       "title": "Ehrlich et al. 2023 — Olive shrub buried on Therasia supports a mid-16th century BCE date for the Thera eruption",
       "status": "primary",
       "confidence": 0.88,
-      "body": "**Peer-reviewed article, Scientific Reports, 2023 (open access).** Verified via\nthe Nature record and PMC (PMC10147620); the fetch hit an IdP redirect but\ncitation and result are confirmed from the indexed record and abstract.\n\nReports a second, independent buried olive — a shrub carbonised in life position\non neighbouring Therasia — radiocarbon-dated to the **mid-16th century BCE**,\nslightly younger than the [[source-friedrich-2006|1627–1600 BCE branch]]. The\nauthors read it as support for a high (16th-c) date while noting the persistent\ngap with the archaeological chronology.\n\nA useful stress-test node: a *new primary datum* rather than a review, it nudges\n[[claim-thera-high-chronology]] later within the high-chronology range and\ntightens the case against [[claim-thera-low-chronology]] — showing the graph can\nrepresent evidence that supports one claim while only partly agreeing with an\nallied source.\n"
+      "body": "**Peer-reviewed article, Scientific Reports, 2023 (open access).** Verified via\nthe Nature record and PMC (PMC10147620); the fetch hit an IdP redirect but\ncitation and result are confirmed from the indexed record and abstract.\n\nReports a second, independent buried olive — a shrub carbonised in life position\non neighbouring Therasia — radiocarbon-dated to the **mid-16th century BCE**,\nslightly younger than the [[source-friedrich-2006|1627–1600 BCE branch]]. The\nauthors read it as support for a high (16th-c) date while noting the persistent\ngap with the archaeological chronology.\n\nA useful stress-test node: a *new primary datum* rather than a review, it nudges\n[[claim-thera-high-chronology]] later within the high-chronology range and\ntightens the case against [[claim-thera-low-chronology]] — showing the graph can\nrepresent evidence that supports one claim while only partly agreeing with an\nallied source.\n",
+      "in_cites": 0,
+      "out_cites": 1,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "tier": "primary",
+      "traces_to": []
     },
     {
       "id": "source-friedrich-2006",
@@ -214,7 +400,19 @@
       "title": "Friedrich et al. 2006 — Santorini Eruption Radiocarbon Dated to 1627–1600 B.C.",
       "status": "primary",
       "confidence": 0.9,
-      "body": "**Peer-reviewed article, Science, 2006.** Fetched and verified via the PubMed\nrecord (PMID 16645088); author list and result confirmed.\n\nReports an olive tree buried alive in growth position by the Thera tephra.\nRadiocarbon wiggle-matching of successive tree-ring segments constrains the\neruption to **1627–1600 BCE at 95.4% probability** — about a century earlier than\nthe Egyptian-synchronism date. The keystone exhibit for\n[[claim-thera-high-chronology]].\n\nA root of the high-chronology citation funnel: much later argument leans on this\nsingle buried branch, which is also why the branch itself became contested (its\nring count and the assumption it died in the eruption have both been questioned).\nA clean example of why the graph distinguishes a primary datum from the many\npapers that echo it.\n"
+      "body": "**Peer-reviewed article, Science, 2006.** Fetched and verified via the PubMed\nrecord (PMID 16645088); author list and result confirmed.\n\nReports an olive tree buried alive in growth position by the Thera tephra.\nRadiocarbon wiggle-matching of successive tree-ring segments constrains the\neruption to **1627–1600 BCE at 95.4% probability** — about a century earlier than\nthe Egyptian-synchronism date. The keystone exhibit for\n[[claim-thera-high-chronology]].\n\nA root of the high-chronology citation funnel: much later argument leans on this\nsingle buried branch, which is also why the branch itself became contested (its\nring count and the assumption it died in the eruption have both been questioned).\nA clean example of why the graph distinguishes a primary datum from the many\npapers that echo it.\n",
+      "in_cites": 1,
+      "out_cites": 1,
+      "funnel_size": 4,
+      "citogenesis_root": true,
+      "funnel_members": [
+        "claim-thera-destroyed-minoans",
+        "claim-thera-high-chronology",
+        "claim-thera-lmib-gap",
+        "source-bruins-2009"
+      ],
+      "tier": "primary",
+      "traces_to": []
     },
     {
       "id": "source-lespez-2021",
@@ -222,7 +420,13 @@
       "title": "Lespez et al. 2021 — Discovery of a tsunami deposit from the Bronze Age Santorini eruption at Malia (Crete)",
       "status": "primary",
       "confidence": 0.9,
-      "body": "**Peer-reviewed article, Scientific Reports, 2021 (open access).** Fetched via Nature (DOI 10.1038/s41598-021-94859-1); full abstract and introduction returned and ground this note.\n\nModern primary geoarchaeology confirming and bounding the eruption's reach onto Crete. A geomorphological survey west of the palatial town of **Malia** (north Crete, ~120 km from Santorini) found a unique Late Minoan erosional event capped by a high-energy marine sand unit: a **tsunami that inundated up to ~400 m inland**, reaching the outskirts of the palatial centre. Radiocarbon brackets the event (pre-tsunami 1744-1544 BCE; post-event 1509-1430 BCE).\n\nTwo load-bearing quantities temper the popular claim: the reconstructed **run-up did not exceed ~8 m asl**, and Malia was not destroyed by it — the town was abandoned only much later, in **LM IIIB (13th c. BCE)**. So the tsunami impact was real but coastal, localized and survivable, not civilization-ending. The eruption is characterized as VEI 7, ~78-86 km3 DRE — genuinely one of the largest of the Holocene.\n\nThe authors explicitly frame the find as opening 'new research on... impact and consequences for the Minoan civilization' — hence it supports the weaker [[claim-thera-indirect-contribution]] while disputing the strong [[claim-thera-destroyed-minoans]]. (Co-author Charlotte Pearson also authored the chronology paper [[source-pearson-2018]].)\n"
+      "body": "**Peer-reviewed article, Scientific Reports, 2021 (open access).** Fetched via Nature (DOI 10.1038/s41598-021-94859-1); full abstract and introduction returned and ground this note.\n\nModern primary geoarchaeology confirming and bounding the eruption's reach onto Crete. A geomorphological survey west of the palatial town of **Malia** (north Crete, ~120 km from Santorini) found a unique Late Minoan erosional event capped by a high-energy marine sand unit: a **tsunami that inundated up to ~400 m inland**, reaching the outskirts of the palatial centre. Radiocarbon brackets the event (pre-tsunami 1744-1544 BCE; post-event 1509-1430 BCE).\n\nTwo load-bearing quantities temper the popular claim: the reconstructed **run-up did not exceed ~8 m asl**, and Malia was not destroyed by it — the town was abandoned only much later, in **LM IIIB (13th c. BCE)**. So the tsunami impact was real but coastal, localized and survivable, not civilization-ending. The eruption is characterized as VEI 7, ~78-86 km3 DRE — genuinely one of the largest of the Holocene.\n\nThe authors explicitly frame the find as opening 'new research on... impact and consequences for the Minoan civilization' — hence it supports the weaker [[claim-thera-indirect-contribution]] while disputing the strong [[claim-thera-destroyed-minoans]]. (Co-author Charlotte Pearson also authored the chronology paper [[source-pearson-2018]].)\n",
+      "in_cites": 2,
+      "out_cites": 0,
+      "funnel_size": 2,
+      "citogenesis_root": false,
+      "tier": "primary",
+      "traces_to": []
     },
     {
       "id": "source-musgrave-2010",
@@ -230,7 +434,13 @@
       "title": "Musgrave et al. 2010 — The Occupants of Tomb II at Vergina: Why Arrhidaios and Eurydice must be excluded",
       "status": "primary",
       "confidence": 0.9,
-      "body": "**Peer-reviewed article, International Journal of Medical Sciences, 2010\n(open access).** Verified via the journal record and Bristol's research\nrepository.\n\nA point-by-point rebuttal of [[source-bartsiokas-2000]]. Its central forensic\nclaim: the colour and transverse fracture lines of the Tomb II bones indicate a\n**green** (fleshed) cremation, not a dry one — see\n[[claim-tomb-ii-green-cremation]]. The authors argue this weakens rather than\nstrengthens the Arrhidaios case, and that the skull's facial asymmetry is\nconsistent with Philip II's eye wound. Supports [[claim-tomb-ii-philip-ii]];\ndisputes [[claim-tomb-ii-arrhidaios]].\n\nAuthored by the [[scholar-john-prag|Prag]]–Neave–[[scholar-jonathan-musgrave|Musgrave]]\nteam behind the original facial reconstruction, so it is **evidence *and*\ninterested party** — a good example of why the graph tracks who argues what, not\njust the conclusion.\n"
+      "body": "**Peer-reviewed article, International Journal of Medical Sciences, 2010\n(open access).** Verified via the journal record and Bristol's research\nrepository.\n\nA point-by-point rebuttal of [[source-bartsiokas-2000]]. Its central forensic\nclaim: the colour and transverse fracture lines of the Tomb II bones indicate a\n**green** (fleshed) cremation, not a dry one — see\n[[claim-tomb-ii-green-cremation]]. The authors argue this weakens rather than\nstrengthens the Arrhidaios case, and that the skull's facial asymmetry is\nconsistent with Philip II's eye wound. Supports [[claim-tomb-ii-philip-ii]];\ndisputes [[claim-tomb-ii-arrhidaios]].\n\nAuthored by the [[scholar-john-prag|Prag]]–Neave–[[scholar-jonathan-musgrave|Musgrave]]\nteam behind the original facial reconstruction, so it is **evidence *and*\ninterested party** — a good example of why the graph tracks who argues what, not\njust the conclusion.\n",
+      "in_cites": 1,
+      "out_cites": 1,
+      "funnel_size": 1,
+      "citogenesis_root": false,
+      "tier": "primary",
+      "traces_to": []
     },
     {
       "id": "source-pearson-2018",
@@ -238,7 +448,24 @@
       "title": "Pearson et al. 2018 — Annual radiocarbon record indicates 16th-century BCE date for the Thera eruption",
       "status": "primary",
       "confidence": 0.9,
-      "body": "**Peer-reviewed article, Science Advances, 2018 (open access).** Verified via the\njournal record and PMC (PMC6093623); the paywalled HTML blocked a direct read but\nthe citation, authorship, and result are confirmed across the indexed record.\n\nUses annual-resolution radiocarbon measurements on known-age tree rings to refine\nthe calibration curve around the eruption window. Concludes the data indicate a\n**16th-century BCE** date, narrowing — though not eliminating — the offset from\nthe archaeological chronology. Supports [[claim-thera-high-chronology]];\nco-authored by [[scholar-sturt-manning]].\n\nSits *downstream* of [[source-friedrich-2006]] in the argument but is\nmethodologically independent (calibration, not the buried branch), so it\ngenuinely strengthens the high chronology rather than merely echoing it — the\ndistinction the citogenesis check is built to surface.\n"
+      "body": "**Peer-reviewed article, Science Advances, 2018 (open access).** Verified via the\njournal record and PMC (PMC6093623); the paywalled HTML blocked a direct read but\nthe citation, authorship, and result are confirmed across the indexed record.\n\nUses annual-resolution radiocarbon measurements on known-age tree rings to refine\nthe calibration curve around the eruption window. Concludes the data indicate a\n**16th-century BCE** date, narrowing — though not eliminating — the offset from\nthe archaeological chronology. Supports [[claim-thera-high-chronology]];\nco-authored by [[scholar-sturt-manning]].\n\nSits *downstream* of [[source-friedrich-2006]] in the argument but is\nmethodologically independent (calibration, not the buried branch), so it\ngenuinely strengthens the high chronology rather than merely echoing it — the\ndistinction the citogenesis check is built to surface.\n",
+      "in_cites": 2,
+      "out_cites": 1,
+      "funnel_size": 6,
+      "citogenesis_root": true,
+      "funnel_members": [
+        "claim-thera-destroyed-minoans",
+        "claim-thera-high-chronology",
+        "claim-thera-lmib-gap",
+        "scholar-sturt-manning",
+        "source-bruins-2009",
+        "source-pearson-2018"
+      ],
+      "tier": "primary",
+      "traces_to": [
+        "scholar-sturt-manning",
+        "source-pearson-2018"
+      ]
     },
     {
       "id": "source-pichler-schiering-1977",
@@ -246,7 +473,13 @@
       "title": "Pichler & Schiering 1977 — The Thera eruption and Late Minoan-IB destructions on Crete",
       "status": "primary",
       "confidence": 0.85,
-      "body": "**Peer-reviewed Letter, Nature, 1977.** Fetched via the Nature record (DOI 10.1038/267819a0); the full abstract was returned and is the basis for this note (the body text is paywalled).\n\nThe abstract is directly load-bearing for the destruction debate. It states that '[[scholar-spyridon-marinatos|Marinatos]]' theory of the decline of the Minoan civilisation by paroxysmal volcanic events of the Thera volcano is widely accepted,' then identifies 'the main and controversial problem': the LM IB devastations of Cretan sites and palaces are dated archaeologically as **30-50 yr later** than the LM IA destruction of Akrotiri on Santorini. Marinatos' theory would therefore require TWO eruptions (~1500 BCE for LM IA, ~1450 BCE for LM IB).\n\nThe authors' own fieldwork on Santorini finds 'neither products of two volcanic outbursts nor of a two-phase eruption... differing in a time interval of about 50 yr' — i.e. a SINGLE eruption. Load-bearing consequence: with only one eruption (in LM IA), there is no volcanic event to blame for the later LM IB Cretan destructions. Cited for [[claim-thera-lmib-gap]] and against [[claim-thera-destroyed-minoans]].\n\nA near-primary node in the citation graph: a geological field study, not a textbook echo, and one of the two founding 1977-78 Nature papers (with Sparks et al. 1978) that first pinned down the chronological separation.\n"
+      "body": "**Peer-reviewed Letter, Nature, 1977.** Fetched via the Nature record (DOI 10.1038/267819a0); the full abstract was returned and is the basis for this note (the body text is paywalled).\n\nThe abstract is directly load-bearing for the destruction debate. It states that '[[scholar-spyridon-marinatos|Marinatos]]' theory of the decline of the Minoan civilisation by paroxysmal volcanic events of the Thera volcano is widely accepted,' then identifies 'the main and controversial problem': the LM IB devastations of Cretan sites and palaces are dated archaeologically as **30-50 yr later** than the LM IA destruction of Akrotiri on Santorini. Marinatos' theory would therefore require TWO eruptions (~1500 BCE for LM IA, ~1450 BCE for LM IB).\n\nThe authors' own fieldwork on Santorini finds 'neither products of two volcanic outbursts nor of a two-phase eruption... differing in a time interval of about 50 yr' — i.e. a SINGLE eruption. Load-bearing consequence: with only one eruption (in LM IA), there is no volcanic event to blame for the later LM IB Cretan destructions. Cited for [[claim-thera-lmib-gap]] and against [[claim-thera-destroyed-minoans]].\n\nA near-primary node in the citation graph: a geological field study, not a textbook echo, and one of the two founding 1977-78 Nature papers (with Sparks et al. 1978) that first pinned down the chronological separation.\n",
+      "in_cites": 2,
+      "out_cites": 0,
+      "funnel_size": 2,
+      "citogenesis_root": false,
+      "tier": "primary",
+      "traces_to": []
     },
     {
       "id": "source-vergina-review-2023",
@@ -254,7 +487,16 @@
       "title": "Maniatis et al. 2023 — The identification of the Royal Tombs in the Great Tumulus at Vergina: A comprehensive review",
       "status": "secondary",
       "confidence": 0.85,
-      "body": "**Secondary / review article, 2023.** Verified via the ScienceDirect record;\nlisted here as a *review* (echo), not primary evidence — an important distinction\nthis project makes explicit.\n\nA comprehensive survey of the Vergina identification debate, weighing the\nradiocarbon, osteological, and archaeological arguments across all three Great\nTumulus tombs. It **cites and summarises** the primary forensic work rather than\ngenerating new skeletal evidence, so in the graph it points *up* at the claims\nand at [[site-great-tumulus]] as a synthesis node.\n\nIncluded deliberately as a citogenesis check: a reader who found only this review\nmight treat \"the evidence\" as one coherent body, when it is in fact a contested\npile of [[source-bartsiokas-2000]], [[source-musgrave-2010]], and\n[[source-bartsiokas-2015]] pulling in different directions.\n"
+      "body": "**Secondary / review article, 2023.** Verified via the ScienceDirect record;\nlisted here as a *review* (echo), not primary evidence — an important distinction\nthis project makes explicit.\n\nA comprehensive survey of the Vergina identification debate, weighing the\nradiocarbon, osteological, and archaeological arguments across all three Great\nTumulus tombs. It **cites and summarises** the primary forensic work rather than\ngenerating new skeletal evidence, so in the graph it points *up* at the claims\nand at [[site-great-tumulus]] as a synthesis node.\n\nIncluded deliberately as a citogenesis check: a reader who found only this review\nmight treat \"the evidence\" as one coherent body, when it is in fact a contested\npile of [[source-bartsiokas-2000]], [[source-musgrave-2010]], and\n[[source-bartsiokas-2015]] pulling in different directions.\n",
+      "in_cites": 0,
+      "out_cites": 4,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "tier": "secondary",
+      "traces_to": [
+        "scholar-antonis-bartsiokas",
+        "source-bartsiokas-2015"
+      ]
     }
   ],
   "links": [
@@ -978,6 +1220,38 @@
       "cites": 41,
       "disputes": 17,
       "supports": 21
-    }
+    },
+    "citogenesis_roots": [
+      {
+        "id": "scholar-antonis-bartsiokas",
+        "title": "Antonis Bartsiokas",
+        "type": "scholar",
+        "funnel_size": 6
+      },
+      {
+        "id": "scholar-sturt-manning",
+        "title": "Sturt W. Manning",
+        "type": "scholar",
+        "funnel_size": 6
+      },
+      {
+        "id": "source-pearson-2018",
+        "title": "Pearson et al. 2018 — Annual radiocarbon record indicates 16th-century BCE date for the Thera eruption",
+        "type": "source",
+        "funnel_size": 6
+      },
+      {
+        "id": "source-friedrich-2006",
+        "title": "Friedrich et al. 2006 — Santorini Eruption Radiocarbon Dated to 1627–1600 B.C.",
+        "type": "source",
+        "funnel_size": 4
+      },
+      {
+        "id": "source-bartsiokas-2015",
+        "title": "Bartsiokas et al. 2015 — The lameness of King Philip II and Royal Tomb I at Vergina",
+        "type": "source",
+        "funnel_size": 3
+      }
+    ]
   }
 }
