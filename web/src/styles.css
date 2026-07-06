@@ -269,6 +269,89 @@ body,
   height: 100%;
   background: linear-gradient(90deg, var(--disputes), var(--claim), var(--supports));
 }
+/* step 4 — verdict block */
+.verdict {
+  border: 1px solid var(--panel-edge);
+  border-radius: 9px;
+  padding: 12px 14px;
+  margin-bottom: 14px;
+  background: rgba(255, 255, 255, 0.02);
+}
+.verdict-head {
+  display: inline-block;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  padding: 4px 12px;
+  border-radius: 6px;
+  margin-bottom: 10px;
+}
+.vh-contested {
+  background: rgba(240, 180, 41, 0.16);
+  color: var(--claim);
+}
+.vh-refuted {
+  background: rgba(240, 80, 110, 0.16);
+  color: var(--disputes);
+}
+.vh-supported,
+.vh-settled {
+  background: rgba(78, 168, 138, 0.18);
+  color: var(--supports);
+}
+.vsec {
+  margin-top: 8px;
+}
+.vlabel {
+  font-size: 10.5px;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--muted);
+}
+.vlabel.vfor {
+  color: var(--supports);
+}
+.vlabel.vagainst {
+  color: var(--disputes);
+}
+.vsec ul {
+  list-style: none;
+  margin: 5px 0 0;
+  padding: 0;
+}
+.vsec li {
+  font-size: 13px;
+  line-height: 1.4;
+  margin: 3px 0;
+  display: flex;
+  align-items: center;
+  gap: 7px;
+}
+.vsec li a.wl {
+  color: var(--ink);
+  cursor: pointer;
+  border-bottom: 1px dotted rgba(200, 200, 220, 0.3);
+}
+.vsec li a.wl:hover {
+  border-bottom-color: var(--claim);
+}
+.tierpill {
+  font-size: 9.5px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  padding: 1px 6px;
+  border-radius: 4px;
+  flex-shrink: 0;
+}
+.tp-primary {
+  background: rgba(56, 189, 248, 0.18);
+  color: var(--source);
+}
+.tp-secondary {
+  background: rgba(139, 147, 161, 0.18);
+  color: var(--muted);
+}
+
 .citogenesis {
   background: rgba(245, 196, 81, 0.1);
   border: 1px solid rgba(245, 196, 81, 0.35);

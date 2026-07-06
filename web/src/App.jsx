@@ -15,6 +15,12 @@ const TYPE_LABEL = {
   site: "Site",
   scholar: "Scholar",
 };
+const VERDICT_LABEL = {
+  contested: "CONTESTED",
+  refuted: "REFUTED",
+  supported: "SUPPORTED",
+  settled: "SETTLED",
+};
 const REL_STYLE = {
   supports: { color: "#4ea88a", dash: null, arrow: true },
   disputes: { color: "#f0506e", dash: [5, 4], arrow: true },
@@ -137,6 +143,34 @@ export default function App() {
     if (funnelById[focusId]) funnelById[focusId].forEach((x) => s.add(x));
     return s;
   }, [focusId, neighbors, funnelById]);
+
+  const openNode = useCallback((n) => {
+    if (!n) return;
+    setSelected(n);
+    if (fgRef.current && n.x != null) fgRef.current.centerAt(n.x, n.y, 600);
+  }, []);
+
+  // Step 4: assemble a claim's verdict from the graph edges — the evidence that
+  // supports it (tiered primary/echo) and everything that disputes it.
+  const verdict = useMemo(() => {
+    if (!selected || selected.type !== "claim" || !data) return null;
+    const cid = selected.id;
+    const evidence = new Map();
+    const disputedBy = new Map();
+    for (const l of data.links) {
+      const s = typeof l.source === "object" ? l.source.id : l.source;
+      const t = typeof l.target === "object" ? l.target.id : l.target;
+      if (l.rel === "supports" && t === cid && nodesById[s])
+        evidence.set(s, nodesById[s]);
+      if (l.rel === "cites" && s === cid && nodesById[t] && nodesById[t].type === "source")
+        if (!evidence.has(t)) evidence.set(t, nodesById[t]);
+      if (l.rel === "disputes") {
+        if (t === cid && nodesById[s]) disputedBy.set(s, nodesById[s]);
+        if (s === cid && nodesById[t]) disputedBy.set(t, nodesById[t]);
+      }
+    }
+    return { evidence: [...evidence.values()], disputedBy: [...disputedBy.values()] };
+  }, [selected, data, nodesById]);
 
   const nodeSize = useCallback(
     (n) => 2.6 + Math.sqrt(degree[n.id] || 1) * 1.25 + (n.citogenesis_root ? 1.6 : 0),
@@ -347,6 +381,43 @@ export default function App() {
               </span>
             ) : null}
           </div>
+
+          {verdict && (
+            <div className="verdict">
+              <div className={`verdict-head vh-${selected.status}`}>
+                {VERDICT_LABEL[selected.status] || selected.status || "verdict"}
+              </div>
+              {verdict.evidence.length > 0 && (
+                <div className="vsec">
+                  <span className="vlabel vfor">Evidence for · {verdict.evidence.length}</span>
+                  <ul>
+                    {verdict.evidence.map((n) => (
+                      <li key={n.id}>
+                        <a className="wl" onClick={() => openNode(n)}>{n.title}</a>
+                        {n.type === "source" && n.tier && (
+                          <span className={`tierpill tp-${n.tier}`}>
+                            {n.tier === "secondary" ? "echo" : "primary"}
+                          </span>
+                        )}
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              )}
+              {verdict.disputedBy.length > 0 && (
+                <div className="vsec">
+                  <span className="vlabel vagainst">Disputed by · {verdict.disputedBy.length}</span>
+                  <ul>
+                    {verdict.disputedBy.map((n) => (
+                      <li key={n.id}>
+                        <a className="wl" onClick={() => openNode(n)}>{n.title}</a>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              )}
+            </div>
+          )}
 
           {selected.citogenesis_root && (
             <div className="citogenesis">

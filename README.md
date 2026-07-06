@@ -35,11 +35,11 @@ advantage in language and sources.
 
 ## Status
 
-🚧 Private while under construction. **Steps 1–3 of 6 are in place** — the wiki →
+🚧 Private while under construction. **Steps 1–4 of 6 are in place** — the wiki →
 graph → interactive UI pipeline (step 1, hand-authored seed), the investigation
-agent that extends it (step 2, including a model-in-the-loop run through the
-anti-hallucination gate), and mechanical citation-chasing + citogenesis detection
-(step 3).
+agent that extends it (step 2, including model-in-the-loop runs through the
+anti-hallucination gate — now three domains: Vergina, Thera, Mycenae), mechanical
+citation-chasing + citogenesis detection (step 3), and a verdict dossier (step 4).
 
 ## What's built so far (step 1: de-risk the demo)
 
@@ -85,6 +85,16 @@ The current corpus surfaces **5 roots** — e.g. the scholar *Antonis Bartsiokas
 on. Below: focusing Bartsiokas lights his funnel and dims everything else.
 
 ![A citogenesis funnel — six notes tracing to one scholar](docs/img/citogenesis-funnel.png)
+
+### Step 4 — the verdict dossier
+
+Selecting a claim now assembles a **verdict** straight from the graph: the verdict
+label + calibrated confidence, the **evidence for** it (each supporting source
+tagged primary or echo), and everything that **disputes** it — every line
+clickable, so you can walk the argument. It's the "cited verdict dossier" the
+project is ultimately for, rendered from the same edges the graph draws.
+
+![The verdict dossier for a contested claim](docs/img/verdict-dossier.png)
 
 ![The citation graph — two claim clusters](docs/img/graph-overview.png)
 
