@@ -1,6 +1,50 @@
 {
   "nodes": [
     {
+      "id": "claim-mask-authenticity-dispute",
+      "type": "claim",
+      "title": "The mask may have been modified / 'improved' or misreported (authenticity dispute)",
+      "status": "contested",
+      "confidence": 0.5,
+      "body": "A separate sub-issue from the (refuted) Agamemnon identification: **is the object as found genuine and unaltered?** [[scholar-david-traill]] and William M. Calder III, in the wider revisionist critique of [[scholar-heinrich-schliemann]]'s reliability ([[source-traill-1989]]), have argued that Schliemann embellished or fabricated discovery narratives, and some have suggested that the most famous mask's unusually 'modern' features (full beard, cut-out ears, defined eyebrows) could reflect modern 'improvement' by a goldsmith, or that Schliemann substituted/altered a find.\n\n**Status: genuinely contested (~0.5).** No metallurgical study has demonstrated forgery, and the mask is generally accepted as an authentic Late Bronze Age object; but Schliemann's documented unreliability keeps the tampering hypothesis alive and unresolved. Critics of Traill (e.g. [[source-easton-1994]]) argue the sceptics overreach. The system does **not** pick a side here: the weight of evidence is roughly balanced between 'authentic, if idiosyncratic' and 'possibly modified', so confidence sits near 0.5. This is orthogonal to [[claim-mask-chronological-gap]] — authenticity does not rescue the Agamemnon label.\n",
+      "in_cites": 0,
+      "out_cites": 2,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": [
+        "scholar-david-traill",
+        "scholar-heinrich-schliemann"
+      ]
+    },
+    {
+      "id": "claim-mask-chronological-gap",
+      "type": "claim",
+      "title": "The mask is Late Helladic I (c. 1600–1550 BCE), ~300 years before Agamemnon",
+      "status": "supported",
+      "confidence": 0.95,
+      "body": "The grave-goods of Grave Circle A at [[site-mycenae]] — pottery styles, the shaft-grave assemblage as a whole — place its burials in **Late Helladic I, c. 1600–1550 BCE**, at the very start of the Mycenaean sequence. The traditional date of the Trojan War, and therefore of any Agamemnon, is c. 1250 BCE (Late Helladic IIIB). The mask thus predates its supposed owner by roughly **three centuries**.\n\n**Status: supported (high confidence).** This is uncontested textbook chronology in Aegean prehistory, and the absolute framework does not depend on Homer: independent **radiocarbon** dating anchors the Aegean Late Bronze Age sequence (see [[source-manning-weninger-1992]]). Because the dating is secure and the gap is large, this claim **disputes** and effectively **refutes** [[claim-mask-of-agamemnon]]. The dating stands regardless of the separate authenticity question ([[claim-mask-authenticity-dispute]]): even if genuine, the object is far too early to be Agamemnon's.\n",
+      "in_cites": 0,
+      "out_cites": 1,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
+      "id": "claim-mask-of-agamemnon",
+      "type": "claim",
+      "title": "The 'Mask of Agamemnon' depicts / belonged to Agamemnon",
+      "status": "refuted",
+      "confidence": 0.05,
+      "body": "The gold funerary face-mask found by [[scholar-heinrich-schliemann]] in 1876 in **Shaft Grave V**, Grave Circle A at [[site-mycenae]], is popularly called the *Mask of Agamemnon*, on Schliemann's identification of its wearer with the Homeric king of Mycenae who led the Greeks against Troy.\n\n**Status: refuted (as literally stated).** The attribution fails on chronology: the mask dates to **Late Helladic I, c. 1600–1550 BCE** — see [[claim-mask-chronological-gap]] — some **300 years before** the traditional dramatic date of the Trojan War (~1250 BCE) with which any historical 'Agamemnon' is associated. The man in the grave cannot be Agamemnon; the name is a museum label of romantic convenience, not an identification. Essentially all scholars reject it, and even the source of the claim, Schliemann's own *Mycenae* (1878, [[source-schliemann-mycenae-1878]]), is now judged 'ill-founded' in its conclusions.\n\nConfidence is held very low (0.05), not zero, only because 'Agamemnon' as a legendary figure has no fixed historicity to disprove absolutely — but as an identification of *this* burial it is untenable. Note this is distinct from the separate, genuinely open question of whether the object itself was tampered with: [[claim-mask-authenticity-dispute]]. The popular name is sustained by echo (guidebooks, museum captions), not by any primary evidence.\n",
+      "in_cites": 0,
+      "out_cites": 2,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": [
+        "scholar-heinrich-schliemann"
+      ]
+    },
+    {
       "id": "claim-thera-destroyed-minoans",
       "type": "claim",
       "title": "The Thera (Santorini) eruption destroyed Minoan civilization",
@@ -172,6 +216,42 @@
       "traces_to": []
     },
     {
+      "id": "scholar-david-traill",
+      "type": "scholar",
+      "title": "David A. Traill",
+      "status": "stub",
+      "confidence": 0.85,
+      "body": "Classicist (University of California, Davis), the leading modern critic of [[scholar-heinrich-schliemann]]'s reliability. With William M. Calder III he edited *Myth, Scandal and History: The Heinrich Schliemann Controversy* (1986) and wrote *Schliemann of Troy: Treasure and Deceit* (1995) and the collected *Excavating Schliemann* (1993). His re-examinations of Schliemann's diaries and letters argue that key discovery narratives were embellished or fabricated (see [[source-traill-1989]], reviewed in [[source-easton-1994]]).\n\nTraill and Calder are central to [[claim-mask-authenticity-dispute]] — the argument that some shaft-grave gold, possibly including the *Mask of Agamemnon*, may have been 'improved' by a modern goldsmith or otherwise misreported. Critics (including Easton) hold that Traill sometimes overstates the case, which is why the sub-issue remains genuinely contested rather than settled.\n",
+      "in_cites": 3,
+      "out_cites": 0,
+      "funnel_size": 3,
+      "citogenesis_root": true,
+      "funnel_members": [
+        "claim-mask-authenticity-dispute",
+        "source-easton-1994",
+        "source-traill-1989"
+      ],
+      "traces_to": []
+    },
+    {
+      "id": "scholar-heinrich-schliemann",
+      "type": "scholar",
+      "title": "Heinrich Schliemann (1822–1890)",
+      "status": "stub",
+      "confidence": 0.9,
+      "body": "German businessman-turned-excavator of Troy (Hisarlik), [[site-mycenae]], Tiryns and Orchomenos. On uncovering a richly-furnished body in Shaft Grave V at Mycenae in 1876 he reportedly cabled that he had 'gazed upon the face of Agamemnon' — the origin of the attribution challenged in [[claim-mask-of-agamemnon]]. He published the finds in *Mycenae* (1878) ([[source-schliemann-mycenae-1878]]).\n\nSchliemann is credited with revealing the historical reality of Mycenaean civilisation, but his reporting is unreliable: a revisionist literature led by [[scholar-david-traill]] has documented fabricated and embellished excavation narratives (e.g. Priam's Treasure), feeding the authenticity questions of [[claim-mask-authenticity-dispute]]. His conclusions, including the Agamemnon identification, are today regarded as ill-founded.\n",
+      "in_cites": 3,
+      "out_cites": 0,
+      "funnel_size": 3,
+      "citogenesis_root": true,
+      "funnel_members": [
+        "claim-mask-authenticity-dispute",
+        "claim-mask-of-agamemnon",
+        "source-schliemann-mycenae-1878"
+      ],
+      "traces_to": []
+    },
+    {
       "id": "scholar-john-prag",
       "type": "scholar",
       "title": "A. J. N. W. (John) Prag",
@@ -300,6 +380,19 @@
       "traces_to": []
     },
     {
+      "id": "site-mycenae",
+      "type": "site",
+      "title": "Mycenae — Grave Circle A / Shaft Grave V",
+      "status": "stub",
+      "confidence": 0.95,
+      "body": "Late Bronze Age citadel in the Argolid, the type-site of **Mycenaean** civilisation. **Grave Circle A**, a ring of six deep **shaft graves**, was excavated by [[scholar-heinrich-schliemann]] in 1876. The graves held five gold funerary face-masks; the most famous, from **Shaft Grave V**, is the so-called *Mask of Agamemnon* ([[claim-mask-of-agamemnon]]).\n\nThe grave-goods date the circle to **Late Helladic I (c. 1600–1500 BCE)** — the *beginning* of the Mycenaean sequence, roughly three centuries before the traditional dramatic date of the Trojan War (see [[claim-mask-chronological-gap]]). Schliemann discovered the citadel's Bronze Age reality, though the site had never been truly lost (see [[source-bha-insearch-2016]]). The absolute framework dating the shaft graves rests on radiocarbon-anchored Aegean chronology, not on Homer ([[source-manning-weninger-1992]]).\n",
+      "in_cites": 2,
+      "out_cites": 0,
+      "funnel_size": 2,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
       "id": "site-tomb-i",
       "type": "site",
       "title": "Tomb I (the looted 'Tomb of Persephone'), Vergina",
@@ -363,6 +456,20 @@
       ]
     },
     {
+      "id": "source-bha-insearch-2016",
+      "type": "source",
+      "title": "Murray 2016 — Review of 'In Search of Agamemnon: Early Travellers to Mycenae'",
+      "status": "secondary",
+      "confidence": 0.7,
+      "body": "**Open-access review** (Ubiquity Press; full text fetched cleanly) of Moore, Rowlands & Karadimas, *In Search of Agamemnon: Early Travellers to Mycenae* (2014). Context / provenance source for [[site-mycenae]] and [[scholar-heinrich-schliemann]].\n\nKey grounded point: it stresses that 'while Schliemann discovered the Mycenaean world through his excavations, **he most certainly did not discover Mycenae itself**' — the site was visited and described by antiquaries and Grand Tourists from classical times onward, and the book 'charts the development of approaches to **dating the site**, particularly in the 19th century.' This tempers the Schliemann-as-lone-genius myth that underwrites the romantic Agamemnon label ([[claim-mask-of-agamemnon]]).\n\nUsed as a **secondary/echo** context source, not primary evidence for any dating or authenticity claim.\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "tier": "secondary",
+      "traces_to": []
+    },
+    {
       "id": "source-bruins-2009",
       "type": "source",
       "title": "Bruins, van der Plicht & MacGillivray 2009 — The Minoan Santorini Eruption and Tsunami Deposits in Palaikastro (Crete)",
@@ -378,6 +485,22 @@
         "scholar-sturt-manning",
         "source-friedrich-2006",
         "source-pearson-2018"
+      ]
+    },
+    {
+      "id": "source-easton-1994",
+      "type": "source",
+      "title": "Easton 1994 — Review of D. A. Traill, Excavating Schliemann",
+      "status": "secondary",
+      "confidence": 0.7,
+      "body": "**Book review (secondary/echo source)** of [[scholar-david-traill]]'s *Excavating Schliemann* (1993), fetched via Cambridge Core. Abstract is unavailable but the references are grounded real text, listing the foundational sceptic literature: Calder III, 'Schliemann on Schliemann: a study in the use of sources' (GRBS 13, 1972) and Calder & Traill, *Myth, Scandal and History* (1986).\n\nIncluded deliberately to keep [[claim-mask-authenticity-dispute]] **calibrated at contested**, not settled: the review documents that the Schliemann-sceptic case is taken seriously in the discipline, while Easton (a Troy scholar) is among those who hold that Traill and Calder sometimes **overstate** the fabrication charge. Two peer voices, opposite leanings — the reason confidence sits near 0.5.\n\nDistinguished here as an **echo, not primary evidence**: it reports and evaluates Traill's arguments rather than presenting new excavation or metallurgical data. It cites [[scholar-david-traill]].\n",
+      "in_cites": 0,
+      "out_cites": 1,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "tier": "secondary",
+      "traces_to": [
+        "scholar-david-traill"
       ]
     },
     {
@@ -424,6 +547,20 @@
       "in_cites": 2,
       "out_cites": 0,
       "funnel_size": 2,
+      "citogenesis_root": false,
+      "tier": "primary",
+      "traces_to": []
+    },
+    {
+      "id": "source-manning-weninger-1992",
+      "type": "source",
+      "title": "Manning & Weninger 1992 — Archaeological wiggle matching and the absolute chronology of the close of the Aegean Late Bronze Age",
+      "status": "primary",
+      "confidence": 0.85,
+      "body": "**Peer-reviewed research article** by [[scholar-sturt-manning]] and B. Weninger, fetched via Cambridge Core (published *Extract* + full references are real text). Uses probabilistic archaeological wiggle-matching of radiocarbon dates from key Aegean sites and concludes that the **conventional Aegean Late Bronze Age chronology holds on independent radiocarbon evidence**, 'whatever the flaws in its original construction.'\n\nGrounding role: it **supports [[claim-mask-chronological-gap]]** by showing the Aegean absolute-dating framework — within which Grave Circle A at [[site-mycenae]] sits in Late Helladic I, c. 1600 BCE — rests on scientific dating, **not on Homeric assumptions**. That is the epistemic point that makes the ~300-year gap to Agamemnon robust rather than circular.\n\n**Honest scope note:** this paper concerns the *close* of the LBA (LH IIIB/C, ~1200 BCE), not the shaft graves directly; it is cited for the *reliability of the radiocarbon-anchored chronology as a whole*, and the specific LH I date of the graves is standard handbook chronology rather than a finding of this paper. Same scholar node as the Thera-chronology cluster ([[scholar-sturt-manning]]) — a cross-domain link.\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
       "citogenesis_root": false,
       "tier": "primary",
       "traces_to": []
@@ -482,6 +619,38 @@
       "traces_to": []
     },
     {
+      "id": "source-schliemann-mycenae-1878",
+      "type": "source",
+      "title": "Schliemann 1878 — Mycenae: A Narrative of Researches and Discoveries at Mycenae and Tiryns",
+      "status": "primary",
+      "confidence": 0.85,
+      "body": "**Primary excavation publication** — the root of the whole affair. Schliemann's own 1878 account of the [[site-mycenae]] and Tiryns digs, where the Grave Circle A finds (shaft graves, gold masks) were first published and where the Agamemnon identification originates ([[claim-mask-of-agamemnon]]).\n\nFetched via the Cambridge Core landing page for the 2010 reissue (real publisher text, not a login stub). The publisher's description explicitly names the finds — 'most famously the death mask of Agamemnon and the shaft graves' — and delivers the modern verdict in the same breath: 'while today his methods of excavation are deplored and **many of his conclusions thought to be ill-founded**, he is rightly credited with the discovery of the lost and ancient Mycenaean civilisation.'\n\nSo this node does double duty: it is the **primary source of the claim** (citogenesis root — every 'Mask of Agamemnon' caption traces back here) *and* documents that the attribution is discredited. It cites [[scholar-heinrich-schliemann]]. Note: full excavation text is behind access control; the grounded content here is the catalogue description, treated as such.\n",
+      "in_cites": 0,
+      "out_cites": 1,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "tier": "primary",
+      "traces_to": [
+        "scholar-heinrich-schliemann"
+      ]
+    },
+    {
+      "id": "source-traill-1989",
+      "type": "source",
+      "title": "Traill 1989 — The Archaeological Career of Sophia Schliemann",
+      "status": "primary",
+      "confidence": 0.8,
+      "body": "**Peer-reviewed article** by [[scholar-david-traill]], the chief modern sceptic of [[scholar-heinrich-schliemann]]. Fetched via Cambridge Core; the published *Extract* and full reference apparatus are real text (the body itself is access-gated, but the extract and citations are grounded here).\n\nThe piece dismantles the romantic image of the Schliemanns' fieldwork and, through Schliemann's diaries and letters in the Gennadius Library, exemplifies Traill's programme of showing that Schliemann's discovery narratives were embellished or fabricated — the same method behind his re-examination of 'Priam's Treasure' (JHS 104, 1984) and the co-edited *Myth, Scandal and History: The Heinrich Schliemann Controversy* (Calder & Traill 1986), both cited in its references.\n\nThis is a **primary node for the sceptic side** of [[claim-mask-authenticity-dispute]]: it establishes the documented unreliability that makes tampering/misreporting of the shaft-grave gold a live hypothesis. It does not itself prove the mask was altered — hence the sub-issue stays contested, not confirmed.\n",
+      "in_cites": 0,
+      "out_cites": 1,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "tier": "primary",
+      "traces_to": [
+        "scholar-david-traill"
+      ]
+    },
+    {
       "id": "source-vergina-review-2023",
       "type": "source",
       "title": "Maniatis et al. 2023 — The identification of the Royal Tombs in the Great Tumulus at Vergina: A comprehensive review",
@@ -500,6 +669,81 @@
     }
   ],
   "links": [
+    {
+      "source": "claim-mask-authenticity-dispute",
+      "target": "claim-mask-of-agamemnon",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-mask-authenticity-dispute",
+      "target": "scholar-heinrich-schliemann",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-mask-authenticity-dispute",
+      "target": "scholar-david-traill",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-mask-authenticity-dispute",
+      "target": "source-traill-1989",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-mask-authenticity-dispute",
+      "target": "source-easton-1994",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-mask-authenticity-dispute",
+      "target": "claim-mask-chronological-gap",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-mask-chronological-gap",
+      "target": "claim-mask-of-agamemnon",
+      "rel": "disputes"
+    },
+    {
+      "source": "claim-mask-chronological-gap",
+      "target": "site-mycenae",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-mask-chronological-gap",
+      "target": "source-manning-weninger-1992",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-mask-chronological-gap",
+      "target": "claim-mask-authenticity-dispute",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-mask-of-agamemnon",
+      "target": "site-mycenae",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-mask-of-agamemnon",
+      "target": "scholar-heinrich-schliemann",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-mask-of-agamemnon",
+      "target": "claim-mask-chronological-gap",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-mask-of-agamemnon",
+      "target": "source-schliemann-mycenae-1878",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-mask-of-agamemnon",
+      "target": "claim-mask-authenticity-dispute",
+      "rel": "mentions"
+    },
     {
       "source": "claim-thera-destroyed-minoans",
       "target": "claim-thera-lmib-gap",
@@ -776,6 +1020,51 @@
       "rel": "mentions"
     },
     {
+      "source": "scholar-david-traill",
+      "target": "scholar-heinrich-schliemann",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-david-traill",
+      "target": "source-traill-1989",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-david-traill",
+      "target": "source-easton-1994",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-david-traill",
+      "target": "claim-mask-authenticity-dispute",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-heinrich-schliemann",
+      "target": "site-mycenae",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-heinrich-schliemann",
+      "target": "claim-mask-of-agamemnon",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-heinrich-schliemann",
+      "target": "source-schliemann-mycenae-1878",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-heinrich-schliemann",
+      "target": "scholar-david-traill",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-heinrich-schliemann",
+      "target": "claim-mask-authenticity-dispute",
+      "rel": "mentions"
+    },
+    {
       "source": "scholar-john-prag",
       "target": "claim-tomb-ii-philip-ii",
       "rel": "supports"
@@ -928,6 +1217,31 @@
     {
       "source": "site-minoan-crete",
       "target": "source-lespez-2021",
+      "rel": "mentions"
+    },
+    {
+      "source": "site-mycenae",
+      "target": "scholar-heinrich-schliemann",
+      "rel": "mentions"
+    },
+    {
+      "source": "site-mycenae",
+      "target": "claim-mask-of-agamemnon",
+      "rel": "mentions"
+    },
+    {
+      "source": "site-mycenae",
+      "target": "claim-mask-chronological-gap",
+      "rel": "mentions"
+    },
+    {
+      "source": "site-mycenae",
+      "target": "source-bha-insearch-2016",
+      "rel": "mentions"
+    },
+    {
+      "source": "site-mycenae",
+      "target": "source-manning-weninger-1992",
       "rel": "mentions"
     },
     {
@@ -1036,6 +1350,21 @@
       "rel": "mentions"
     },
     {
+      "source": "source-bha-insearch-2016",
+      "target": "site-mycenae",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-bha-insearch-2016",
+      "target": "scholar-heinrich-schliemann",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-bha-insearch-2016",
+      "target": "claim-mask-of-agamemnon",
+      "rel": "mentions"
+    },
+    {
       "source": "source-bruins-2009",
       "target": "claim-thera-destroyed-minoans",
       "rel": "disputes"
@@ -1054,6 +1383,16 @@
       "source": "source-bruins-2009",
       "target": "site-minoan-crete",
       "rel": "mentions"
+    },
+    {
+      "source": "source-easton-1994",
+      "target": "claim-mask-authenticity-dispute",
+      "rel": "supports"
+    },
+    {
+      "source": "source-easton-1994",
+      "target": "scholar-david-traill",
+      "rel": "cites"
     },
     {
       "source": "source-ehrlich-2023",
@@ -1103,6 +1442,21 @@
     {
       "source": "source-lespez-2021",
       "target": "source-pearson-2018",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-manning-weninger-1992",
+      "target": "claim-mask-chronological-gap",
+      "rel": "supports"
+    },
+    {
+      "source": "source-manning-weninger-1992",
+      "target": "site-mycenae",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-manning-weninger-1992",
+      "target": "scholar-sturt-manning",
       "rel": "mentions"
     },
     {
@@ -1171,6 +1525,36 @@
       "rel": "mentions"
     },
     {
+      "source": "source-schliemann-mycenae-1878",
+      "target": "claim-mask-of-agamemnon",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-schliemann-mycenae-1878",
+      "target": "scholar-heinrich-schliemann",
+      "rel": "cites"
+    },
+    {
+      "source": "source-schliemann-mycenae-1878",
+      "target": "site-mycenae",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-traill-1989",
+      "target": "claim-mask-authenticity-dispute",
+      "rel": "supports"
+    },
+    {
+      "source": "source-traill-1989",
+      "target": "scholar-david-traill",
+      "rel": "cites"
+    },
+    {
+      "source": "source-traill-1989",
+      "target": "scholar-heinrich-schliemann",
+      "rel": "mentions"
+    },
+    {
       "source": "source-vergina-review-2023",
       "target": "claim-tomb-ii-philip-ii",
       "rel": "cites"
@@ -1207,19 +1591,19 @@
     }
   ],
   "meta": {
-    "node_count": 32,
-    "link_count": 141,
+    "node_count": 43,
+    "link_count": 184,
     "by_type": {
-      "claim": 10,
-      "scholar": 6,
-      "site": 6,
-      "source": 10
+      "claim": 13,
+      "scholar": 8,
+      "site": 7,
+      "source": 15
     },
     "by_rel": {
-      "mentions": 62,
-      "cites": 41,
-      "disputes": 17,
-      "supports": 21
+      "mentions": 93,
+      "cites": 49,
+      "disputes": 18,
+      "supports": 24
     },
     "citogenesis_roots": [
       {
@@ -1245,6 +1629,18 @@
         "title": "Friedrich et al. 2006 — Santorini Eruption Radiocarbon Dated to 1627–1600 B.C.",
         "type": "source",
         "funnel_size": 4
+      },
+      {
+        "id": "scholar-david-traill",
+        "title": "David A. Traill",
+        "type": "scholar",
+        "funnel_size": 3
+      },
+      {
+        "id": "scholar-heinrich-schliemann",
+        "title": "Heinrich Schliemann (1822–1890)",
+        "type": "scholar",
+        "funnel_size": 3
       },
       {
         "id": "source-bartsiokas-2015",
