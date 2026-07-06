@@ -1,0 +1,4 @@
+# ArcheoLogic investigation agent (step 2)
+anthropic>=0.40      # Claude API SDK (pulls in httpx)
+httpx>=0.27          # client-side fetch_document / search_sources
+pypdf>=4.0           # PDF text extraction for fetched documents
