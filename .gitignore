@@ -16,6 +16,10 @@ corpus/
 data/raw/
 *.pdf
 
+# Agent run outputs — regenerable investigation results (fetched docs + notes).
+# Promote a curated run into wiki/ by hand if it's worth keeping.
+runs/
+
 # Env / secrets
 .env
 .env.*

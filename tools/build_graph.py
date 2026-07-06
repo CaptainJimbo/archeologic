@@ -16,14 +16,15 @@ directly. Run from the repo root:  python3 tools/build_graph.py
 
 from __future__ import annotations
 
+import argparse
 import json
 import re
 import sys
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
-WIKI_DIR = REPO / "wiki"
-OUT = REPO / "web" / "public" / "graph.json"
+DEFAULT_WIKI = REPO / "wiki"
+DEFAULT_OUT = REPO / "web" / "public" / "graph.json"
 
 VALID_TYPES = {"claim", "source", "site", "scholar"}
 VALID_RELS = {"supports", "disputes", "cites", "mentions"}
@@ -86,12 +87,20 @@ def parse_frontmatter(fm: str) -> dict:
 
 
 def main() -> int:
-    if not WIKI_DIR.is_dir():
-        print(f"error: {WIKI_DIR} not found", file=sys.stderr)
+    ap = argparse.ArgumentParser(description="Parse a wiki/ dir into graph.json")
+    ap.add_argument("--wiki", type=Path, default=DEFAULT_WIKI,
+                    help="directory of *.md notes (default: repo wiki/)")
+    ap.add_argument("--out", type=Path, default=DEFAULT_OUT,
+                    help="output graph.json path")
+    args = ap.parse_args()
+    wiki_dir, out = args.wiki, args.out
+
+    if not wiki_dir.is_dir():
+        print(f"error: {wiki_dir} not found", file=sys.stderr)
         return 1
 
     notes: dict[str, dict] = {}
-    for path in sorted(WIKI_DIR.glob("*.md")):
+    for path in sorted(wiki_dir.glob("*.md")):
         text = path.read_text(encoding="utf-8")
         try:
             fm_text, body = split_frontmatter(text)
@@ -185,10 +194,11 @@ def main() -> int:
         "meta": {"node_count": len(nodes), "link_count": len(links),
                  "by_type": by_type, "by_rel": by_rel},
     }
-    OUT.parent.mkdir(parents=True, exist_ok=True)
-    OUT.write_text(json.dumps(graph, indent=2, ensure_ascii=False), encoding="utf-8")
+    out.parent.mkdir(parents=True, exist_ok=True)
+    out.write_text(json.dumps(graph, indent=2, ensure_ascii=False), encoding="utf-8")
 
-    print(f"ok: {len(nodes)} nodes, {len(links)} links -> {OUT.relative_to(REPO)}")
+    rel = out.relative_to(REPO) if out.is_relative_to(REPO) else out
+    print(f"ok: {len(nodes)} nodes, {len(links)} links -> {rel}")
     print(f"  nodes by type: {by_type}")
     print(f"  links by rel:  {by_rel}")
     return 0
