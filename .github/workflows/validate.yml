@@ -1,0 +1,37 @@
+name: validate
+
+# Guards the source of truth: every push/PR must byte-compile the agent and
+# successfully parse the wiki into a graph (which fails on malformed frontmatter
+# or a dangling [[wikilink]]). Fully offline and deterministic — no API key, no
+# network — so it's a fast, reliable gate on the corpus and the tooling.
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Byte-compile the agent + tooling
+        run: |
+          python -m py_compile \
+            agent/__init__.py agent/config.py agent/wiki_io.py \
+            agent/tools.py agent/loop.py investigate.py tools/build_graph.py
+
+      - name: Parse wiki → graph.json (validates frontmatter + links)
+        run: python tools/build_graph.py --out /tmp/graph.json
+
+      - name: Upload graph.json artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: graph-json
+          path: /tmp/graph.json
