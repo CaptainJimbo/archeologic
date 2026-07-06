@@ -35,11 +35,13 @@ advantage in language and sources.
 
 ## Status
 
-🚧 Private while under construction. **Steps 1–4 of 6 are in place** — the wiki →
+🚧 Private while under construction. **Steps 1–5 of 6 are in place** — the wiki →
 graph → interactive UI pipeline (step 1, hand-authored seed), the investigation
 agent that extends it (step 2, including model-in-the-loop runs through the
 anti-hallucination gate — now three domains: Vergina, Thera, Mycenae), mechanical
-citation-chasing + citogenesis detection (step 3), and a verdict dossier (step 4).
+citation-chasing + citogenesis detection (step 3), a verdict dossier (step 4), and
+an evaluation layer that scores verdicts against a golden set (step 5, see
+[EVALUATION.md](EVALUATION.md)). Only publishing (step 6) remains.
 
 ## What's built so far (step 1: de-risk the demo)
 
@@ -95,6 +97,27 @@ clickable, so you can walk the argument. It's the "cited verdict dossier" the
 project is ultimately for, rendered from the same edges the graph draws.
 
 ![The verdict dossier for a contested claim](docs/img/verdict-dossier.png)
+
+### Step 5 — the evaluation layer (the signature)
+
+A golden set (`eval/golden_set.json`) pairs claims with their **known scholarly
+status** in three buckets — settled-true, settled-false, and **genuinely
+contested** — and `tools/evaluate.py` scores the corpus on:
+
+- **verdict accuracy** — does the note land in the right bucket? A system that
+  *resolves* a contested claim scores wrong even if it picks the popular side;
+  calling contested claims contested is the whole point.
+- **calibration** — is the confidence inside the bucket's band?
+- **citation validity** — is every source a claim rests on grounded in a fetched
+  document?
+
+Current scores are 100% across the 12-claim seed — and, importantly, the harness
+**discriminates**: flipping one verdict to the wrong bucket drops accuracy to 92%
+and names the miss. [EVALUATION.md](EVALUATION.md) carries the full table and, in
+the o-ilios tradition, an honest account of what this does *not* yet test (it's a
+consistency/regression harness until it scores fresh, unattended agent runs; and
+citation validity is a grounding proxy, not yet an LLM-judged "does the source
+actually say that").
 
 ![The citation graph — two claim clusters](docs/img/graph-overview.png)
 
