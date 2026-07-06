@@ -1,0 +1,739 @@
+{
+  "nodes": [
+    {
+      "id": "claim-thera-high-chronology",
+      "type": "claim",
+      "title": "The Thera (Santorini) eruption dates to c. 1600 BCE (high chronology)",
+      "status": "contested",
+      "confidence": 0.6,
+      "body": "The **radiocarbon-driven** date for the Bronze Age eruption that buried\n[[site-akrotiri-thera]]: roughly the late 17th to mid-16th century BCE. The\nfoundational exhibit is the [[source-friedrich-2006|buried olive branch]]\nwiggle-matched to 1627–1600 BCE; later annual-resolution ¹⁴C work\n([[source-pearson-2018]]) supports a 16th-century date and narrows the offset.\n\n**Contested against** [[claim-thera-low-chronology]], the archaeologically-derived\ndate about a century later. The gap matters: it re-times the entire east\nMediterranean Late Bronze Age and the Aegean–Egyptian synchronisms. Held at 0.6 —\nthe scientific dating has strengthened the high chronology, but the conflict with\nEgyptian historical chronology is real and unresolved, so this is not called\nsettled.\n"
+    },
+    {
+      "id": "claim-thera-low-chronology",
+      "type": "claim",
+      "title": "The Thera eruption dates to c. 1500 BCE (low / archaeological chronology)",
+      "status": "contested",
+      "confidence": 0.4,
+      "body": "The traditional, **archaeologically-derived** date: the eruption falls after the\nstart of the Egyptian New Kingdom, around 1500 BCE (or a little earlier). It rests\non synchronisms between Aegean, Levantine, and Egyptian material culture —\npottery styles and trade goods found above and below the eruption layers.\n\nIt [[claim-thera-high-chronology|disputes the ~1600 BCE radiocarbon date]] by\nabout a century. Proponents argue the ¹⁴C results are distorted (e.g. by\nvolcanic CO₂ or calibration-curve plateaus) and that the cross-cultural\narchaeology should anchor the date. Held at 0.4: it remains a serious position\ndefended by respected Aegean archaeologists, but the weight of recent scientific\ndating has shifted against it — a genuinely live minority view rather than a\nrefuted one.\n"
+    },
+    {
+      "id": "claim-tomb-i-knee-lameness",
+      "type": "claim",
+      "title": "The Tomb I male skeleton shows knee ankylosis matching Philip's lameness",
+      "status": "contested",
+      "confidence": 0.5,
+      "body": "The physical evidence underpinning [[claim-tomb-i-philip-ii]]. The male skeleton\nin [[site-tomb-i]] displays a severe **knee ankylosis** — the joint fused at\nroughly 79° of flexion — pierced by a hole that [[source-bartsiokas-2015]] reads\nas a healed penetrating wound. This is matched to the historically attested lance\nwound that left Philip II permanently lame in 339 BC.\n\nThe inference chain is: pathology → specific historical wound → individual\nidentity. Each link is contestable — knee ankylosis has other causes, and tying\none lesion to one recorded wound is an argument by resemblance, not proof. But it\nis a genuine, striking correspondence and the paper's central exhibit. Confidence\n0.5: the observation is real and well documented; the identification it is\nmarshalled for is not settled.\n"
+    },
+    {
+      "id": "claim-tomb-i-philip-ii",
+      "type": "claim",
+      "title": "Vergina Tomb I holds Philip II (the lameness argument)",
+      "status": "contested",
+      "confidence": 0.4,
+      "body": "A third position, advanced by [[scholar-antonis-bartsiokas]] in\n[[source-bartsiokas-2015]]: Philip II is not in Tomb II at all, but in the\nadjacent, earlier, looted [[site-tomb-i]]. The case is the\n[[claim-tomb-i-knee-lameness|knee-ankylosis]] of the Tomb I male, matched to the\nhistorically documented spear wound that left Philip lame in 339 BC.\n\nIf accepted, this reassigns [[claim-tomb-ii-philip-ii]] to Arrhidaios (agreeing\nwith [[claim-tomb-ii-arrhidaios]] on Tomb II while disagreeing about where\nPhilip II lies). It is the minority view: it depends on associating a specific\npathology with one historical wound, and on dating Tomb I's occupants to\nPhilip's family. Held at 0.4 — a serious, published hypothesis that has not won\nconsensus.\n"
+    },
+    {
+      "id": "claim-tomb-ii-arrhidaios",
+      "type": "claim",
+      "title": "Vergina Tomb II holds Philip III Arrhidaios (not Philip II)",
+      "status": "contested",
+      "confidence": 0.45,
+      "body": "The principal rival to [[claim-tomb-ii-philip-ii]]: the main-chamber male of\n[[site-tomb-ii]] is **Philip III Arrhidaios**, Alexander's half-brother and\nshort-lived successor (died 317 BC), buried with his wife Eurydice. This dates\nthe tomb roughly two decades later than Philip II's death.\n\nThe argument rests on two legs. First, chronology of the grave goods\n(some scholars read the pottery and artefacts as post-320 BC). Second, the\nforensic claim in [[source-bartsiokas-2000]] that the bones were cremated **dry**\n— degreased and unfleshed — implying a body exhumed and burned long after death,\nconsistent with Arrhidaios's disturbed reburial rather than a fresh royal pyre.\n\nThat second leg is exactly what [[claim-tomb-ii-green-cremation]] and\n[[source-musgrave-2010]] attack: they argue the bones were burned fleshed, which\nundercuts the Arrhidaios reconstruction. Held at 0.45 — the mirror of its rival,\nbecause the debate is unresolved.\n"
+    },
+    {
+      "id": "claim-tomb-ii-green-cremation",
+      "type": "claim",
+      "title": "The Tomb II male was cremated 'green' (fleshed), not dry",
+      "status": "contested",
+      "confidence": 0.6,
+      "body": "The forensic crux of the whole Vergina debate. **Green cremation** = the body was\nburned soon after death with flesh still on the bone; **dry cremation** = a\nskeleton burned long after decomposition. The two leave different signatures in\nbone colour and in the pattern of warping and fracture lines.\n\n[[source-bartsiokas-2000]] argued for **dry** cremation, supporting\n[[claim-tomb-ii-arrhidaios]] (a delayed, disturbed reburial).\n[[source-musgrave-2010]] argued for **green** cremation — transverse fracture\npatterns and colouration consistent with a fleshed body — which supports a fresh\nroyal pyre and therefore [[claim-tomb-ii-philip-ii]].\n\nThis note is the single point where the physical evidence most directly decides\nbetween the two Tomb II identifications, which is why both camps invest so heavily\nin it. Confidence 0.6: the green reading is somewhat better supported in the\nrecent literature, but the dry reading is not dead.\n"
+    },
+    {
+      "id": "claim-tomb-ii-philip-ii",
+      "type": "claim",
+      "title": "Vergina Tomb II holds Philip II of Macedon",
+      "status": "contested",
+      "confidence": 0.55,
+      "body": "The original and still most widely held identification: the cremated male in the\nmain chamber of [[site-tomb-ii]] is **Philip II of Macedon**, father of Alexander\nthe Great, assassinated in 336 BC. Proposed by the excavator\n[[scholar-manolis-andronikos]] in 1977–78 on the basis of the tomb's royal\nrichness, its date, and later the [[claim-tomb-ii-green-cremation|green-cremation]]\nand facial-asymmetry evidence assembled by [[scholar-john-prag]] and\n[[scholar-jonathan-musgrave]].\n\n**Status: genuinely contested.** The rival reading —\n[[claim-tomb-ii-arrhidaios]] — reads the same bones as Philip III Arrhidaios.\nThe system does **not** pick a side: both identifications have peer-reviewed\nforensic support and neither has produced a decisive artifact (no inscription\nnames the occupant). Confidence is held near 0.5 to reflect a live scholarly\nsplit, not ignorance.\n\nEvidence for is marshalled most fully in [[source-musgrave-2010]]. The strongest\ndissent is [[source-bartsiokas-2000]] and, for a different tomb entirely,\n[[source-bartsiokas-2015]].\n"
+    },
+    {
+      "id": "scholar-antonis-bartsiokas",
+      "type": "scholar",
+      "title": "Antonis Bartsiokas",
+      "status": "reference",
+      "confidence": 0.9,
+      "body": "Greek palaeoanthropologist (Democritus University of Thrace) and the most\npersistent challenger of Andronikos's identification. Author of\n[[source-bartsiokas-2000]] (Tomb II bones are Arrhidaios, cremated dry) and lead\nauthor of [[source-bartsiokas-2015]] (Philip II is actually in\n[[site-tomb-i]]).\n\nHis two papers anchor the two dissenting claims —\n[[claim-tomb-ii-arrhidaios]] and [[claim-tomb-i-philip-ii]] — and between them\nthey force the field to treat the identification as an open forensic question\nrather than settled fact.\n"
+    },
+    {
+      "id": "scholar-john-prag",
+      "type": "scholar",
+      "title": "A. J. N. W. (John) Prag",
+      "status": "reference",
+      "confidence": 0.88,
+      "body": "Classicist and curator (Manchester Museum) who, with Richard Neave, created the\n1980s facial reconstruction of the Tomb II skull and read its asymmetry as\nevidence of Philip II's eye wound. Co-author of [[source-musgrave-2010]].\n\nHis reconstruction is the positive case that [[source-bartsiokas-2000]] set out\nto dismantle — the orbital \"scar\" Prag read as a healed wound, Bartsiokas read as\na cremation artefact. Prag is therefore a hub where the [[claim-tomb-ii-philip-ii]]\nargument and its rebuttal meet.\n"
+    },
+    {
+      "id": "scholar-jonathan-musgrave",
+      "type": "scholar",
+      "title": "Jonathan Musgrave (with J. Prag & R. Neave)",
+      "status": "reference",
+      "confidence": 0.9,
+      "body": "Anatomist at the University of Bristol and, with John Prag and the medical\nartist Richard Neave, part of the team that produced the famous facial\nreconstruction of the Tomb II skull and defended the Philip II identification.\nLead author of [[source-musgrave-2010]].\n\nGrouped here as one node with the [[scholar-john-prag|Prag]]–Neave collaboration\nbecause they argue as a unit. They are the standard-bearers for\n[[claim-tomb-ii-philip-ii]] and the [[claim-tomb-ii-green-cremation|green\ncremation]] reading — and, having built the original reconstruction, they are\ndefending their own earlier conclusion, which the graph records rather than\nhides.\n"
+    },
+    {
+      "id": "scholar-manolis-andronikos",
+      "type": "scholar",
+      "title": "Manolis Andronikos (1919–1992)",
+      "status": "reference",
+      "confidence": 0.95,
+      "body": "Greek archaeologist who excavated the [[site-great-tumulus]] at\n[[site-aigai-vergina]] in 1977–78 and announced the unlooted royal tombs to the\nworld. He identified [[site-tomb-ii]] as the burial of **Philip II** — the\nfounding claim, [[claim-tomb-ii-philip-ii]] — and staked his professional legacy\non it.\n\nHis identification is the historical root of the entire debate: every later\npaper, whether it defends or attacks Philip II, is arguing with Andronikos.\nTracking him as a node makes the graph show *why* the literature clusters the way\nit does — the dispute is, in part, about whether the excavator got it right.\n"
+    },
+    {
+      "id": "scholar-sturt-manning",
+      "type": "scholar",
+      "title": "Sturt W. Manning",
+      "status": "reference",
+      "confidence": 0.9,
+      "body": "Archaeologist and dendrochronologist (Cornell University), a leading voice for the\nradiocarbon-based [[claim-thera-high-chronology|high chronology]] of the Thera\neruption and a prolific writer on the Aegean–Egyptian dating conflict. Co-author\nof [[source-pearson-2018]].\n\nIncluded as the Thera cluster's scholar node — the counterpart to\n[[scholar-antonis-bartsiokas]] in the Vergina cluster — so the graph shows that\neach debate has identifiable protagonists, not just disembodied \"evidence.\"\n"
+    },
+    {
+      "id": "site-aigai-vergina",
+      "type": "site",
+      "title": "Aigai (modern Vergina), Macedonia",
+      "status": "reference",
+      "confidence": 0.98,
+      "body": "The ancient first capital of the kingdom of Macedon, at modern Vergina in northern\nGreece — a UNESCO World Heritage Site. Its identification as Aigai (rather than\nEdessa, an older guess) is now settled, reinforced by the royal necropolis and\npalace.\n\nAigai is the geographic anchor of the Vergina cluster. It contains the\n[[site-great-tumulus]], which in turn contains [[site-tomb-i]] and\n[[site-tomb-ii]]. As a *site* node it is a place, not a document — no source\ncitation is attached, by design: the anti-hallucination rule governs source\nnodes, and places are established context.\n"
+    },
+    {
+      "id": "site-akrotiri-thera",
+      "type": "site",
+      "title": "Akrotiri, Thera (Santorini)",
+      "status": "reference",
+      "confidence": 0.97,
+      "body": "The Late Bronze Age Cycladic town on the island of Thera (Santorini), buried and\npreserved under metres of volcanic tephra by the eruption — the \"Aegean Pompeii,\"\nwith multi-storey houses and wall frescoes.\n\nAkrotiri is the geographic anchor of the Thera cluster. The eruption that sealed\nit is what both [[claim-thera-high-chronology]] and [[claim-thera-low-chronology]]\nare trying to date. A place node, not a document.\n"
+    },
+    {
+      "id": "site-great-tumulus",
+      "type": "site",
+      "title": "The Great Tumulus, Vergina",
+      "status": "reference",
+      "confidence": 0.97,
+      "body": "The great earthen mound at [[site-aigai-vergina]] raised over the royal tombs,\nexcavated by [[scholar-manolis-andronikos]] in 1977–78. It covers at least three\ntombs: the looted [[site-tomb-i]], the unlooted [[site-tomb-ii]], and Tomb III\n(the \"Prince's Tomb\").\n\nThe tumulus is the container that ties the whole Vergina dispute together — the\nargument is really about *which body in which chamber under this mound* is which\nMacedonian royal. It is the natural hub node of the cluster.\n"
+    },
+    {
+      "id": "site-tomb-i",
+      "type": "site",
+      "title": "Tomb I (the looted 'Tomb of Persephone'), Vergina",
+      "status": "reference",
+      "confidence": 0.95,
+      "body": "The earlier, cist-type tomb under the [[site-great-tumulus]], looted in antiquity\nbut famous for its Rape of Persephone wall painting. It contained the disturbed\nremains of a man, a woman, and a newborn.\n\nLong treated as a secondary tomb, it moved to centre stage with\n[[source-bartsiokas-2015]], which argues its male skeleton — with a fused,\npierced knee ([[claim-tomb-i-knee-lameness]]) — is the true Philip II\n([[claim-tomb-i-philip-ii]]). Whether that reassignment holds is unresolved.\n"
+    },
+    {
+      "id": "site-tomb-ii",
+      "type": "site",
+      "title": "Tomb II (the unlooted 'Tomb of Philip'), Vergina",
+      "status": "reference",
+      "confidence": 0.95,
+      "body": "The unlooted, two-chambered barrel-vaulted tomb under the [[site-great-tumulus]],\nfound intact in 1977 with a wealth of royal armour, gold, and two cremation\nburials (a man in the main chamber, a woman in the antechamber).\n\nIts main-chamber male is the single most fought-over skeleton in Greek\narchaeology: claimed for Philip II ([[claim-tomb-ii-philip-ii]]) and for Philip\nIII Arrhidaios ([[claim-tomb-ii-arrhidaios]]). Because the tomb bears no\ninscription naming its occupant, the identification rests entirely on\n[[claim-tomb-ii-green-cremation|forensic]] and chronological argument — which is\nexactly why it stays contested.\n"
+    },
+    {
+      "id": "source-bartsiokas-2000",
+      "type": "source",
+      "title": "Bartsiokas 2000 — The Eye Injury of King Philip II and the Skeletal Evidence from Royal Tomb II at Vergina",
+      "status": "primary",
+      "confidence": 0.9,
+      "body": "**Peer-reviewed article, Science, 2000.** Verified via search of the Science\nrecord and the surrounding literature (the paper is widely cited by both camps).\n\nRe-examines the cremated Tomb II skull. Argues that the orbital scar earlier read\nas [[scholar-john-prag|Prag]]'s evidence of Philip II's famous eye wound is in\nfact an artefact of cremation, and that the post-cranial skeleton lacks the\ntrauma Philip's documented injuries would predict. Concludes the bones were burned\n**dry** (degreased, unfleshed) and belong to [[scholar-antonis-bartsiokas]]'s\nproposed occupant, Philip III Arrhidaios — i.e. it supports\n[[claim-tomb-ii-arrhidaios]] and attacks [[claim-tomb-ii-philip-ii]].\n\nThis is a **primary node in the dispute**: directly answered by\n[[source-musgrave-2010]]. In graph terms it is one root of the Tomb II\ncitation funnel — a large share of the \"Arrhidaios\" argument traces back here.\n"
+    },
+    {
+      "id": "source-bartsiokas-2015",
+      "type": "source",
+      "title": "Bartsiokas et al. 2015 — The lameness of King Philip II and Royal Tomb I at Vergina",
+      "status": "primary",
+      "confidence": 0.92,
+      "body": "**Peer-reviewed article, PNAS, 2015.** Fetched and verified via PubMed Central\n(PMC4538655); full citation and DOI confirmed from the article record.\n\nShifts [[scholar-antonis-bartsiokas]]'s argument to a different tomb. Reports a\nknee ankylosis (fused at ~79°, pierced by a healed penetrating lesion) in the\n[[site-tomb-i]] male — see [[claim-tomb-i-knee-lameness]] — and reads it as the\nlameness Philip II suffered from a 339 BC lance wound. Concludes Philip II lies in\nTomb I, with Cleopatra and their newborn; and, consequently, that\n[[site-tomb-ii]] holds Arrhidaios and Eurydice.\n\nSupports [[claim-tomb-i-philip-ii]]; disputes [[claim-tomb-ii-philip-ii]]. A\nstriking, much-discussed paper that nonetheless remains a minority position —\ncovered in the synthesis [[source-vergina-review-2023]].\n"
+    },
+    {
+      "id": "source-ehrlich-2023",
+      "type": "source",
+      "title": "Ehrlich et al. 2023 — Olive shrub buried on Therasia supports a mid-16th century BCE date for the Thera eruption",
+      "status": "primary",
+      "confidence": 0.88,
+      "body": "**Peer-reviewed article, Scientific Reports, 2023 (open access).** Verified via\nthe Nature record and PMC (PMC10147620); the fetch hit an IdP redirect but\ncitation and result are confirmed from the indexed record and abstract.\n\nReports a second, independent buried olive — a shrub carbonised in life position\non neighbouring Therasia — radiocarbon-dated to the **mid-16th century BCE**,\nslightly younger than the [[source-friedrich-2006|1627–1600 BCE branch]]. The\nauthors read it as support for a high (16th-c) date while noting the persistent\ngap with the archaeological chronology.\n\nA useful stress-test node: a *new primary datum* rather than a review, it nudges\n[[claim-thera-high-chronology]] later within the high-chronology range and\ntightens the case against [[claim-thera-low-chronology]] — showing the graph can\nrepresent evidence that supports one claim while only partly agreeing with an\nallied source.\n"
+    },
+    {
+      "id": "source-friedrich-2006",
+      "type": "source",
+      "title": "Friedrich et al. 2006 — Santorini Eruption Radiocarbon Dated to 1627–1600 B.C.",
+      "status": "primary",
+      "confidence": 0.9,
+      "body": "**Peer-reviewed article, Science, 2006.** Fetched and verified via the PubMed\nrecord (PMID 16645088); author list and result confirmed.\n\nReports an olive tree buried alive in growth position by the Thera tephra.\nRadiocarbon wiggle-matching of successive tree-ring segments constrains the\neruption to **1627–1600 BCE at 95.4% probability** — about a century earlier than\nthe Egyptian-synchronism date. The keystone exhibit for\n[[claim-thera-high-chronology]].\n\nA root of the high-chronology citation funnel: much later argument leans on this\nsingle buried branch, which is also why the branch itself became contested (its\nring count and the assumption it died in the eruption have both been questioned).\nA clean example of why the graph distinguishes a primary datum from the many\npapers that echo it.\n"
+    },
+    {
+      "id": "source-musgrave-2010",
+      "type": "source",
+      "title": "Musgrave et al. 2010 — The Occupants of Tomb II at Vergina: Why Arrhidaios and Eurydice must be excluded",
+      "status": "primary",
+      "confidence": 0.9,
+      "body": "**Peer-reviewed article, International Journal of Medical Sciences, 2010\n(open access).** Verified via the journal record and Bristol's research\nrepository.\n\nA point-by-point rebuttal of [[source-bartsiokas-2000]]. Its central forensic\nclaim: the colour and transverse fracture lines of the Tomb II bones indicate a\n**green** (fleshed) cremation, not a dry one — see\n[[claim-tomb-ii-green-cremation]]. The authors argue this weakens rather than\nstrengthens the Arrhidaios case, and that the skull's facial asymmetry is\nconsistent with Philip II's eye wound. Supports [[claim-tomb-ii-philip-ii]];\ndisputes [[claim-tomb-ii-arrhidaios]].\n\nAuthored by the [[scholar-john-prag|Prag]]–Neave–[[scholar-jonathan-musgrave|Musgrave]]\nteam behind the original facial reconstruction, so it is **evidence *and*\ninterested party** — a good example of why the graph tracks who argues what, not\njust the conclusion.\n"
+    },
+    {
+      "id": "source-pearson-2018",
+      "type": "source",
+      "title": "Pearson et al. 2018 — Annual radiocarbon record indicates 16th-century BCE date for the Thera eruption",
+      "status": "primary",
+      "confidence": 0.9,
+      "body": "**Peer-reviewed article, Science Advances, 2018 (open access).** Verified via the\njournal record and PMC (PMC6093623); the paywalled HTML blocked a direct read but\nthe citation, authorship, and result are confirmed across the indexed record.\n\nUses annual-resolution radiocarbon measurements on known-age tree rings to refine\nthe calibration curve around the eruption window. Concludes the data indicate a\n**16th-century BCE** date, narrowing — though not eliminating — the offset from\nthe archaeological chronology. Supports [[claim-thera-high-chronology]];\nco-authored by [[scholar-sturt-manning]].\n\nSits *downstream* of [[source-friedrich-2006]] in the argument but is\nmethodologically independent (calibration, not the buried branch), so it\ngenuinely strengthens the high chronology rather than merely echoing it — the\ndistinction the citogenesis check is built to surface.\n"
+    },
+    {
+      "id": "source-vergina-review-2023",
+      "type": "source",
+      "title": "Maniatis et al. 2023 — The identification of the Royal Tombs in the Great Tumulus at Vergina: A comprehensive review",
+      "status": "secondary",
+      "confidence": 0.85,
+      "body": "**Secondary / review article, 2023.** Verified via the ScienceDirect record;\nlisted here as a *review* (echo), not primary evidence — an important distinction\nthis project makes explicit.\n\nA comprehensive survey of the Vergina identification debate, weighing the\nradiocarbon, osteological, and archaeological arguments across all three Great\nTumulus tombs. It **cites and summarises** the primary forensic work rather than\ngenerating new skeletal evidence, so in the graph it points *up* at the claims\nand at [[site-great-tumulus]] as a synthesis node.\n\nIncluded deliberately as a citogenesis check: a reader who found only this review\nmight treat \"the evidence\" as one coherent body, when it is in fact a contested\npile of [[source-bartsiokas-2000]], [[source-musgrave-2010]], and\n[[source-bartsiokas-2015]] pulling in different directions.\n"
+    }
+  ],
+  "links": [
+    {
+      "source": "claim-thera-high-chronology",
+      "target": "claim-thera-low-chronology",
+      "rel": "disputes"
+    },
+    {
+      "source": "claim-thera-high-chronology",
+      "target": "source-friedrich-2006",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-thera-high-chronology",
+      "target": "source-pearson-2018",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-thera-high-chronology",
+      "target": "site-akrotiri-thera",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-thera-low-chronology",
+      "target": "claim-thera-high-chronology",
+      "rel": "disputes"
+    },
+    {
+      "source": "claim-thera-low-chronology",
+      "target": "site-akrotiri-thera",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-tomb-i-knee-lameness",
+      "target": "source-bartsiokas-2015",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-tomb-i-knee-lameness",
+      "target": "claim-tomb-i-philip-ii",
+      "rel": "supports"
+    },
+    {
+      "source": "claim-tomb-i-knee-lameness",
+      "target": "site-tomb-i",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-tomb-i-philip-ii",
+      "target": "claim-tomb-ii-philip-ii",
+      "rel": "disputes"
+    },
+    {
+      "source": "claim-tomb-i-philip-ii",
+      "target": "source-bartsiokas-2015",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-tomb-i-philip-ii",
+      "target": "site-tomb-i",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-tomb-i-philip-ii",
+      "target": "claim-tomb-i-knee-lameness",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-tomb-i-philip-ii",
+      "target": "scholar-antonis-bartsiokas",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-tomb-i-philip-ii",
+      "target": "claim-tomb-ii-arrhidaios",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-tomb-ii-arrhidaios",
+      "target": "claim-tomb-ii-philip-ii",
+      "rel": "disputes"
+    },
+    {
+      "source": "claim-tomb-ii-arrhidaios",
+      "target": "source-bartsiokas-2000",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-tomb-ii-arrhidaios",
+      "target": "claim-tomb-ii-green-cremation",
+      "rel": "disputes"
+    },
+    {
+      "source": "claim-tomb-ii-arrhidaios",
+      "target": "site-tomb-ii",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-tomb-ii-arrhidaios",
+      "target": "source-musgrave-2010",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-tomb-ii-green-cremation",
+      "target": "source-musgrave-2010",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-tomb-ii-green-cremation",
+      "target": "claim-tomb-ii-philip-ii",
+      "rel": "supports"
+    },
+    {
+      "source": "claim-tomb-ii-green-cremation",
+      "target": "site-tomb-ii",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-tomb-ii-green-cremation",
+      "target": "source-bartsiokas-2000",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-tomb-ii-green-cremation",
+      "target": "claim-tomb-ii-arrhidaios",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-tomb-ii-philip-ii",
+      "target": "claim-tomb-ii-arrhidaios",
+      "rel": "disputes"
+    },
+    {
+      "source": "claim-tomb-ii-philip-ii",
+      "target": "site-tomb-ii",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-tomb-ii-philip-ii",
+      "target": "scholar-manolis-andronikos",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-tomb-ii-philip-ii",
+      "target": "claim-tomb-ii-green-cremation",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-tomb-ii-philip-ii",
+      "target": "scholar-john-prag",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-tomb-ii-philip-ii",
+      "target": "scholar-jonathan-musgrave",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-tomb-ii-philip-ii",
+      "target": "source-musgrave-2010",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-tomb-ii-philip-ii",
+      "target": "source-bartsiokas-2000",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-tomb-ii-philip-ii",
+      "target": "source-bartsiokas-2015",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-antonis-bartsiokas",
+      "target": "claim-tomb-ii-arrhidaios",
+      "rel": "supports"
+    },
+    {
+      "source": "scholar-antonis-bartsiokas",
+      "target": "claim-tomb-i-philip-ii",
+      "rel": "supports"
+    },
+    {
+      "source": "scholar-antonis-bartsiokas",
+      "target": "source-bartsiokas-2000",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-antonis-bartsiokas",
+      "target": "source-bartsiokas-2015",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-antonis-bartsiokas",
+      "target": "site-tomb-i",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-john-prag",
+      "target": "claim-tomb-ii-philip-ii",
+      "rel": "supports"
+    },
+    {
+      "source": "scholar-john-prag",
+      "target": "source-musgrave-2010",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-john-prag",
+      "target": "source-bartsiokas-2000",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-jonathan-musgrave",
+      "target": "claim-tomb-ii-philip-ii",
+      "rel": "supports"
+    },
+    {
+      "source": "scholar-jonathan-musgrave",
+      "target": "claim-tomb-ii-green-cremation",
+      "rel": "supports"
+    },
+    {
+      "source": "scholar-jonathan-musgrave",
+      "target": "source-musgrave-2010",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-jonathan-musgrave",
+      "target": "scholar-john-prag",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-manolis-andronikos",
+      "target": "site-great-tumulus",
+      "rel": "cites"
+    },
+    {
+      "source": "scholar-manolis-andronikos",
+      "target": "claim-tomb-ii-philip-ii",
+      "rel": "supports"
+    },
+    {
+      "source": "scholar-manolis-andronikos",
+      "target": "site-aigai-vergina",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-manolis-andronikos",
+      "target": "site-tomb-ii",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-sturt-manning",
+      "target": "claim-thera-high-chronology",
+      "rel": "supports"
+    },
+    {
+      "source": "scholar-sturt-manning",
+      "target": "source-pearson-2018",
+      "rel": "cites"
+    },
+    {
+      "source": "scholar-sturt-manning",
+      "target": "scholar-antonis-bartsiokas",
+      "rel": "mentions"
+    },
+    {
+      "source": "site-aigai-vergina",
+      "target": "site-great-tumulus",
+      "rel": "cites"
+    },
+    {
+      "source": "site-aigai-vergina",
+      "target": "site-tomb-i",
+      "rel": "mentions"
+    },
+    {
+      "source": "site-aigai-vergina",
+      "target": "site-tomb-ii",
+      "rel": "mentions"
+    },
+    {
+      "source": "site-akrotiri-thera",
+      "target": "claim-thera-high-chronology",
+      "rel": "mentions"
+    },
+    {
+      "source": "site-akrotiri-thera",
+      "target": "claim-thera-low-chronology",
+      "rel": "mentions"
+    },
+    {
+      "source": "site-great-tumulus",
+      "target": "site-tomb-i",
+      "rel": "cites"
+    },
+    {
+      "source": "site-great-tumulus",
+      "target": "site-tomb-ii",
+      "rel": "cites"
+    },
+    {
+      "source": "site-great-tumulus",
+      "target": "site-aigai-vergina",
+      "rel": "mentions"
+    },
+    {
+      "source": "site-great-tumulus",
+      "target": "scholar-manolis-andronikos",
+      "rel": "mentions"
+    },
+    {
+      "source": "site-tomb-i",
+      "target": "site-great-tumulus",
+      "rel": "cites"
+    },
+    {
+      "source": "site-tomb-i",
+      "target": "source-bartsiokas-2015",
+      "rel": "mentions"
+    },
+    {
+      "source": "site-tomb-i",
+      "target": "claim-tomb-i-knee-lameness",
+      "rel": "mentions"
+    },
+    {
+      "source": "site-tomb-i",
+      "target": "claim-tomb-i-philip-ii",
+      "rel": "mentions"
+    },
+    {
+      "source": "site-tomb-ii",
+      "target": "site-great-tumulus",
+      "rel": "cites"
+    },
+    {
+      "source": "site-tomb-ii",
+      "target": "claim-tomb-ii-philip-ii",
+      "rel": "mentions"
+    },
+    {
+      "source": "site-tomb-ii",
+      "target": "claim-tomb-ii-arrhidaios",
+      "rel": "mentions"
+    },
+    {
+      "source": "site-tomb-ii",
+      "target": "claim-tomb-ii-green-cremation",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-bartsiokas-2000",
+      "target": "claim-tomb-ii-arrhidaios",
+      "rel": "supports"
+    },
+    {
+      "source": "source-bartsiokas-2000",
+      "target": "claim-tomb-ii-philip-ii",
+      "rel": "disputes"
+    },
+    {
+      "source": "source-bartsiokas-2000",
+      "target": "claim-tomb-ii-green-cremation",
+      "rel": "disputes"
+    },
+    {
+      "source": "source-bartsiokas-2000",
+      "target": "scholar-antonis-bartsiokas",
+      "rel": "cites"
+    },
+    {
+      "source": "source-bartsiokas-2000",
+      "target": "scholar-john-prag",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-bartsiokas-2000",
+      "target": "source-musgrave-2010",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-bartsiokas-2015",
+      "target": "claim-tomb-i-philip-ii",
+      "rel": "supports"
+    },
+    {
+      "source": "source-bartsiokas-2015",
+      "target": "claim-tomb-i-knee-lameness",
+      "rel": "supports"
+    },
+    {
+      "source": "source-bartsiokas-2015",
+      "target": "claim-tomb-ii-philip-ii",
+      "rel": "disputes"
+    },
+    {
+      "source": "source-bartsiokas-2015",
+      "target": "scholar-antonis-bartsiokas",
+      "rel": "cites"
+    },
+    {
+      "source": "source-bartsiokas-2015",
+      "target": "site-tomb-i",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-bartsiokas-2015",
+      "target": "site-tomb-ii",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-bartsiokas-2015",
+      "target": "source-vergina-review-2023",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-ehrlich-2023",
+      "target": "claim-thera-high-chronology",
+      "rel": "supports"
+    },
+    {
+      "source": "source-ehrlich-2023",
+      "target": "claim-thera-low-chronology",
+      "rel": "disputes"
+    },
+    {
+      "source": "source-ehrlich-2023",
+      "target": "site-akrotiri-thera",
+      "rel": "cites"
+    },
+    {
+      "source": "source-ehrlich-2023",
+      "target": "source-friedrich-2006",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-friedrich-2006",
+      "target": "claim-thera-high-chronology",
+      "rel": "supports"
+    },
+    {
+      "source": "source-friedrich-2006",
+      "target": "site-akrotiri-thera",
+      "rel": "cites"
+    },
+    {
+      "source": "source-musgrave-2010",
+      "target": "claim-tomb-ii-philip-ii",
+      "rel": "supports"
+    },
+    {
+      "source": "source-musgrave-2010",
+      "target": "claim-tomb-ii-green-cremation",
+      "rel": "supports"
+    },
+    {
+      "source": "source-musgrave-2010",
+      "target": "claim-tomb-ii-arrhidaios",
+      "rel": "disputes"
+    },
+    {
+      "source": "source-musgrave-2010",
+      "target": "source-bartsiokas-2000",
+      "rel": "disputes"
+    },
+    {
+      "source": "source-musgrave-2010",
+      "target": "scholar-jonathan-musgrave",
+      "rel": "cites"
+    },
+    {
+      "source": "source-musgrave-2010",
+      "target": "scholar-john-prag",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-pearson-2018",
+      "target": "claim-thera-high-chronology",
+      "rel": "supports"
+    },
+    {
+      "source": "source-pearson-2018",
+      "target": "scholar-sturt-manning",
+      "rel": "cites"
+    },
+    {
+      "source": "source-pearson-2018",
+      "target": "source-friedrich-2006",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-vergina-review-2023",
+      "target": "claim-tomb-ii-philip-ii",
+      "rel": "cites"
+    },
+    {
+      "source": "source-vergina-review-2023",
+      "target": "claim-tomb-ii-arrhidaios",
+      "rel": "cites"
+    },
+    {
+      "source": "source-vergina-review-2023",
+      "target": "claim-tomb-i-philip-ii",
+      "rel": "cites"
+    },
+    {
+      "source": "source-vergina-review-2023",
+      "target": "site-great-tumulus",
+      "rel": "cites"
+    },
+    {
+      "source": "source-vergina-review-2023",
+      "target": "source-bartsiokas-2000",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-vergina-review-2023",
+      "target": "source-musgrave-2010",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-vergina-review-2023",
+      "target": "source-bartsiokas-2015",
+      "rel": "mentions"
+    }
+  ],
+  "meta": {
+    "node_count": 24,
+    "link_count": 105,
+    "by_type": {
+      "claim": 7,
+      "scholar": 5,
+      "site": 5,
+      "source": 7
+    },
+    "by_rel": {
+      "disputes": 12,
+      "cites": 32,
+      "supports": 17,
+      "mentions": 44
+    }
+  }
+}
