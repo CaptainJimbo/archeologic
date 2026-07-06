@@ -1,0 +1,290 @@
+@import url("https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Space+Grotesk:wght@400;500;600&display=swap");
+
+:root {
+  --bg: #0e1014;
+  --panel: #161a21;
+  --panel-edge: #262d38;
+  --ink: #e8e6e1;
+  --muted: #8b93a1;
+  --claim: #f0b429;
+  --source: #38bdf8;
+  --site: #34d399;
+  --scholar: #a78bfa;
+  --supports: #4ea88a;
+  --disputes: #f0506e;
+}
+
+* {
+  box-sizing: border-box;
+}
+html,
+body,
+#root {
+  margin: 0;
+  height: 100%;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: "Space Grotesk", system-ui, sans-serif;
+  overflow: hidden;
+}
+.app {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+}
+.loading {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  color: var(--muted);
+  font-style: italic;
+  letter-spacing: 0.03em;
+}
+
+/* masthead */
+.masthead {
+  position: absolute;
+  top: 22px;
+  left: 26px;
+  pointer-events: none;
+}
+.masthead h1 {
+  font-family: "Fraunces", Georgia, serif;
+  font-weight: 600;
+  font-size: 30px;
+  margin: 0;
+  letter-spacing: 0.01em;
+  color: var(--ink);
+}
+.masthead h1 span {
+  color: var(--claim);
+}
+.masthead p {
+  margin: 2px 0 0;
+  font-size: 12.5px;
+  color: var(--muted);
+  letter-spacing: 0.02em;
+}
+
+/* legend / filters */
+.legend {
+  position: absolute;
+  top: 24px;
+  right: 26px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-end;
+}
+.legend-group {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+.lg-title {
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--muted);
+  margin-right: 2px;
+}
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid var(--panel-edge);
+  color: var(--ink);
+  border-radius: 999px;
+  padding: 4px 10px 4px 8px;
+  font-size: 12px;
+  font-family: inherit;
+  cursor: pointer;
+  transition: opacity 0.15s, background 0.15s;
+}
+.chip i {
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  display: inline-block;
+}
+.chip.off {
+  opacity: 0.34;
+}
+.chip:hover {
+  background: rgba(255, 255, 255, 0.09);
+}
+.edge-key {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 11.5px;
+  color: var(--muted);
+}
+.edge-key i {
+  width: 20px;
+  height: 0;
+  display: inline-block;
+}
+.e-sup {
+  border-top: 2px solid var(--supports);
+}
+.e-dis {
+  border-top: 2px dashed var(--disputes);
+}
+.e-cit {
+  border-top: 2px solid rgba(173, 185, 204, 0.5);
+}
+
+/* footer stats */
+.stats {
+  position: absolute;
+  bottom: 16px;
+  left: 26px;
+  font-size: 12px;
+  color: var(--muted);
+  letter-spacing: 0.01em;
+}
+.stats .hint {
+  opacity: 0.7;
+}
+
+/* dossier panel */
+.dossier {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: min(430px, 92vw);
+  height: 100vh;
+  background: linear-gradient(180deg, var(--panel), #12151b);
+  border-left: 1px solid var(--panel-edge);
+  padding: 26px 28px 40px;
+  overflow-y: auto;
+  box-shadow: -24px 0 60px rgba(0, 0, 0, 0.45);
+  animation: slidein 0.22s ease;
+}
+@keyframes slidein {
+  from {
+    transform: translateX(30px);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+.dossier .close {
+  position: absolute;
+  top: 18px;
+  right: 18px;
+  background: none;
+  border: none;
+  color: var(--muted);
+  font-size: 15px;
+  cursor: pointer;
+}
+.dossier .close:hover {
+  color: var(--ink);
+}
+.badge {
+  display: inline-block;
+  font-size: 10.5px;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  padding: 3px 9px;
+  border-radius: 999px;
+  font-weight: 600;
+}
+.badge-claim {
+  background: rgba(240, 180, 41, 0.15);
+  color: var(--claim);
+}
+.badge-source {
+  background: rgba(56, 189, 248, 0.15);
+  color: var(--source);
+}
+.badge-site {
+  background: rgba(52, 211, 153, 0.15);
+  color: var(--site);
+}
+.badge-scholar {
+  background: rgba(167, 139, 250, 0.15);
+  color: var(--scholar);
+}
+.dossier h2 {
+  font-family: "Fraunces", Georgia, serif;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 1.25;
+  margin: 12px 0 12px;
+}
+.meta-row {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  flex-wrap: wrap;
+  margin-bottom: 14px;
+}
+.tag {
+  font-size: 11px;
+  color: var(--muted);
+  border: 1px solid var(--panel-edge);
+  border-radius: 5px;
+  padding: 2px 8px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+.conf {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  font-size: 11px;
+  color: var(--muted);
+}
+.conf .bar {
+  width: 74px;
+  height: 5px;
+  border-radius: 3px;
+  background: rgba(255, 255, 255, 0.08);
+  overflow: hidden;
+}
+.conf .bar span {
+  display: block;
+  height: 100%;
+  background: linear-gradient(90deg, var(--disputes), var(--claim), var(--supports));
+}
+.dossier .body {
+  font-size: 14px;
+  line-height: 1.62;
+  color: #d5d3cd;
+}
+.dossier .body p {
+  margin: 0 0 13px;
+}
+.dossier .body strong {
+  color: var(--ink);
+}
+.dossier .body a.wl {
+  color: var(--claim);
+  text-decoration: none;
+  border-bottom: 1px dotted rgba(240, 180, 41, 0.5);
+  cursor: pointer;
+}
+.dossier .body a.wl:hover {
+  border-bottom-style: solid;
+}
+.dossier .body a.wl-missing {
+  color: var(--disputes);
+  border-bottom-color: rgba(240, 80, 110, 0.5);
+}
+
+/* scrollbar */
+.dossier::-webkit-scrollbar {
+  width: 8px;
+}
+.dossier::-webkit-scrollbar-thumb {
+  background: var(--panel-edge);
+  border-radius: 4px;
+}
