@@ -40,6 +40,27 @@
     {"id": "claim-wilusa-is-troy", "domain": "troy", "expected": "contested",
      "rationale": "Mainstream Anatolian scholarship accepts Wilusa=Ilios, but the equation is seriously challenged."},
     {"id": "claim-troy-vi-viia-war-destruction", "domain": "troy", "expected": "contested",
-     "rationale": "Troy VI/VIIa ended in destruction, but war vs earthquake vs internal collapse is unresolved."}
+     "rationale": "Troy VI/VIIa ended in destruction, but war vs earthquake vs internal collapse is unresolved."},
+
+    {"id": "claim-linear-b-greek", "domain": "aegean", "expected": "settled-true",
+     "rationale": "Ventris & Chadwick's 1952-53 decipherment showing Linear B is Mycenaean Greek is settled consensus."},
+    {"id": "claim-norse-precolumbian-america", "domain": "norse", "expected": "settled-true",
+     "rationale": "L'Anse aux Meadows is a confirmed Norse site; Norse presence in N. America is established fact."},
+    {"id": "claim-lanse-aux-meadows-ad1021", "domain": "norse", "expected": "settled-true",
+     "rationale": "Kuitems et al. 2021 fixed the felling date to AD 1021 via the 993 CE cosmic-ray spike."},
+    {"id": "claim-lbac-multicausal", "domain": "collapse", "expected": "settled-true",
+     "rationale": "The multi-causal reading of the Late Bronze Age collapse is the mainstream scholarly position."},
+    {"id": "claim-sea-peoples-egyptian-attestation", "domain": "collapse", "expected": "settled-true",
+     "rationale": "The Sea Peoples are securely attested in Egyptian records (Medinet Habu); attestation is not disputed."},
+
+    {"id": "claim-exodus-historical", "domain": "levant", "expected": "settled-false",
+     "rationale": "No archaeological trace of a mass Exodus of biblical scale; early Israel emerged largely within Canaan."},
+
+    {"id": "claim-exodus-small-kernel", "domain": "levant", "expected": "contested",
+     "rationale": "A modest historical kernel later mythologized is plausible but unevidenced; scholars split."},
+    {"id": "claim-minoan-human-sacrifice", "domain": "minoan", "expected": "contested",
+     "rationale": "Anemospilia and the Knossos child bones are real but their sacrificial reading is disputed."},
+    {"id": "claim-sea-peoples-collapse", "domain": "collapse", "expected": "contested",
+     "rationale": "The Sea Peoples as sole/primary cause of the collapse is contested (symptom vs cause)."}
   ]
 }

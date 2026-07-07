@@ -1,6 +1,101 @@
 {
   "nodes": [
     {
+      "id": "claim-anemospilia-sacrifice",
+      "type": "claim",
+      "title": "The Anemospilia building records a human sacrifice interrupted by an earthquake",
+      "status": "contested",
+      "confidence": 0.5,
+      "body": "The interpretation that the Anemospilia building ([[site-anemospilia]]) preserves a human sacrifice interrupted by an earthquake, proposed by the excavators [[scholar-yannis-sakellarakis|Yannis and Efi Sakellarakis]] after the 1979 dig.\n\n**The scene.** In the west room, a young man of about 18 lay contracted on a raised platform, his legs positioned as if trussed, with a long decorated bronze blade lying on him. Two other adults died in the same room, and a further person in the corridor was crushed while apparently carrying a vessel. The building, a shrine on the slopes of Mount Juktas, collapsed and burned in an earthquake around 1700 BCE (MM II), sealing the tableau in place.\n\n**The excavators reading.** The bound posture, the blade, and a claimed discoloration of the young man bones (argued to indicate blood loss) led the Sakellarakis team to reconstruct a sacrifice in progress, plausibly an extreme act to propitiate the gods against the impending quake. This narrative reached a wide audience through a 1981 National Geographic feature and the Archanes monograph. The individuals were later studied and facially reconstructed by a Manchester team ([[source-musgrave-1994]]).\n\n**Why contested.** Alternative readings note that the blade may be a votive or grave good, that the bound posture is inferred rather than demonstrated, and that osteological blood-loss claims are hard to sustain. No Minoan text or clear comparandum confirms human sacrifice, so a unique catastrophic context resists a single confident interpretation.\n\nCalibrated at 0.5: a striking, well-documented context whose sacrificial reading is credible but not established. Supports the broader [[claim-minoan-human-sacrifice]]; the disaster-propitiation motive links it thematically to the same seismic and volcanic world as [[site-akrotiri-thera]].\n",
+      "in_cites": 0,
+      "out_cites": 1,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
+      "id": "claim-exodus-historical",
+      "type": "claim",
+      "title": "The biblical Exodus was a real, large-scale historical event",
+      "status": "refuted",
+      "confidence": 0.15,
+      "body": "Claim as stated: a mass departure of Israelites from Egypt on the biblical scale (Exodus 12:37 gives about 600,000 men on foot, implying a population of roughly two million), followed by a 40-year wilderness wandering and a military conquest of Canaan.\n\nVerdict: refuted at this magnitude, low confidence. The mainstream archaeological assessment (Israel Finkelstein and Neil Asher Silberman, The Bible Unearthed; William G. Dever) finds no archaeological trace of an Israelite population of that size in Egypt, in the Sinai, or along the wilderness route, and no destruction horizon matching a unified conquest. The fetched survey [[source-bosman-2002]] records the same core problem in the scholarly literature: the absence of any trace of Israel as a people in Egypt during the Late Bronze or Early Iron Age. Sites named in the itinerary (for example Kadesh Barnea) show no occupation of the right period at the required scale.\n\nConverging survey evidence instead points to early Israel emerging largely from within Canaan: the Iron Age I highland villages show material continuity with local Canaanite culture rather than an intrusive Egyptian-desert population. The Merneptah Stele (about 1208 BCE) attests a people called Israel already in Canaan, but says nothing of an exodus.\n\nWhat survives scrutiny is not this large-scale claim but a much weaker version, treated separately as [[claim-exodus-small-kernel]]. The two are in tension: evidence against the mass event does not by itself refute a modest historical seed. Scholars: [[scholar-israel-finkelstein]], [[scholar-william-dever]].\n",
+      "in_cites": 0,
+      "out_cites": 1,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": [
+        "source-bosman-2002"
+      ]
+    },
+    {
+      "id": "claim-exodus-small-kernel",
+      "type": "claim",
+      "title": "A small historical kernel underlies the Exodus tradition, later mythologized",
+      "status": "contested",
+      "confidence": 0.5,
+      "body": "Claim: a modest group, perhaps of Semitic laborers or Levites, genuinely departed Egypt, and the memory of that smaller event was later elaborated into the large-scale national epic preserved in scripture. This is the minority-but-serious alternative to the refuted large-scale reading [[claim-exodus-historical]].\n\nStatus: genuinely contested, confidence near 0.5. Arguments in favor: Egyptian personal names borne by early Levites (Moses, Hophni, Phinehas, Merari), the plausibility of small groups moving between Canaan and Egypt across the Late Bronze Age, and the general principle that founding traditions often preserve a distorted historical seed. The fetched study [[source-bosman-2014]] supplies the mechanism, arguing the exodus operated as cultural memory and a founding myth whose force did not depend on literal factuality; [[source-bosman-2002]] documents the lack of scholarly consensus on the date and nature of Israel's origins that keeps the question open.\n\nArguments against a kernel of any specificity: there is no direct material evidence for such a group, so the claim rests on inference and analogy rather than excavated data. This is why it is filed as contested, not supported. Some scholars (for example William Dever, [[scholar-william-dever]]) allow a small kernel; others (Israel Finkelstein, [[scholar-israel-finkelstein]]) treat the whole tradition as a later literary construction reflecting the geopolitics of the 7th century BCE. The evidence does not currently adjudicate between them.\n",
+      "in_cites": 0,
+      "out_cites": 2,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": [
+        "source-bosman-2002"
+      ]
+    },
+    {
+      "id": "claim-knossos-child-sacrifice",
+      "type": "claim",
+      "title": "Children were sacrificed and possibly eaten in a Late Minoan IB house at Knossos",
+      "status": "contested",
+      "confidence": 0.45,
+      "body": "The interpretation that children were sacrificed and possibly eaten in a Late Minoan IB house at Knossos ([[site-minoan-crete]]), argued by [[scholar-peter-warren]] from bones excavated at the Stratigraphical Museum site in 1979 to 1980.\n\n**The evidence.** A small room yielded the disarticulated bones of at least four children, aged roughly 8 to 12. Of the identified bones, between about 22 and 36 percent bear fine cut marks, which the study ([[source-wall-musgrave-warren-1986]]) reads as knife marks left by cutting flesh from the bones, comparable to marks left when butchering animals. Warren linked the deposit to a ritual context and suggested sacrifice of children with consumption of their flesh, perhaps in a fertility or crisis rite during the troubled LM IB horizon.\n\n**Why contested.** The cut marks and defleshing are hard to deny as physical facts, but their meaning is not. Skeptics argue that defleshing can belong to secondary burial or ancestor rites rather than sacrifice, and that cannibalism is inferred rather than demonstrated. The LM IB destruction horizon was itself a period of upheaval that complicates any single explanation.\n\nCalibrated at 0.45: the primary bone data are strong, but the sacrifice-and-cannibalism reading is one interpretation among several, and slightly less directly supported than the Anemospilia tableau. Supports the broader [[claim-minoan-human-sacrifice]].\n",
+      "in_cites": 0,
+      "out_cites": 1,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
+      "id": "claim-lanse-aux-meadows-ad1021",
+      "type": "claim",
+      "title": "Norse wood at L'Anse aux Meadows was felled in exactly AD 1021",
+      "status": "supported",
+      "confidence": 0.9,
+      "body": "**Verdict: SUPPORTED, confidence 0.90.** Three separate pieces of worked wood from Norse contexts at [[site-lanse-aux-meadows]] were each felled in AD 1021.\n\nThe result comes from [[source-kuitems-2021]] (Nature). The AD 993 Miyake event — a global single-year spike in atmospheric radiocarbon from a solar particle storm — leaves an unmistakable marker ring; counting tree rings from that ring to each sample's preserved waney (bark) edge yields the exact felling year. All three metal-cut samples gave AD 1021, one with a spring felling season. Because the wood bears clean metal-tool cut marks (Indigenous peoples of the region did not work metal), it is securely Norse.\n\nThis sharpens the parent claim [[claim-norse-precolumbian-america]] from 'around AD 1000' to a specific calendar year, exactly 471 years before 1492. It sits comfortably inside the earlier AD 975-1020 radiocarbon window of [[source-nydal-1989]]. Confidence 0.90 rather than higher because AD 1021 dates the felling of three timbers, which need not be the very first or last year of occupation — but it is a firm, independently reproducible tie point.\n",
+      "in_cites": 1,
+      "out_cites": 0,
+      "funnel_size": 1,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
+      "id": "claim-lbac-multicausal",
+      "type": "claim",
+      "title": "The Late Bronze Age collapse was multi-causal (a systems collapse)",
+      "status": "supported",
+      "confidence": 0.7,
+      "body": "**The claim.** The collapse of the eastern Mediterranean palatial world c. 1200-1150 BCE was not caused by any single agent but by a convergence of stresses acting on a tightly interconnected, fragile system: prolonged drought and climate change, famine, earthquakes, disrupted long-distance trade, internal social and economic strain, and warfare/movement of peoples (including the Sea Peoples). In this reading the Sea Peoples are one symptom among several, not the prime mover.\n\n**Evidence.** Kaniewski et al. 2013 ([[source-kaniewski-2013]]) provide radiocarbon-anchored palaeoclimate proxies from the Syrian coast and Cyprus showing abrupt aridification and climate-driven famine underlying the crisis, and reframe the Sea Peoples as populations displaced by that drought. Middleton 2023 ([[source-middleton-2023]]), reviewing Millek and Jung & Kardamaki, shows the alleged single catastrophic destruction horizon breaks down into fewer, temporally spread, locally-caused destructions, arguing explicitly against a single ultimate cause. This is the framework popularized by Eric Cline's *1177 BC* ([[scholar-eric-cline]]) as a systems collapse.\n\n**Status.** Well supported and close to the current scholarly mainstream, held at 0.7 rather than higher because the *relative weight* of the individual causes remains genuinely contested and some critics warn against simply swapping a mono-causal invasion story for a mono-causal climate one. Disputes the mono-causal [[claim-sea-peoples-collapse]]; bears on the Mycenaean world [[site-mycenae]] and the Levantine kingdoms [[site-ugarit]].\n",
+      "in_cites": 0,
+      "out_cites": 2,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
+      "id": "claim-linear-b-greek",
+      "type": "claim",
+      "title": "The Linear B script records an early form of Greek",
+      "status": "supported",
+      "confidence": 0.92,
+      "body": "**The claim.** The Bronze Age Linear B tablets from Knossos ([[site-minoan-crete]]), Pylos ([[site-pylos]]) and [[site-mycenae]] are written in an early Greek dialect, now called Mycenaean Greek — the oldest attested form of Greek, c. 1400-1200 BC.\n\n**How it was established.** [[scholar-michael-ventris]], an architect and amateur, in collaboration with the philologist [[scholar-john-chadwick]], announced the decipherment in 1952-53. Their foundational paper ([[source-ventris-chadwick-1953]], JHS) laid out phonetic values for the syllabic signs and showed the resulting words are Greek — a pre-Dorian dialect allied to classical Arcadian and Cypriot. Crucially the decipherment used no bilingual: it worked by internal grid analysis (building on Alice Kober's sign relations) and the reading was later confirmed independently by the Pylos ta-ra-nu / tripod tablet (PY Ta 641) that Blegen found in 1952, whose ideograms match the Greek words the values predicted.\n\n**The overturned prior view.** The excavator of Knossos, [[scholar-arthur-evans]], had insisted Linear B recorded a non-Greek Aegean/Minoan language and that Greeks could not have ruled Knossos — a position that delayed acceptance for decades and that the decipherment reversed. Ventris himself initially suspected the language was Etruscan before the values forced a Greek reading.\n\n**Dissent, and why it failed.** A small number of holdouts objected, most vocally A. J. Beattie of Edinburgh ([[source-beattie-1956]]), who argued the method was circular and the results arbitrary. These objections did not persuade the field: the confirmatory tablets, the coherence of the whole corpus as Greek administrative records, and the successful reading of tablets found *after* the decipherment closed the case.\n\n**Verdict.** Supported — settled scholarly consensus. Mycenaean Greek is a standard object of study; this is one of the rare archaeological claims that is essentially settled-true. Held at 0.92 (reserving a sliver for the acknowledged fact that a syllabary without a bilingual leaves some individual readings debatable, though not the Greek identification itself).\n",
+      "in_cites": 0,
+      "out_cites": 2,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
       "id": "claim-mask-authenticity-dispute",
       "type": "claim",
       "title": "The mask may have been modified / 'improved' or misreported (authenticity dispute)",
@@ -43,6 +138,58 @@
       "traces_to": [
         "scholar-heinrich-schliemann"
       ]
+    },
+    {
+      "id": "claim-minoan-human-sacrifice",
+      "type": "claim",
+      "title": "The Minoans practiced human sacrifice",
+      "status": "contested",
+      "confidence": 0.5,
+      "body": "The claim that Minoan civilization practiced human sacrifice rests on two spectacular but contested finds, both from Bronze Age Crete ([[site-minoan-crete]]).\n\n**Anemospilia (Archanes).** A tripartite building on the slope of Mount Juktas, excavated by [[scholar-yannis-sakellarakis|Yannis and Efi Sakellarakis]] in 1979, was destroyed by an earthquake around 1700 BCE (Middle Minoan II). In its west room lay a young man, apparently bound, on a raised platform, with a decorated bronze blade over his body; a nearby figure may have carried a vessel. The excavators read this as a human sacrifice, perhaps offered to avert the very earthquake that then killed the officiants ([[claim-anemospilia-sacrifice]]).\n\n**Knossos Stratigraphical Museum house.** In a Late Minoan IB house, [[scholar-peter-warren]] and colleagues found the bones of at least four children, about a third bearing fine knife marks consistent with flesh removal, interpreted as ritual sacrifice and possible cannibalism ([[claim-knossos-child-sacrifice]]).\n\n**Why it stays contested.** The osteological data are largely primary and hard to dismiss (see [[source-wall-musgrave-warren-1986]], [[source-musgrave-1994]]), but their meaning is disputed. Critics such as D. Hughes and J. Bremmer (whose works were paywalled or served as JS stubs this run and so are not source nodes) argue the Anemospilia scene admits non-sacrificial readings, and that defleshing at Knossos need not imply sacrifice or cannibalism rather than secondary burial rites. No corroborating pattern of routine Minoan human sacrifice has been established, so two ambiguous cases cannot by themselves settle a civilization-wide practice.\n\n**Verdict.** Genuinely contested. Held at 0.5: the physical evidence is suggestive and difficult to explain benignly at Anemospilia, but the sacrificial interpretation is not secure and no broader pattern is demonstrated. The propitiation reading loosely ties the practice to the seismic and volcanic anxieties of the same era, the world of [[site-akrotiri-thera]] and the Thera eruption.\n",
+      "in_cites": 0,
+      "out_cites": 2,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
+      "id": "claim-norse-precolumbian-america",
+      "type": "claim",
+      "title": "Norse explorers (Vikings) reached North America centuries before Columbus",
+      "status": "supported",
+      "confidence": 0.92,
+      "body": "**Verdict: SUPPORTED (settled-true), confidence 0.92.** Norse seafarers from Greenland/Iceland reached and briefly settled the North American mainland around AD 1000, roughly five centuries before Columbus's 1492 crossing.\n\nThe decisive physical evidence is [[site-lanse-aux-meadows]] in Newfoundland — the only unambiguously confirmed Norse site in the Americas — excavated from 1960 by [[scholar-helge-anne-ingstad]]. Its material culture (Norse-style turf halls, a bronze ring-headed pin, a soapstone spindle whorl, iron nails and slag from smithing) is diagnostically Norse, not Indigenous.\n\nDating converges from two independent lab efforts: [[source-nydal-1989]] gives a calibrated radiocarbon range of AD 975-1020, and [[source-kuitems-2021]] uses the AD 993 cosmic-ray radiocarbon spike as a dendro anchor to pin the felling of metal-cut Norse wood to exactly AD 1021 (see the sub-claim [[claim-lanse-aux-meadows-ad1021]]) — 471 years before Columbus.\n\nThe Vinland sagas (Graenlendinga saga, Eirik the Red's saga) independently corroborate voyages to 'Vinland,' though as oral histories written down two-plus centuries later they are treated here as leads, not primary evidence. Confidence is held just below 1.0 only because the sagas are secondary and the precise extent/duration of Norse activity beyond L'Anse aux Meadows remains debated; the core claim itself is not scholarly contested.\n",
+      "in_cites": 0,
+      "out_cites": 1,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
+      "id": "claim-sea-peoples-collapse",
+      "type": "claim",
+      "title": "The Sea Peoples caused the Late Bronze Age collapse (c. 1200-1150 BCE)",
+      "status": "contested",
+      "confidence": 0.4,
+      "body": "**The claim as stated (mono-causal).** A confederation of migrating raiders, the Sea Peoples, brought down the interconnected civilizations of the eastern Mediterranean around 1200-1150 BCE: the Mycenaean palaces (see [[site-mycenae]]), the Hittite empire, and coastal kingdoms such as [[site-ugarit]]. In this reading the Sea Peoples are the *cause* of the collapse.\n\n**What is actually attested vs inferred.** The distinction matters (see [[claim-sea-peoples-egyptian-attestation]]). The Sea Peoples are genuinely attested — chiefly in Egyptian records, above all the Year 8 reliefs and inscriptions of Ramesses III at Medinet Habu, plus letters from Ugarit. What is NOT securely attested is that they were a single organized force that *caused* the region-wide collapse rather than being one moving part within it. The mono-causal invasion narrative is largely an inference layered onto the Egyptian propaganda imagery by 19th-20th century scholarship.\n\n**Why specialists now reject it as stated.** Two fetched open-access works undercut the mono-causal version. Kaniewski et al. 2013 ([[source-kaniewski-2013]]) present palaeoclimate evidence that the Sea Peoples were themselves people fleeing drought-stricken lands — a *symptom* of the crisis, not its root. Middleton 2023 ([[source-middleton-2023]]) reviews recent work (Millek; Jung & Kardamaki) showing the supposed single, synchronous destruction horizon dissolves on close inspection: destructions are fewer, spread over ~50 years, and locally varied (warfare, arson, earthquake), with no single silver-bullet cause. Eric Cline ([[scholar-eric-cline]]) popularized the multi-causal systems-collapse framing.\n\n**Verdict.** Contested, leaning refuted as a mono-causal claim; held at 0.4. The Sea Peoples were real and did participate in the disturbances, but the evidence does not support them as the sole or primary cause. The better-supported reading is multi-causal: [[claim-lbac-multicausal]].\n",
+      "in_cites": 0,
+      "out_cites": 2,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
+      "id": "claim-sea-peoples-egyptian-attestation",
+      "type": "claim",
+      "title": "The Sea Peoples are attested in Egyptian records (Ramesses III, Medinet Habu)",
+      "status": "supported",
+      "confidence": 0.85,
+      "body": "**The claim.** Groups collectively labelled the Sea Peoples are a genuine historical phenomenon documented in contemporary Egyptian sources, most prominently the Year 8 reliefs and inscriptions of Ramesses III (c. 1177 BCE) at his mortuary temple of Medinet Habu, which depict land and sea battles against named groups (Peleset, Tjeker, Shekelesh, Denyen, Weshesh and others). They also appear in earlier records of Merneptah and in correspondence from [[site-ugarit]].\n\n**Why this is separated from the causal claim.** This node exists to keep two things apart that popular accounts fuse: (1) that the Sea Peoples were real and militarily active — well supported — versus (2) that they *caused* the Late Bronze Age collapse — contested and leaning refuted (see [[claim-sea-peoples-collapse]]). The Egyptian evidence is royal commemorative propaganda: it establishes the encounters and the Egyptian victory claim, but it does not establish a unified confederation responsible for the region-wide systems failure captured by [[claim-lbac-multicausal]].\n\n**Status.** Supported at 0.85. Note: this attestation is drawn from the well-known Medinet Habu corpus and standard Egyptological literature; no primary Egyptological edition was fetched in this run, so the confidence reflects general scholarly consensus rather than a source node verified here. Eric Cline ([[scholar-eric-cline]]) treats the Medinet Habu evidence at length while cautioning against reading it as the cause of collapse.\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
     },
     {
       "id": "claim-thera-destroyed-minoans",
@@ -268,6 +415,19 @@
       "traces_to": []
     },
     {
+      "id": "scholar-arthur-evans",
+      "type": "scholar",
+      "title": "Sir Arthur Evans (1851-1941)",
+      "status": "reference",
+      "confidence": 0.9,
+      "body": "British archaeologist who excavated Knossos on [[site-minoan-crete|Crete]] from 1900 and named the Minoan civilization. He recovered the first large Linear B archive and published the signs (Scripta Minoa), but insisted the script recorded a non-Greek Minoan language and that Knossos was a Minoan, not Mycenaean, seat of power.\n\nHis authority entrenched the non-Greek view for a generation and is a textbook case of an eminent excavator's prior commitments delaying a correct reading. The [[claim-linear-b-greek|Ventris-Chadwick decipherment]] overturned Evans's position, showing the tablets are Greek — though the resulting question of who ruled Knossos and when remains debated.\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
       "id": "scholar-david-traill",
       "type": "scholar",
       "title": "David A. Traill",
@@ -283,6 +443,19 @@
         "source-easton-1994",
         "source-traill-1989"
       ],
+      "traces_to": []
+    },
+    {
+      "id": "scholar-eric-cline",
+      "type": "scholar",
+      "title": "Eric H. Cline",
+      "status": "reference",
+      "confidence": 0.9,
+      "body": "**Who.** Eric H. Cline is an American archaeologist and ancient historian (George Washington University), a specialist in the eastern Mediterranean Bronze Age and field archaeology in the Levant and Aegean.\n\n**Relevance here.** Cline is the most visible modern proponent of the multi-causal, systems-collapse reading of the end of the Late Bronze Age, through his popular-but-scholarly book *1177 BC: The Year Civilization Collapsed* (Princeton, 2014). He argues that no single factor — and specifically not the Sea Peoples alone — brought down the interconnected palatial civilizations; rather a perfect storm of drought, famine, earthquakes (the so-called earthquake storms), disrupted international trade, internal rebellion and migration caused a fragile, globalized system to unravel. He treats the Sea Peoples as one component and partial symptom of that unravelling rather than its cause.\n\n**Position mapping.** Supports the multi-causal claim [[claim-lbac-multicausal]]; disputes the mono-causal [[claim-sea-peoples-collapse]]; discusses the Egyptian evidence [[claim-sea-peoples-egyptian-attestation]] and the fate of [[site-ugarit]]. Note: Cline's book itself was not fetched in this run (it is not open-access), so this note characterizes his well-documented public position rather than citing a fetched source; the drought strand of his argument is independently grounded here in [[source-kaniewski-2013]].\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
+      "citogenesis_root": false,
       "traces_to": []
     },
     {
@@ -314,6 +487,60 @@
         "claim-mask-of-agamemnon",
         "source-schliemann-mycenae-1878"
       ],
+      "traces_to": []
+    },
+    {
+      "id": "scholar-helge-anne-ingstad",
+      "type": "scholar",
+      "title": "Helge Ingstad & Anne Stine Ingstad",
+      "status": "active",
+      "confidence": 0.9,
+      "body": "Norwegian explorer Helge Ingstad (1899-2001) and his wife, archaeologist Anne Stine Ingstad (1918-1997). In 1960 Helge, guided by the Vinland sagas and local knowledge, identified turf-mound remains at [[site-lanse-aux-meadows]]; Anne Stine then led the scientific excavations (1961-1968) that established the site as Norse.\n\nTheir work provided the first incontrovertible archaeological proof of pre-Columbian European contact with the Americas, transforming [[claim-norse-precolumbian-america]] from saga-based conjecture into established fact. Anne Stine's multi-volume excavation monograph 'The Discovery of a Norse Settlement in America' (Norwegian Univ. Press, 1977) and Helge's companion volume are the primary field record, cited by later dating studies including [[source-nydal-1989]].\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
+      "id": "scholar-hendrik-bosman",
+      "type": "scholar",
+      "title": "Hendrik L. Bosman",
+      "status": "reference",
+      "confidence": 0.85,
+      "body": "Old Testament scholar (University of Stellenbosch, South Africa). Author of the two fetched open-access studies used in this investigation, [[source-bosman-2002]] on the impact of archaeology on the interpretation of Exodus and [[source-bosman-2014]] on the exodus as cultural memory and founding myth.\n\nHis position is methodological rather than partisan: he surveys the archaeological difficulties (notably the absence of any trace of Israel as a people in Egypt in the Late Bronze or Early Iron Age) and argues the theological meaning of the exodus does not stand or fall on its literal historicity. Included as the source-author node so the graph shows both source notes tracing back to a single scholar, a citogenesis-awareness flag for this small cluster.\n",
+      "in_cites": 0,
+      "out_cites": 2,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": [
+        "source-bosman-2002"
+      ]
+    },
+    {
+      "id": "scholar-israel-finkelstein",
+      "type": "scholar",
+      "title": "Israel Finkelstein",
+      "status": "reference",
+      "confidence": 0.9,
+      "body": "Israeli archaeologist (Tel Aviv University), a leading figure in the archaeology of early Israel and co-author with Neil Asher Silberman of The Bible Unearthed (2001). On the basis of highland settlement surveys he argues that early Israel emerged from within Canaanite society in Iron Age I rather than arriving from Egypt, and that the exodus and conquest narratives are largely a later literary construction reflecting the geopolitical horizon of the 7th century BCE Kingdom of Judah.\n\nHe is the principal voice disputing [[claim-exodus-historical]] as a large-scale event and is skeptical even of a recoverable historical kernel [[claim-exodus-small-kernel]], though he acknowledges the tradition preserves cultural memory. Paired here with [[scholar-william-dever]], who reaches similar conclusions about the large-scale claim while remaining somewhat more open to a small kernel.\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
+      "id": "scholar-john-chadwick",
+      "type": "scholar",
+      "title": "John Chadwick (1920-1998)",
+      "status": "reference",
+      "confidence": 0.95,
+      "body": "Cambridge philologist and Greek-dialect specialist who joined [[scholar-michael-ventris]] in 1952 to test and consolidate the [[claim-linear-b-greek|Linear B]] decipherment, supplying the historical-linguistic expertise Ventris lacked. Co-author of the 1953 JHS paper ([[source-ventris-chadwick-1953]]) and of Documents in Mycenaean Greek (1956; 2nd ed. 1973).\n\nAfter Ventris's death Chadwick became the leading exponent and defender of Mycenaean studies, answering critics such as [[source-beattie-1956|Beattie]] and writing the standard popular account, The Decipherment of Linear B.\n",
+      "in_cites": 1,
+      "out_cites": 0,
+      "funnel_size": 2,
+      "citogenesis_root": false,
       "traces_to": []
     },
     {
@@ -369,6 +596,45 @@
       "traces_to": []
     },
     {
+      "id": "scholar-margot-kuitems",
+      "type": "scholar",
+      "title": "Margot Kuitems",
+      "status": "active",
+      "confidence": 0.85,
+      "body": "Researcher in radiocarbon dating and dendrochronology at the Centre for Isotope Research, University of Groningen. Lead author of [[source-kuitems-2021]], the 2021 Nature study that used the AD 993 cosmic-ray radiocarbon spike as a tree-ring anchor to date Norse wood at [[site-lanse-aux-meadows]] to exactly AD 1021.\n\nHer work exemplifies single-year 'Miyake event' anchoring, a technique also applied to European dendrochronology (she co-authored related Radiocarbon papers). The 2021 result gives [[claim-lanse-aux-meadows-ad1021]] its precision and is the tightest evidential support for [[claim-norse-precolumbian-america]]. Co-authors include Birgitta Wallace (a Parks Canada authority on the site) and Michael W. Dee (senior author, Groningen).\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
+      "id": "scholar-michael-ventris",
+      "type": "scholar",
+      "title": "Michael Ventris (1922-1956)",
+      "status": "reference",
+      "confidence": 0.95,
+      "body": "English architect and self-taught linguist who deciphered [[claim-linear-b-greek|Linear B]] in 1952, showing it recorded Greek. An amateur in the field, he approached the script structurally, extending Alice Kober's work into a grid of consonant-vowel sign relations. Working with [[scholar-john-chadwick]] he published the case in 1953 ([[source-ventris-chadwick-1953]]).\n\nHe first suspected the language was Etruscan and only concluded it was Greek when his grid values produced recognisable Greek words. Died in a car crash in 1956 at 34, shortly before the joint book Documents in Mycenaean Greek appeared.\n",
+      "in_cites": 1,
+      "out_cites": 0,
+      "funnel_size": 2,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
+      "id": "scholar-peter-warren",
+      "type": "scholar",
+      "title": "Peter Warren",
+      "status": "reference",
+      "confidence": 0.9,
+      "body": "British archaeologist (born 1937), Professor of Ancient History and Classical Archaeology at the University of Bristol and a major authority on Minoan Crete. Director of excavations at the Knossos Stratigraphical Museum site.\n\nIn 1979 to 1980 his team recovered a deposit of cut-marked children bones in a Late Minoan IB house at Knossos ([[site-minoan-crete]]), which he interpreted as evidence of child sacrifice and possible ritual cannibalism ([[claim-knossos-child-sacrifice]]). The full osteological record was published with S. M. Wall and the anatomist J. H. Musgrave ([[source-wall-musgrave-warren-1986]]). The physical data are widely accepted; Warren sacrificial and cannibalistic reading of them is contested.\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
       "id": "scholar-spyridon-marinatos",
       "type": "scholar",
       "title": "Spyridon Marinatos",
@@ -406,6 +672,32 @@
       ]
     },
     {
+      "id": "scholar-william-dever",
+      "type": "scholar",
+      "title": "William G. Dever",
+      "status": "reference",
+      "confidence": 0.9,
+      "body": "American archaeologist (University of Arizona), a prominent authority on Syro-Palestinian and biblical archaeology and author of works including Who Were the Early Israelites and Where Did They Come From? (2003). Dever holds that the archaeological record contains no evidence for a large-scale exodus or a unified military conquest, and that early Israel is best explained as an indigenous development among displaced Canaanites and pastoralists in the central highlands.\n\nHe disputes [[claim-exodus-historical]] as literally stated. Compared with [[scholar-israel-finkelstein]], Dever is generally read as somewhat more willing to entertain a small historical core behind the tradition, which is why he is cited on the contested side of [[claim-exodus-small-kernel]]. Both scholars are widely regarded as representing the mainstream archaeological consensus against the biblical-magnitude reading.\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
+      "id": "scholar-yannis-sakellarakis",
+      "type": "scholar",
+      "title": "Yannis Sakellarakis",
+      "status": "reference",
+      "confidence": 0.9,
+      "body": "Greek archaeologist (1936 to 2010), excavator with his wife Efi Sapouna-Sakellaraki of Archanes and the Anemospilia shrine ([[site-anemospilia]]) on Crete. A curator at the National Archaeological Museum in Athens and a leading figure in Minoan field archaeology.\n\nHe is best known here for the 1979 excavation at Anemospilia and for the interpretation, published in the Archanes monograph and popularized in a 1981 National Geographic feature, that the collapsed building preserved a human sacrifice interrupted by an earthquake ([[claim-anemospilia-sacrifice]]). The reading remains contested, but the excavation itself is meticulously documented and is the single strongest datum behind the broader claim that [[claim-minoan-human-sacrifice|the Minoans practiced human sacrifice]].\n\nThe skulls of the Anemospilia dead were later cast and facially reconstructed by a Manchester team ([[source-musgrave-1994]]).\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
       "id": "site-aigai-vergina",
       "type": "site",
       "title": "Aigai (modern Vergina), Macedonia",
@@ -432,6 +724,19 @@
       "traces_to": []
     },
     {
+      "id": "site-anemospilia",
+      "type": "site",
+      "title": "Anemospilia (Minoan shrine on Mount Juktas, near Archanes, Crete)",
+      "status": "reference",
+      "confidence": 0.9,
+      "body": "A Middle Minoan building on the north slope of Mount Juktas near Archanes in central Crete, excavated by [[scholar-yannis-sakellarakis|Yannis Sakellarakis]] and Efi Sapouna-Sakellaraki in 1979. It belongs to the wider palatial landscape of [[site-minoan-crete]] and sits below the Juktas peak sanctuary.\n\nThe tripartite structure, probably a shrine, was destroyed and burned in an earthquake around 1700 BCE (Middle Minoan II) and never reoccupied, which sealed its contents where they fell. Four human skeletons were recovered in the collapse, including a young man on a raised platform associated with a large bronze blade. The site is famous almost entirely for the disputed claim that these remains record a human sacrifice interrupted by the quake ([[claim-anemospilia-sacrifice]]).\n\nA place node, not a document. Unlike the palace centres of [[site-minoan-crete]], Anemospilia is a small rural cult building rather than a palace, which is part of why its dramatic deposit is so unusual.\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
       "id": "site-great-tumulus",
       "type": "site",
       "title": "The Great Tumulus, Vergina",
@@ -441,6 +746,19 @@
       "in_cites": 5,
       "out_cites": 2,
       "funnel_size": 11,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
+      "id": "site-lanse-aux-meadows",
+      "type": "site",
+      "title": "L'Anse aux Meadows, Newfoundland",
+      "status": "confirmed",
+      "confidence": 0.97,
+      "body": "Norse settlement site on the northern tip of the Great Northern Peninsula of Newfoundland, Canada — the **only unambiguously confirmed Norse (Viking) site in the Americas** and a UNESCO World Heritage Site.\n\nDiscovered in 1960 by Helge Ingstad and excavated over the following years by his wife, archaeologist Anne Stine Ingstad ([[scholar-helge-anne-ingstad]]), with later campaigns by Parks Canada (Birgitta Wallace). The remains include several turf-walled halls and workshops of Icelandic/Greenlandic Norse type, plus diagnostically Norse finds: a bronze ring-headed cloak pin, a soapstone spindle whorl, iron boat nails, and evidence of iron smelting and woodworking. Interpreted as a short-lived base camp used for onward exploration further south, consistent with the sagas' 'Vinland.'\n\nThe site is the physical anchor of [[claim-norse-precolumbian-america]]. Its wood was dated to AD 1021 by [[source-kuitems-2021]] and to a calibrated AD 975-1020 range by [[source-nydal-1989]].\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
       "citogenesis_root": false,
       "traces_to": []
     },
@@ -467,6 +785,19 @@
       "in_cites": 2,
       "out_cites": 0,
       "funnel_size": 2,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
+      "id": "site-pylos",
+      "type": "site",
+      "title": "Pylos (Ano Englianos, Palace of Nestor), Messenia",
+      "status": "reference",
+      "confidence": 0.95,
+      "body": "Late Bronze Age Mycenaean palace in southwest Messenia, excavated by Carl Blegen from 1939. It yielded the largest and best-preserved [[claim-linear-b-greek|Linear B]] archive on the Greek mainland — the tablets whose fuller publication (The Pylos Tablets, ed. E. L. Bennett, 1951) made the systematic decipherment possible.\n\nBlegen's 1952 season produced the tripod tablet PY Ta 641, whose Greek reading ti-ri-po-de (tripods) with matching ideograms gave the decipherment its most celebrated independent confirmation, since those tablets were found after Ventris's grid values were fixed. A place node, not a document; distinct from [[site-mycenae]] and [[site-minoan-crete|Knossos]], the other two find-spots named in [[source-ventris-chadwick-1953]].\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
       "citogenesis_root": false,
       "traces_to": []
     },
@@ -510,6 +841,19 @@
       "traces_to": []
     },
     {
+      "id": "site-ugarit",
+      "type": "site",
+      "title": "Ugarit (Ras Shamra), Syria",
+      "status": "reference",
+      "confidence": 0.9,
+      "body": "**What.** Ugarit was a wealthy cosmopolitan port kingdom on the northern Syrian coast (modern Ras Shamra), a hub of Late Bronze Age international trade and diplomacy and home to an important cuneiform archive including alphabetic Ugaritic texts. Its destruction and abandonment early in the 12th century BCE is one of the anchor events of the Late Bronze Age collapse.\n\n**Why it matters to the claim.** Ugarit is the site most often cited for the Sea Peoples narrative: late letters from the archive (e.g. correspondence mentioning enemy ships and requests for help) are read as eyewitness testimony to sea-borne attack shortly before the city fell, and the city was not reoccupied. It is thus a key test case for [[claim-sea-peoples-collapse]]. But it is also the setting of the palaeoclimate evidence in [[source-kaniewski-2013]] (the nearby coastal site of Gibala-Tell Tweini lay within the kingdom of Ugarit), which places the destruction within a context of drought and famine — feeding the multi-causal reading [[claim-lbac-multicausal]]. The destruction was long attributed monocausally to the Sea Peoples, but its exact cause and date remain debated.\n\n**Links.** Bears on [[claim-sea-peoples-egyptian-attestation]], [[scholar-eric-cline]], and the contemporaneous Aegean collapse at [[site-mycenae]].\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
       "id": "source-bartsiokas-2000",
       "type": "source",
       "title": "Bartsiokas 2000 — The Eye Injury of King Philip II and the Skeletal Evidence from Royal Tomb II at Vergina",
@@ -547,6 +891,20 @@
       ]
     },
     {
+      "id": "source-beattie-1956",
+      "type": "source",
+      "title": "Beattie 1956 — Mr. Ventris' Decipherment of the Minoan Linear B Script",
+      "status": "secondary",
+      "confidence": 0.85,
+      "body": "**The main published objection** — the most substantial contemporary attempt to reject the decipherment, by A. J. Beattie of Edinburgh. Fetched via the Cambridge Core landing page for JHS vol. 76 (real published Extract, not a stub).\n\nThe grounded Extract fairly summarises Ventris's three claims before attacking them: (1) the language of all the Linear B writings is Greek, of a pre-Dorian kind allied to classical Arcadian and Cypriot; (2) the script is mainly a syllabary akin to the classical Cypriot syllabary; (3) the phonetic values can be recovered by studying sign frequency, position and combination together with ideograms. Beattie held the derivation of those values to be circular and arbitrary.\n\nThis node **disputes** [[claim-linear-b-greek]] and documents the initial skepticism the claim faced. It is included precisely to show the contest was had and lost: Beattie's critique did not persuade the field, and the reading of tablets discovered after 1953 (e.g. the Pylos tripod tablet) answered exactly the charge of circularity. Retained as a secondary source recording dissent, not as evidence against the consensus. Full text behind access control; grounded content is the publisher Extract.\n",
+      "in_cites": 1,
+      "out_cites": 0,
+      "funnel_size": 1,
+      "citogenesis_root": false,
+      "tier": "secondary",
+      "traces_to": []
+    },
+    {
       "id": "source-bha-insearch-2016",
       "type": "source",
       "title": "Murray 2016 — Review of 'In Search of Agamemnon: Early Travellers to Mycenae'",
@@ -556,6 +914,39 @@
       "in_cites": 0,
       "out_cites": 0,
       "funnel_size": 0,
+      "citogenesis_root": false,
+      "tier": "secondary",
+      "traces_to": []
+    },
+    {
+      "id": "source-bosman-2002",
+      "type": "source",
+      "title": "Bosman 2002 — The Exodus and the Spade: The Impact of Archaeology on the Interpretation of the Book of Exodus",
+      "status": "secondary",
+      "confidence": 0.8,
+      "body": "Peer-reviewed open-access article (CC BY 4.0), full text fetched and read this run. A scholarly survey of how archaeological discoveries (Amarna letters and the Habiru, the Merneptah Stele, the Egyptian background) have shaped interpretation of the book of Exodus.\n\nKey datum for this investigation: Bosman states that a central element of frustration in the dialogue between archaeology and biblical studies has been the absence of any trace of Israel as a people in Egypt during the Late Bronze or Early Iron Age. This directly undercuts [[claim-exodus-historical]] as literally stated (a mass departure of ~600,000 men).\n\nBosman also quotes Houtman: the archaeological data have not produced a consensus about the date and nature of Israel's settlement in Canaan, and it is impossible to determine the date of the exodus or reconstruct the Israel of the exodus from Palestinian archaeology alone. This documents genuine scholarly non-consensus and is the reason [[claim-exodus-small-kernel]] remains contested rather than settled.\n\nThis is a secondary synthesis (a survey of commentaries and reported finds), not a primary excavation report, so it is weighted as informed scholarly overview rather than a root datum. Author node: [[scholar-hendrik-bosman]].\n",
+      "in_cites": 3,
+      "out_cites": 0,
+      "funnel_size": 3,
+      "citogenesis_root": true,
+      "funnel_members": [
+        "claim-exodus-historical",
+        "claim-exodus-small-kernel",
+        "scholar-hendrik-bosman"
+      ],
+      "tier": "secondary",
+      "traces_to": []
+    },
+    {
+      "id": "source-bosman-2014",
+      "type": "source",
+      "title": "Bosman 2014 — The Exodus as Negotiation of Identity and Human Dignity between Memory and Myth",
+      "status": "secondary",
+      "confidence": 0.8,
+      "body": "Peer-reviewed open-access article (CC BY 4.0); landing page and abstract fetched this run (full text is a PDF galley on the same platform).\n\nBosman argues the exodus in the Old Testament is best understood as cultural memory: a remembered past producing collective memories whose relevance did not depend on the historical factuality of the events. He proposes the exodus functioned as a founding myth in the evolving of Israelite and early Jewish identity, and that the scholarly goal should be less about establishing archaeologically verifiable truth claims than about how the memory shaped identity.\n\nThis frames the mechanism behind [[claim-exodus-small-kernel]]: even a small or non-literal historical seed could be elaborated over time into the large-scale national narrative preserved in scripture. It supports the contested kernel reading while remaining explicitly agnostic on the literal historicity that [[claim-exodus-historical]] asserts. Author node: [[scholar-hendrik-bosman]].\n",
+      "in_cites": 2,
+      "out_cites": 0,
+      "funnel_size": 2,
       "citogenesis_root": false,
       "tier": "secondary",
       "traces_to": []
@@ -643,6 +1034,20 @@
       "traces_to": []
     },
     {
+      "id": "source-kaniewski-2013",
+      "type": "source",
+      "title": "Kaniewski et al. 2013 — Environmental Roots of the Late Bronze Age Crisis",
+      "status": "primary",
+      "confidence": 0.75,
+      "body": "**Open-access primary study (fetched this run, PLoS ONE, CC-BY).** Palaeoclimate proxy work from Gibala-Tell Tweini on the Syrian coast (kingdom of Ugarit) and from Cyprus, with a radiocarbon-based chronology tying the environmental record to the archaeological horizon of the Late Bronze Age crisis.\n\n**Core finding.** The authors report abrupt climate change to drier conditions across the 13th-9th centuries BC and argue for climate-driven famine as an underlying driver of the crisis. Their framing is explicitly causal-layered: the paper distinguishes the *proximate* cause portrayed by Egyptian and cuneiform sources (the Peoples-of-the-Sea invasions) from the *ultimate* driver (drought and famine).\n\n**Bearing on the Sea Peoples.** Crucially, the paper reframes the Sea Peoples themselves as a *symptom* of the same environmental stress. In their words, the Sea Peoples were not merely pirates pursuing the riches of the Near East but a set of ethnic entities fleeing inhospitable, drought-undermined regions to conquer new lands. This directly undercuts the mono-causal reading in [[claim-sea-peoples-collapse]] and supports the multi-causal reading in [[claim-lbac-multicausal]].\n\n**Caveats.** This is one regional proxy record extrapolated to a pan-Mediterranean event; critics note that a single silver-bullet climate cause is as reductive as a single invasion cause, and that direct causation between climate and societal collapse is hard to prove (a caveat the authors themselves acknowledge). Held as strong but not decisive primary evidence for the environmental strand. Location context: [[site-ugarit]].\n",
+      "in_cites": 2,
+      "out_cites": 0,
+      "funnel_size": 2,
+      "citogenesis_root": false,
+      "tier": "primary",
+      "traces_to": []
+    },
+    {
       "id": "source-kolb-2005",
       "type": "source",
       "title": "Kolb 2005 — Late Bronze Age Troy: A Response to P. Jablonka and C.B. Rose",
@@ -651,6 +1056,20 @@
       "body": "Peer-reviewed forum response (AJA, open access BY-NC); full text fetched. [[scholar-frank-kolb|Kolb]] defends his argument that Late Bronze Age Troy was NOT a significant trade city and that the Korfmann excavation 'mingles actual findings with mere assumptions and wishful thinking' — noting the scarcity of genuine imported Mycenaean pottery and the absence of Black Sea trade goods. Undercuts the material basis for a historically important Troy, and thus a key support for the war's plausibility.\n",
       "in_cites": 0,
       "out_cites": 1,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "tier": "primary",
+      "traces_to": []
+    },
+    {
+      "id": "source-kuitems-2021",
+      "type": "source",
+      "title": "Kuitems et al. 2021 — Evidence for European presence in the Americas in AD 1021",
+      "status": "primary",
+      "confidence": 0.95,
+      "body": "**Peer-reviewed article, Nature, 2021 (open access).** Full HTML fetched this run from the Nature landing page via the DOI; abstract, Main text and Results grounded this note.\n\nPrimary laboratory dating. The team dated three pieces of wood from Norse contexts at [[site-lanse-aux-meadows]] — each demonstrably worked with metal tools (clean, low-angle cut marks; metal blades were not made by contemporary Indigenous peoples), fixing them as Norse debris. They exploited the AD 993 cosmic-ray radiocarbon spike (a global, single-year Miyake-type C-14 upsurge from a solar particle event) as an absolute anchor in the tree-ring series: once the 993 ring is identified, counting rings out to the preserved waney (bark) edge gives the exact felling year. All three samples yielded a felling year of **AD 1021** — a precise calendar date, not a probability range.\n\nThis is the strongest possible support for both [[claim-norse-precolumbian-america]] and the sub-claim [[claim-lanse-aux-meadows-ad1021]]: exactly 471 years before Columbus reached the Caribbean in 1492. The authors frame it as the first securely dated moment Europeans stood in the Americas, and 'the first known point at which humans encircled the globe.' Primary datum (excavated wood + accelerator C-14 + dendro anchor), not an echo.\n",
+      "in_cites": 0,
+      "out_cites": 0,
       "funnel_size": 0,
       "citogenesis_root": false,
       "tier": "primary",
@@ -685,6 +1104,34 @@
       "traces_to": []
     },
     {
+      "id": "source-middleton-2023",
+      "type": "source",
+      "title": "Middleton 2023 — Getting closer to the Late Bronze Age collapse (review article)",
+      "status": "secondary",
+      "confidence": 0.7,
+      "body": "**Open-access review article (fetched this run, Antiquity, CC-BY).** Middleton reviews Jesse Millek's *Destruction and its impact* (2023) and Jung & Kardamaki's *Synchronizing the destructions of the Mycenaean palaces* (2022), using them to reassess the standard narrative of the c. 1200 BC collapse.\n\n**Core argument.** Both books, Middleton writes, successfully reassess the simplistic and catastrophist characterisation of the end of the Late Bronze Age and provide a more nuanced picture. He notes that whether there was even a *single* collapse marked by a widespread destruction horizon is up for debate, and explicitly rejects the notion of a single destruction horizon with a single ultimate cause or a single silver-bullet cause. Millek accepts destructions only within a generous 1225-1175 BC window and finds several supposed collapse-destructions (e.g. Orchomenos) lack evidence, while attributing others (Midea, Pylos, Tiryns) to warfare or arson of varied and local origin.\n\n**Bearing on the claim.** This is secondary/echo-level literature (a review, not new excavation), but it documents the current scholarly consensus that the mono-causal, catastrophist Sea Peoples story is rejected. Supports [[claim-lbac-multicausal]] and disputes [[claim-sea-peoples-collapse]]. Touches the Mycenaean palace destructions at [[site-mycenae]].\n",
+      "in_cites": 2,
+      "out_cites": 0,
+      "funnel_size": 2,
+      "citogenesis_root": false,
+      "tier": "secondary",
+      "traces_to": []
+    },
+    {
+      "id": "source-musgrave-1994",
+      "type": "source",
+      "title": "Musgrave, Neave, Prag et al. 1994 — The priest and priestess from Archanes-Anemospilia: reconstructing Minoan faces",
+      "status": "primary",
+      "confidence": 0.82,
+      "body": "Peer-reviewed article, Annual of the British School at Athens, 1994. Fetched via Cambridge Core (DOI 10.1017/S0068245400015306); the abstract and references returned and ground this note. Full text paywalled, so this note rests on the abstract.\n\nIn 1987 a Manchester team (J. H. Musgrave, R. A. H. Neave, A. J. N. W. Prag, with E. and J. A. Sakellarakis) made casts of the skulls of the two adults from Anemospilia ([[site-anemospilia]]) whom the excavators identified as the officiating priest and priestess, and reconstructed their faces after medical study. The abstract records that the study found the woman suffered from anaemia. The same facial-reconstruction technique had been applied by this team to the skull from Tomb II at Vergina attributed to Philip II ([[site-tomb-ii]]).\n\nThis article does not itself argue for or against sacrifice; it documents and humanizes the individuals in the [[claim-anemospilia-sacrifice|Anemospilia sacrifice]] scene and confirms that the skeletons exist and were studied in detail. It matters here as independent, primary anatomical corroboration of the remains, and as a cross-link: co-authors J. H. Musgrave ([[scholar-jonathan-musgrave]]) and A. J. N. W. Prag ([[scholar-john-prag]]) are the same scholars who reconstructed the Vergina royal skulls, tying the Anemospilia material into the existing Vergina cluster.\n",
+      "in_cites": 2,
+      "out_cites": 0,
+      "funnel_size": 2,
+      "citogenesis_root": false,
+      "tier": "primary",
+      "traces_to": []
+    },
+    {
       "id": "source-musgrave-2010",
       "type": "source",
       "title": "Musgrave et al. 2010 — The Occupants of Tomb II at Vergina: Why Arrhidaios and Eurydice must be excluded",
@@ -694,6 +1141,20 @@
       "in_cites": 1,
       "out_cites": 1,
       "funnel_size": 1,
+      "citogenesis_root": false,
+      "tier": "primary",
+      "traces_to": []
+    },
+    {
+      "id": "source-nydal-1989",
+      "type": "source",
+      "title": "Nydal 1989 — A Critical Review of Radiocarbon Dating of a Norse Settlement at L'Anse aux Meadows, Newfoundland",
+      "status": "primary",
+      "confidence": 0.85,
+      "body": "**Peer-reviewed article, Radiocarbon, 1989.** Abstract and reference list fetched this run via Cambridge Core (DOI 10.1017/S0033822200012613); the returned abstract grounds this note.\n\nPrimary radiocarbon lab work, decades before Kuitems. Nydal (Radiological Dating Laboratory, Norwegian Institute of Technology) re-evaluated the C-14 series from [[site-lanse-aux-meadows]] — a site he records as discovered by Helge Ingstad in 1960. The chief earlier problem was that some dated material was driftwood (old-wood offset); Nydal concludes the site charcoal shows no greater error than normal settlement sites, and with an assumed systematic error of 30 +/- 20 years derives a calibrated range of **AD 975-1020**, agreeing with the historically expected ~AD 1000 and corroborated by high-precision accelerator dating at Toronto.\n\nA second, independent primary line of evidence supporting [[claim-norse-precolumbian-america]]. Its AD 975-1020 window brackets the later, single-year 1021 result of [[source-kuitems-2021]] — an example of convergent dating rather than citogenesis. It cites the excavation monographs of Anne Stine and Helge Ingstad ([[scholar-helge-anne-ingstad]]).\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
       "citogenesis_root": false,
       "tier": "primary",
       "traces_to": []
@@ -784,6 +1245,20 @@
       ]
     },
     {
+      "id": "source-ventris-chadwick-1953",
+      "type": "source",
+      "title": "Ventris & Chadwick 1953 — Evidence for Greek Dialect in the Mycenaean Archives",
+      "status": "primary",
+      "confidence": 0.9,
+      "body": "**The primary decipherment paper** — the citogenesis root of the whole Mycenaean-Greek field. Fetched via the Cambridge Core landing page for JHS vol. 73 (real published Extract and reference apparatus, not a login stub).\n\nThe grounded Extract states the setting directly: with the fuller publication of the Pylos material found by Blegen and the Knossos tablets found by Evans, it had at last become possible to undertake a systematic study of the texts in Linear Script B, and their decipherment was the central problem in Aegean archaeology. The Extract also records the authors overturning the prior view: Evans believed Linear B expressed a non-Greek Aegean language, whereas on their phonetic and morphological criteria our Mycenaean dialect appears to ally itself with Greek. A footnote explicitly rejects an alternative (van Windekens's Pelasgian) as a highly dubious language against which Greek fits the evidence.\n\nThis node **supports** [[claim-linear-b-greek]] and is the source [[scholar-michael-ventris]] and [[scholar-john-chadwick]] published together; it names the three find-spots [[site-minoan-crete|Knossos]], [[site-pylos|Pylos]] and [[site-mycenae]]. Full article text is behind access control; the grounded content here is the publisher Extract, treated as such — sufficient to verify the paper exists, its argument, and its Greek conclusion.\n",
+      "in_cites": 1,
+      "out_cites": 2,
+      "funnel_size": 1,
+      "citogenesis_root": false,
+      "tier": "primary",
+      "traces_to": []
+    },
+    {
       "id": "source-vergina-review-2023",
       "type": "source",
       "title": "Maniatis et al. 2023 — The identification of the Royal Tombs in the Great Tumulus at Vergina: A comprehensive review",
@@ -799,9 +1274,203 @@
         "scholar-antonis-bartsiokas",
         "source-bartsiokas-2015"
       ]
+    },
+    {
+      "id": "source-wall-musgrave-warren-1986",
+      "type": "source",
+      "title": "Wall, Musgrave & Warren 1986 — Human Bones from a Late Minoan Ib House at Knossos",
+      "status": "primary",
+      "confidence": 0.85,
+      "body": "Peer-reviewed research article, Annual of the British School at Athens, 1986. Fetched via Cambridge Core (DOI 10.1017/S0068245400020207); the abstract and reference apparatus returned and ground this note. The full text is behind a paywall, so this note rests on the abstract and the article own summary of its findings.\n\nThe paper publishes the full osteological record of human bones from a small room of a Late Minoan IB house at Knossos (Stratigraphical Museum site). Its central factual claim, stated in the abstract, is that about a third of the bones bear knife marks suggesting that flesh had been cut from them. The endnotes quantify this: of a minimum of 199 identified bones, 79 bear cut marks, giving a maximum marked figure near 36 percent and a best minimum near 22 percent. The remains are largely those of children.\n\nThe authors present the stratigraphy and context, the osteological record, an analysis of the skulls and mandibles and their evidence for age, reasons for the treatment of the bodies, and comparative evidence. This is the primary publication underlying [[claim-knossos-child-sacrifice]]. The cut-mark data are primary and strong; the sacrificial and cannibalistic interpretation attached to them is the contested part. Co-author J. H. Musgrave is the same Bristol anatomist ([[scholar-jonathan-musgrave]]) who later worked on the Anemospilia and Vergina skulls, an internal cross-link across the wiki clusters.\n",
+      "in_cites": 2,
+      "out_cites": 0,
+      "funnel_size": 2,
+      "citogenesis_root": false,
+      "tier": "primary",
+      "traces_to": []
     }
   ],
   "links": [
+    {
+      "source": "claim-anemospilia-sacrifice",
+      "target": "claim-minoan-human-sacrifice",
+      "rel": "supports"
+    },
+    {
+      "source": "claim-anemospilia-sacrifice",
+      "target": "site-anemospilia",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-anemospilia-sacrifice",
+      "target": "scholar-yannis-sakellarakis",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-anemospilia-sacrifice",
+      "target": "source-musgrave-1994",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-anemospilia-sacrifice",
+      "target": "site-akrotiri-thera",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-exodus-historical",
+      "target": "source-bosman-2002",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-exodus-historical",
+      "target": "claim-exodus-small-kernel",
+      "rel": "disputes"
+    },
+    {
+      "source": "claim-exodus-historical",
+      "target": "scholar-israel-finkelstein",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-exodus-historical",
+      "target": "scholar-william-dever",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-exodus-small-kernel",
+      "target": "source-bosman-2014",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-exodus-small-kernel",
+      "target": "source-bosman-2002",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-exodus-small-kernel",
+      "target": "scholar-william-dever",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-exodus-small-kernel",
+      "target": "scholar-israel-finkelstein",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-exodus-small-kernel",
+      "target": "claim-exodus-historical",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-knossos-child-sacrifice",
+      "target": "claim-minoan-human-sacrifice",
+      "rel": "supports"
+    },
+    {
+      "source": "claim-knossos-child-sacrifice",
+      "target": "source-wall-musgrave-warren-1986",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-knossos-child-sacrifice",
+      "target": "scholar-peter-warren",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-knossos-child-sacrifice",
+      "target": "site-minoan-crete",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-lanse-aux-meadows-ad1021",
+      "target": "site-lanse-aux-meadows",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-lanse-aux-meadows-ad1021",
+      "target": "claim-norse-precolumbian-america",
+      "rel": "supports"
+    },
+    {
+      "source": "claim-lanse-aux-meadows-ad1021",
+      "target": "source-kuitems-2021",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-lanse-aux-meadows-ad1021",
+      "target": "source-nydal-1989",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-lbac-multicausal",
+      "target": "claim-sea-peoples-collapse",
+      "rel": "disputes"
+    },
+    {
+      "source": "claim-lbac-multicausal",
+      "target": "source-kaniewski-2013",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-lbac-multicausal",
+      "target": "source-middleton-2023",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-lbac-multicausal",
+      "target": "scholar-eric-cline",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-lbac-multicausal",
+      "target": "site-mycenae",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-lbac-multicausal",
+      "target": "site-ugarit",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-linear-b-greek",
+      "target": "source-ventris-chadwick-1953",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-linear-b-greek",
+      "target": "source-beattie-1956",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-linear-b-greek",
+      "target": "scholar-michael-ventris",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-linear-b-greek",
+      "target": "scholar-john-chadwick",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-linear-b-greek",
+      "target": "scholar-arthur-evans",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-linear-b-greek",
+      "target": "site-pylos",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-linear-b-greek",
+      "target": "site-minoan-crete",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-linear-b-greek",
+      "target": "site-mycenae",
+      "rel": "mentions"
+    },
     {
       "source": "claim-mask-authenticity-dispute",
       "target": "claim-mask-of-agamemnon",
@@ -875,6 +1544,131 @@
     {
       "source": "claim-mask-of-agamemnon",
       "target": "claim-mask-authenticity-dispute",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-minoan-human-sacrifice",
+      "target": "site-minoan-crete",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-minoan-human-sacrifice",
+      "target": "site-anemospilia",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-minoan-human-sacrifice",
+      "target": "claim-anemospilia-sacrifice",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-minoan-human-sacrifice",
+      "target": "claim-knossos-child-sacrifice",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-minoan-human-sacrifice",
+      "target": "scholar-yannis-sakellarakis",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-minoan-human-sacrifice",
+      "target": "scholar-peter-warren",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-minoan-human-sacrifice",
+      "target": "source-wall-musgrave-warren-1986",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-minoan-human-sacrifice",
+      "target": "source-musgrave-1994",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-minoan-human-sacrifice",
+      "target": "site-akrotiri-thera",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-norse-precolumbian-america",
+      "target": "site-lanse-aux-meadows",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-norse-precolumbian-america",
+      "target": "claim-lanse-aux-meadows-ad1021",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-norse-precolumbian-america",
+      "target": "scholar-helge-anne-ingstad",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-norse-precolumbian-america",
+      "target": "source-nydal-1989",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-norse-precolumbian-america",
+      "target": "source-kuitems-2021",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-sea-peoples-collapse",
+      "target": "claim-lbac-multicausal",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-sea-peoples-collapse",
+      "target": "claim-sea-peoples-egyptian-attestation",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-sea-peoples-collapse",
+      "target": "source-kaniewski-2013",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-sea-peoples-collapse",
+      "target": "source-middleton-2023",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-sea-peoples-collapse",
+      "target": "scholar-eric-cline",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-sea-peoples-collapse",
+      "target": "site-ugarit",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-sea-peoples-collapse",
+      "target": "site-mycenae",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-sea-peoples-egyptian-attestation",
+      "target": "claim-sea-peoples-collapse",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-sea-peoples-egyptian-attestation",
+      "target": "claim-lbac-multicausal",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-sea-peoples-egyptian-attestation",
+      "target": "scholar-eric-cline",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-sea-peoples-egyptian-attestation",
+      "target": "site-ugarit",
       "rel": "mentions"
     },
     {
@@ -1243,6 +2037,16 @@
       "rel": "mentions"
     },
     {
+      "source": "scholar-arthur-evans",
+      "target": "claim-linear-b-greek",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-arthur-evans",
+      "target": "site-minoan-crete",
+      "rel": "mentions"
+    },
+    {
       "source": "scholar-david-traill",
       "target": "scholar-heinrich-schliemann",
       "rel": "mentions"
@@ -1260,6 +2064,31 @@
     {
       "source": "scholar-david-traill",
       "target": "claim-mask-authenticity-dispute",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-eric-cline",
+      "target": "claim-lbac-multicausal",
+      "rel": "supports"
+    },
+    {
+      "source": "scholar-eric-cline",
+      "target": "claim-sea-peoples-collapse",
+      "rel": "disputes"
+    },
+    {
+      "source": "scholar-eric-cline",
+      "target": "claim-sea-peoples-egyptian-attestation",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-eric-cline",
+      "target": "site-ugarit",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-eric-cline",
+      "target": "source-kaniewski-2013",
       "rel": "mentions"
     },
     {
@@ -1300,6 +2129,66 @@
     {
       "source": "scholar-heinrich-schliemann",
       "target": "claim-mask-authenticity-dispute",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-helge-anne-ingstad",
+      "target": "site-lanse-aux-meadows",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-helge-anne-ingstad",
+      "target": "claim-norse-precolumbian-america",
+      "rel": "supports"
+    },
+    {
+      "source": "scholar-helge-anne-ingstad",
+      "target": "source-nydal-1989",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-hendrik-bosman",
+      "target": "source-bosman-2002",
+      "rel": "cites"
+    },
+    {
+      "source": "scholar-hendrik-bosman",
+      "target": "source-bosman-2014",
+      "rel": "cites"
+    },
+    {
+      "source": "scholar-israel-finkelstein",
+      "target": "claim-exodus-historical",
+      "rel": "disputes"
+    },
+    {
+      "source": "scholar-israel-finkelstein",
+      "target": "claim-exodus-small-kernel",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-israel-finkelstein",
+      "target": "scholar-william-dever",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-john-chadwick",
+      "target": "claim-linear-b-greek",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-john-chadwick",
+      "target": "scholar-michael-ventris",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-john-chadwick",
+      "target": "source-ventris-chadwick-1953",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-john-chadwick",
+      "target": "source-beattie-1956",
       "rel": "mentions"
     },
     {
@@ -1368,6 +2257,56 @@
       "rel": "mentions"
     },
     {
+      "source": "scholar-margot-kuitems",
+      "target": "source-kuitems-2021",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-margot-kuitems",
+      "target": "claim-lanse-aux-meadows-ad1021",
+      "rel": "supports"
+    },
+    {
+      "source": "scholar-margot-kuitems",
+      "target": "site-lanse-aux-meadows",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-margot-kuitems",
+      "target": "claim-norse-precolumbian-america",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-michael-ventris",
+      "target": "claim-linear-b-greek",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-michael-ventris",
+      "target": "scholar-john-chadwick",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-michael-ventris",
+      "target": "source-ventris-chadwick-1953",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-peter-warren",
+      "target": "site-minoan-crete",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-peter-warren",
+      "target": "claim-knossos-child-sacrifice",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-peter-warren",
+      "target": "source-wall-musgrave-warren-1986",
+      "rel": "mentions"
+    },
+    {
       "source": "scholar-spyridon-marinatos",
       "target": "claim-thera-destroyed-minoans",
       "rel": "supports"
@@ -1398,6 +2337,41 @@
       "rel": "mentions"
     },
     {
+      "source": "scholar-william-dever",
+      "target": "claim-exodus-historical",
+      "rel": "disputes"
+    },
+    {
+      "source": "scholar-william-dever",
+      "target": "claim-exodus-small-kernel",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-william-dever",
+      "target": "scholar-israel-finkelstein",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-yannis-sakellarakis",
+      "target": "site-anemospilia",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-yannis-sakellarakis",
+      "target": "claim-anemospilia-sacrifice",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-yannis-sakellarakis",
+      "target": "claim-minoan-human-sacrifice",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-yannis-sakellarakis",
+      "target": "source-musgrave-1994",
+      "rel": "mentions"
+    },
+    {
       "source": "site-aigai-vergina",
       "target": "site-great-tumulus",
       "rel": "cites"
@@ -1423,6 +2397,21 @@
       "rel": "mentions"
     },
     {
+      "source": "site-anemospilia",
+      "target": "site-minoan-crete",
+      "rel": "mentions"
+    },
+    {
+      "source": "site-anemospilia",
+      "target": "scholar-yannis-sakellarakis",
+      "rel": "mentions"
+    },
+    {
+      "source": "site-anemospilia",
+      "target": "claim-anemospilia-sacrifice",
+      "rel": "mentions"
+    },
+    {
       "source": "site-great-tumulus",
       "target": "site-tomb-i",
       "rel": "cites"
@@ -1440,6 +2429,26 @@
     {
       "source": "site-great-tumulus",
       "target": "scholar-manolis-andronikos",
+      "rel": "mentions"
+    },
+    {
+      "source": "site-lanse-aux-meadows",
+      "target": "claim-norse-precolumbian-america",
+      "rel": "supports"
+    },
+    {
+      "source": "site-lanse-aux-meadows",
+      "target": "scholar-helge-anne-ingstad",
+      "rel": "mentions"
+    },
+    {
+      "source": "site-lanse-aux-meadows",
+      "target": "source-kuitems-2021",
+      "rel": "mentions"
+    },
+    {
+      "source": "site-lanse-aux-meadows",
+      "target": "source-nydal-1989",
       "rel": "mentions"
     },
     {
@@ -1490,6 +2499,26 @@
     {
       "source": "site-mycenae",
       "target": "source-manning-weninger-1992",
+      "rel": "mentions"
+    },
+    {
+      "source": "site-pylos",
+      "target": "claim-linear-b-greek",
+      "rel": "mentions"
+    },
+    {
+      "source": "site-pylos",
+      "target": "site-mycenae",
+      "rel": "mentions"
+    },
+    {
+      "source": "site-pylos",
+      "target": "site-minoan-crete",
+      "rel": "mentions"
+    },
+    {
+      "source": "site-pylos",
+      "target": "source-ventris-chadwick-1953",
       "rel": "mentions"
     },
     {
@@ -1545,6 +2574,36 @@
     {
       "source": "site-troy-hisarlik",
       "target": "claim-troy-vi-viia-war-destruction",
+      "rel": "mentions"
+    },
+    {
+      "source": "site-ugarit",
+      "target": "claim-sea-peoples-collapse",
+      "rel": "mentions"
+    },
+    {
+      "source": "site-ugarit",
+      "target": "claim-lbac-multicausal",
+      "rel": "mentions"
+    },
+    {
+      "source": "site-ugarit",
+      "target": "site-mycenae",
+      "rel": "mentions"
+    },
+    {
+      "source": "site-ugarit",
+      "target": "source-kaniewski-2013",
+      "rel": "mentions"
+    },
+    {
+      "source": "site-ugarit",
+      "target": "claim-sea-peoples-egyptian-attestation",
+      "rel": "mentions"
+    },
+    {
+      "source": "site-ugarit",
+      "target": "scholar-eric-cline",
       "rel": "mentions"
     },
     {
@@ -1613,6 +2672,16 @@
       "rel": "mentions"
     },
     {
+      "source": "source-beattie-1956",
+      "target": "claim-linear-b-greek",
+      "rel": "disputes"
+    },
+    {
+      "source": "source-beattie-1956",
+      "target": "scholar-michael-ventris",
+      "rel": "mentions"
+    },
+    {
       "source": "source-bha-insearch-2016",
       "target": "site-mycenae",
       "rel": "mentions"
@@ -1625,6 +2694,36 @@
     {
       "source": "source-bha-insearch-2016",
       "target": "claim-mask-of-agamemnon",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-bosman-2002",
+      "target": "claim-exodus-historical",
+      "rel": "disputes"
+    },
+    {
+      "source": "source-bosman-2002",
+      "target": "claim-exodus-small-kernel",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-bosman-2002",
+      "target": "scholar-hendrik-bosman",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-bosman-2014",
+      "target": "claim-exodus-small-kernel",
+      "rel": "supports"
+    },
+    {
+      "source": "source-bosman-2014",
+      "target": "claim-exodus-historical",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-bosman-2014",
+      "target": "scholar-hendrik-bosman",
       "rel": "mentions"
     },
     {
@@ -1703,6 +2802,21 @@
       "rel": "cites"
     },
     {
+      "source": "source-kaniewski-2013",
+      "target": "claim-lbac-multicausal",
+      "rel": "supports"
+    },
+    {
+      "source": "source-kaniewski-2013",
+      "target": "claim-sea-peoples-collapse",
+      "rel": "disputes"
+    },
+    {
+      "source": "source-kaniewski-2013",
+      "target": "site-ugarit",
+      "rel": "mentions"
+    },
+    {
       "source": "source-kolb-2005",
       "target": "claim-trojan-war-historical",
       "rel": "disputes"
@@ -1715,6 +2829,21 @@
     {
       "source": "source-kolb-2005",
       "target": "site-troy-hisarlik",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-kuitems-2021",
+      "target": "claim-norse-precolumbian-america",
+      "rel": "supports"
+    },
+    {
+      "source": "source-kuitems-2021",
+      "target": "claim-lanse-aux-meadows-ad1021",
+      "rel": "supports"
+    },
+    {
+      "source": "source-kuitems-2021",
+      "target": "site-lanse-aux-meadows",
       "rel": "mentions"
     },
     {
@@ -1753,6 +2882,51 @@
       "rel": "mentions"
     },
     {
+      "source": "source-middleton-2023",
+      "target": "claim-lbac-multicausal",
+      "rel": "supports"
+    },
+    {
+      "source": "source-middleton-2023",
+      "target": "claim-sea-peoples-collapse",
+      "rel": "disputes"
+    },
+    {
+      "source": "source-middleton-2023",
+      "target": "site-mycenae",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-musgrave-1994",
+      "target": "site-anemospilia",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-musgrave-1994",
+      "target": "claim-anemospilia-sacrifice",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-musgrave-1994",
+      "target": "scholar-jonathan-musgrave",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-musgrave-1994",
+      "target": "scholar-john-prag",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-musgrave-1994",
+      "target": "scholar-yannis-sakellarakis",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-musgrave-1994",
+      "target": "site-tomb-ii",
+      "rel": "mentions"
+    },
+    {
       "source": "source-musgrave-2010",
       "target": "claim-tomb-ii-philip-ii",
       "rel": "supports"
@@ -1780,6 +2954,31 @@
     {
       "source": "source-musgrave-2010",
       "target": "scholar-john-prag",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-nydal-1989",
+      "target": "claim-norse-precolumbian-america",
+      "rel": "supports"
+    },
+    {
+      "source": "source-nydal-1989",
+      "target": "claim-lanse-aux-meadows-ad1021",
+      "rel": "supports"
+    },
+    {
+      "source": "source-nydal-1989",
+      "target": "site-lanse-aux-meadows",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-nydal-1989",
+      "target": "scholar-helge-anne-ingstad",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-nydal-1989",
+      "target": "source-kuitems-2021",
       "rel": "mentions"
     },
     {
@@ -1863,6 +3062,36 @@
       "rel": "mentions"
     },
     {
+      "source": "source-ventris-chadwick-1953",
+      "target": "claim-linear-b-greek",
+      "rel": "supports"
+    },
+    {
+      "source": "source-ventris-chadwick-1953",
+      "target": "scholar-michael-ventris",
+      "rel": "cites"
+    },
+    {
+      "source": "source-ventris-chadwick-1953",
+      "target": "scholar-john-chadwick",
+      "rel": "cites"
+    },
+    {
+      "source": "source-ventris-chadwick-1953",
+      "target": "site-minoan-crete",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-ventris-chadwick-1953",
+      "target": "site-pylos",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-ventris-chadwick-1953",
+      "target": "site-mycenae",
+      "rel": "mentions"
+    },
+    {
       "source": "source-vergina-review-2023",
       "target": "claim-tomb-ii-philip-ii",
       "rel": "cites"
@@ -1896,22 +3125,42 @@
       "source": "source-vergina-review-2023",
       "target": "source-bartsiokas-2015",
       "rel": "mentions"
+    },
+    {
+      "source": "source-wall-musgrave-warren-1986",
+      "target": "claim-knossos-child-sacrifice",
+      "rel": "supports"
+    },
+    {
+      "source": "source-wall-musgrave-warren-1986",
+      "target": "site-minoan-crete",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-wall-musgrave-warren-1986",
+      "target": "scholar-peter-warren",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-wall-musgrave-warren-1986",
+      "target": "scholar-jonathan-musgrave",
+      "rel": "mentions"
     }
   ],
   "meta": {
-    "node_count": 53,
-    "link_count": 219,
+    "node_count": 89,
+    "link_count": 371,
     "by_type": {
-      "claim": 17,
-      "scholar": 10,
-      "site": 8,
-      "source": 18
+      "claim": 28,
+      "scholar": 21,
+      "site": 12,
+      "source": 28
     },
     "by_rel": {
-      "mentions": 113,
-      "cites": 59,
-      "disputes": 21,
-      "supports": 26
+      "supports": 42,
+      "mentions": 222,
+      "cites": 77,
+      "disputes": 30
     },
     "citogenesis_roots": [
       {
@@ -1953,6 +3202,12 @@
       {
         "id": "source-bartsiokas-2015",
         "title": "Bartsiokas et al. 2015 — The lameness of King Philip II and Royal Tomb I at Vergina",
+        "type": "source",
+        "funnel_size": 3
+      },
+      {
+        "id": "source-bosman-2002",
+        "title": "Bosman 2002 — The Exodus and the Spade: The Impact of Archaeology on the Interpretation of the Book of Exodus",
         "type": "source",
         "funnel_size": 3
       }
