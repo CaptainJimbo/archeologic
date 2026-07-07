@@ -36,3 +36,4 @@ runs/
 .playwright-mcp/
 .ipynb_checkpoints/
 
+/CLAUDE.local.md
