@@ -61,6 +61,21 @@
     {"id": "claim-minoan-human-sacrifice", "domain": "minoan", "expected": "contested",
      "rationale": "Anemospilia and the Knossos child bones are real but their sacrificial reading is disputed."},
     {"id": "claim-sea-peoples-collapse", "domain": "collapse", "expected": "contested",
-     "rationale": "The Sea Peoples as sole/primary cause of the collapse is contested (symptom vs cause)."}
+     "rationale": "The Sea Peoples as sole/primary cause of the collapse is contested (symptom vs cause)."},
+
+    {"id": "claim-antikythera-astronomical-computer", "domain": "greek-science", "expected": "settled-true",
+     "rationale": "The mechanism is securely a geared analogue astronomical calculator; only reconstruction details are open."},
+    {"id": "claim-dorian-no-population-signature", "domain": "collapse", "expected": "settled-true",
+     "rationale": "No distinct Dorian material assemblage; aDNA shows Mycenaean-to-modern-Greek continuity."},
+    {"id": "claim-cleopatra-greek-ancestry", "domain": "ptolemaic", "expected": "settled-true",
+     "rationale": "Cleopatra's Ptolemaic Macedonian-Greek ancestry and culture are well documented and undisputed."},
+
+    {"id": "claim-king-arthur-historical", "domain": "britain", "expected": "settled-false",
+     "rationale": "No contemporary evidence; earliest namings are centuries-late; historicity is rejected by most historians."},
+    {"id": "claim-dorian-invasion-dark-age", "domain": "collapse", "expected": "settled-false",
+     "rationale": "The Dorian-Invasion-as-cause has no material signature and is superseded by systems-collapse models."},
+
+    {"id": "claim-cleopatra-maternal-uncertain", "domain": "ptolemaic", "expected": "contested",
+     "rationale": "The identity of Cleopatra's mother and one grandmother is undocumented; a small non-Greek fraction is unexcludable."}
   ]
 }
