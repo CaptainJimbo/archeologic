@@ -14,6 +14,88 @@
       "traces_to": []
     },
     {
+      "id": "claim-antikythera-astronomical-computer",
+      "type": "claim",
+      "title": "The Antikythera mechanism is an ancient astronomical computer",
+      "status": "supported",
+      "confidence": 0.93,
+      "body": "The geared bronze device recovered from the [[site-antikythera-wreck]] (found 1901) and dated c. 150-100 BCE is an analogue mechanical astronomical calculator. It is one of the best-established claims in the history of ancient technology: the surviving fragments physically contain ~30 bronze gearwheels, and independent high-resolution imaging campaigns have read the inscriptions and reconstructed the gear trains.\n\nWhat it modelled, per the primary decodings: a luni-solar calendar and lunar phases; the 19-year Metonic cycle and, on the back plates, the 223-month Saros eclipse cycle used to predict lunar and solar eclipses (see [[source-freeth-2014-eclipse]]); a mechanization of Hipparchos' theory of the Moon's variable motion via an epicyclic pin-and-slot device (see [[source-freeth-2006-nature]]); a subsidiary dial tracking the four-year cycle of the Panhellenic games (the Olympiad dial); and a front-face display of the positions of the Sun, Moon and the five planets known in antiquity as an ancient Greek Cosmos (see [[source-freeth-2021-cosmos]]).\n\nWORD-SENSE NUANCE: computer here means analogue and mechanical — a geared calculating machine that outputs astronomical positions and cycles — NOT an electronic or programmable digital computer. The device is not evidence of anachronistic technology; it is a sophisticated but fully Hellenistic gearwork instrument, technically unmatched for roughly a millennium afterward.\n\nProvenance of the claim: first framed scientifically by [[scholar-derek-de-solla-price]] (Gears from the Greeks, 1974) from early radiography, then decisively confirmed and corrected by the X-ray CT work led by [[scholar-tony-freeth]] and the Antikythera Mechanism Research Project (2006-2021). Residual scholarly debate concerns internal details — exact gear counts, the precise front-display layout, the calendar epoch, and whether a planetary display was pointer-based or (as some argue) never completed — not the core identification, which is settled. Confidence 0.93: overwhelming, physically-grounded, multiply-replicated support; the small reserve reflects that fine reconstruction details remain open.\n",
+      "in_cites": 0,
+      "out_cites": 3,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
+      "id": "claim-arthur-legendary-composite",
+      "type": "claim",
+      "title": "Arthur is best understood as a legendary or composite figure, not a documented war-leader",
+      "status": "supported",
+      "confidence": 0.65,
+      "body": "**The reading.** The Arthur of the sources is a legendary figure — a literary construct, possibly a composite of several war-leaders, at most a dim folk-memory — rather than a single identifiable historical person. This is the position most mainstream historians of post-Roman Britain adopt once the late and echo-level sources are set aside.\n\n**Support.** [[scholar-guy-halsall|Halsall]]'s Worlds of Arthur (2014), summarised in [[source-lazarescu-2015]], argues the surviving texts cannot tell us whether a historical Arthur existed and function better as a tool-kit for reading pseudo-history than as evidence for a man. [[scholar-nicholas-higham|Higham]] similarly treats the figure as the product of story-making. The near-total silence of Gildas plus the centuries-late first namings (Historia Brittonum, Annales Cambriae) fit a legend that accreted, not a documented career.\n\n**Dissent.** This is not unanimous. [[scholar-andrew-breeze|Breeze]] ([[source-breeze-2016]]) rejects the mythical reading outright and argues for a historical North-British Arthur; the older Northern-Arthur school (Bromwich, Charles Thomas) leaned the same way. So the legendary reading is well supported but genuinely contested.\n\n**Verdict.** Supported, confidence 0.65: the legendary/composite reading is the majority scholarly view and the best fit for the evidence, while a historicist minority persists. Directly [[claim-king-arthur-historical|disputes]] the bare historicity claim.\n",
+      "in_cites": 1,
+      "out_cites": 2,
+      "funnel_size": 1,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
+      "id": "claim-cleopatra-greek-ancestry",
+      "type": "claim",
+      "title": "Cleopatra VII was of predominantly Greek/Macedonian ancestry and culture, not Egyptian",
+      "status": "supported",
+      "confidence": 0.78,
+      "body": "**The claim.** Cleopatra VII (69-30 BC) belonged to the [[site-alexandria|Alexandria]]-based Ptolemaic dynasty, founded by Ptolemy I Soter, a Macedonian Greek general of Alexander the Great. By ancestry and culture the Ptolemies were overwhelmingly Macedonian Greek: they ruled in Greek, took Greek throne-names, and famously practised sibling and cousin marriage, which kept the royal line largely endogamous within a Macedonian Greek elite. Cleopatra herself was culturally Greek and was reputedly the first Ptolemy to bother learning the Egyptian language.\n\n**Primary evidence.** [[source-plutarch-antony|Plutarch, Life of Antony 27]] records that the kings of Egypt before her had not even made an effort to learn the native (Egyptian) language, and that some had actually given up their Macedonian dialect. This near-contemporary Greek source both confirms that the dynasty was Macedonian-Greek-speaking and singles out Cleopatra as exceptional for her linguistic range, consistent with her being the first of the line to learn Egyptian.\n\n**Scope and calibration.** What is well supported is the predominantly Greek/Macedonian reading: dynastic origin, language, court culture, and a heavily endogamous pedigree are all documented. What is NOT securely established is the stronger claim of wholly or purely Greek descent, because the identity of Cleopatra's mother and of one paternal grandmother is not documented (see [[claim-cleopatra-maternal-uncertain]]). Popular claims of substantial Egyptian or sub-Saharan African ancestry are speculative and unproven; the osteological evidence once invoked for them has collapsed (see [[source-weber-2025-octagon]]). Held at 0.78: strong for predominantly Greek, with a reserve for the undocumented maternal lines. Scholars such as [[scholar-duane-roller]] reach a similar predominantly-Greek-with-an-unknown-remainder position.\n",
+      "in_cites": 0,
+      "out_cites": 2,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": [
+        "scholar-gerhard-weber"
+      ]
+    },
+    {
+      "id": "claim-cleopatra-maternal-uncertain",
+      "type": "claim",
+      "title": "Cleopatra VII's maternal and one paternal-grandmother line are undocumented, so a small non-Greek fraction cannot be excluded",
+      "status": "contested",
+      "confidence": 0.5,
+      "body": "**The sub-claim.** The Ptolemaic pedigree is well documented on its Macedonian Greek side, but two links in Cleopatra VII's immediate ancestry are not securely attested: the identity of her mother, and that of the mother (paternal grandmother) of her father Ptolemy XII, who was himself an illegitimate son of Ptolemy IX. Because those women are unnamed in the sources, historians cannot fully exclude that a minor fraction of Cleopatra's ancestry was non-Greek, potentially Egyptian, Syrian/Greek-Egyptian, or otherwise local. This is why the strong form wholly/purely Greek is less certain than the predominantly-Greek form of [[claim-cleopatra-greek-ancestry]].\n\n**Why it stays contested, not resolved either way.** There is no positive evidence identifying these women as Egyptian or African; equally there is no proof they were purely Macedonian Greek. The honest verdict is uncertainty over a small unknown fraction, not a substantiated case for major non-Greek ancestry.\n\n**Against the strong non-Greek reading.** The most-cited physical evidence for substantial African/Egyptian ancestry in the family was the skeleton in the Octagon at Ephesos, long claimed to be Cleopatra's half-sister Arsinoe IV and used to argue for an African-descended mother. [[source-weber-2025-octagon|Weber et al. 2025]] show, from genetics, morphology and dating, that those remains are in fact an 11-14 year old boy with genetic ancestry from the Italian peninsula or Sardinia, and cannot be Arsinoe IV at all. That removes the main osteological prop for the substantial-African-ancestry claim, without proving the maternal lines were Greek. Held at 0.5 to mark genuine, unresolved uncertainty. See [[scholar-duane-roller]] for the standard historians treatment of the unknown mother.\n",
+      "in_cites": 0,
+      "out_cites": 1,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": [
+        "scholar-gerhard-weber"
+      ]
+    },
+    {
+      "id": "claim-dorian-invasion-dark-age",
+      "type": "claim",
+      "title": "The Dorian Invasion caused the end of Mycenaean civilization and the Greek Dark Age",
+      "status": "refuted",
+      "confidence": 0.22,
+      "body": "**The claim as stated.** The traditional explanation, the Dorian Invasion (also called the Return of the Heraclidae), holds that a migration or invasion of Dorian Greeks from the north around 1100 BCE destroyed the Mycenaean palatial world (see [[site-mycenae]]) and plunged Greece into the Greek Dark Age. It was the dominant textbook account for much of the 19th and 20th centuries, resting on much later Greek literary tradition rather than on contemporary Bronze Age evidence.\n\n**Why it is refuted as a cause.** When systematic excavation began, sudden shifts in material culture after the palace destructions seemed to confirm an incoming Dorian people. But in subsequent work a distinct Dorian assemblage never materialised: Catharine Judson 2023 ([[source-judson-2023]], fetched this run) shows for Crete that the Late Bronze Age to Early Iron Age transition is regionally diverse and gradual, not the signature of a single unilinear migration, and that the migration model survives largely as historiographic inertia rather than on positive evidence. The archaeology of the collapse is far better explained as a systems collapse driven by multiple converging stresses ([[claim-lbac-multicausal]]), the same framework that reframes the Sea Peoples as a symptom rather than a cause ([[claim-sea-peoples-collapse]]).\n\n**Population evidence.** A mass invasion that replaced the population should leave a genetic discontinuity. Instead the ancient-DNA study of Lazaridis and colleagues 2017 ([[source-lazaridis-2017]], fetched this run) finds that modern Greeks resemble the Bronze Age Mycenaeans, with only minor later dilution, supporting continuity rather than wholesale replacement. This is indirect for the specific 12th-11th century transition, which that study does not sample directly, but it removes the demographic rupture the invasion narrative implies.\n\n**The kernel of truth.** Something real underlies the tradition: the West Greek (Dorian) dialect did spread, and localized population movements in the postpalatial period are plausible. The philologist John Chadwick ([[scholar-john-chadwick]]) even argued Dorian-speakers were already present within Mycenaean society as a subordinate group, making a dramatic external invasion unnecessary to explain the later dialect map. So a diffuse linguistic and demographic shift is defensible; an organised invasion that *caused* the collapse is not.\n\n**Verdict.** Refuted as stated (the invasion-as-cause claim), held at low confidence 0.22. The collapse is multi-causal; the Dorian Invasion is a late explanatory myth retrofitted onto a more complex, home-grown decline, with at most a modest kernel of real linguistic and population change.\n",
+      "in_cites": 0,
+      "out_cites": 2,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
+      "id": "claim-dorian-no-population-signature",
+      "type": "claim",
+      "title": "No distinct incoming 'Dorian' population is visible in the archaeological or genetic record",
+      "status": "supported",
+      "confidence": 0.72,
+      "body": "**The claim.** If a distinct Dorian people had invaded and replaced the Mycenaean population around 1100 BCE, it should be detectable as an intrusive material-culture package arriving at the collapse horizon and as a genetic discontinuity. Neither is found.\n\n**Material culture.** Judson 2023 ([[source-judson-2023]]) documents that despite a century of searching, no coherent Dorian assemblage appears; the Early Iron Age transition on Crete is regionally varied and better read as internal transformation than as the arrival of a new folk. Candidate intrusive markers once tied to northerners, such as Handmade Burnished Ware, are contested and localized rather than a population-scale signature. The postpalatial world at sites like [[site-mycenae]] shows reoccupation and continuity of local traditions, not a clean cultural replacement.\n\n**Genetics.** The ancient-DNA study of Lazaridis et al. 2017 ([[source-lazaridis-2017]]) finds Minoans and Mycenaeans were genetically similar and that modern Greeks resemble the Mycenaeans with only some additional dilution, which the authors read as continuity but not isolation. There is no signal of a mass replacement event.\n\n**Status.** Supported at 0.72. Held below higher because the genetic sampling does not directly cover the 12th-11th century transition and minor later gene flow is real, so absence of a large signature is not proof of zero movement. This claim disputes [[claim-dorian-invasion-dark-age]] and supports the multi-causal reading [[claim-lbac-multicausal]].\n",
+      "in_cites": 0,
+      "out_cites": 2,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
       "id": "claim-exodus-historical",
       "type": "claim",
       "title": "The biblical Exodus was a real, large-scale historical event",
@@ -42,6 +124,19 @@
       "traces_to": [
         "source-bosman-2002"
       ]
+    },
+    {
+      "id": "claim-king-arthur-historical",
+      "type": "claim",
+      "title": "King Arthur was a real historical figure",
+      "status": "refuted",
+      "confidence": 0.15,
+      "body": "**The popular claim.** Arthur was a real 5th-6th century AD war-leader who fought the Anglo-Saxons in post-Roman Britain, the man behind the medieval legend.\n\n**Why it fails as literally stated.** There is no contemporary evidence for such a person. Gildas, writing in the 6th century (the closest source to the supposed events), describes the British victory at Mount Badon but never names Arthur. The earliest texts that name him appear centuries later: the 9th-century Historia Brittonum (attributed to Nennius) and the 10th-century Annales Cambriae. This gap of roughly three centuries between the alleged events and the first naming is the core problem: the namings are echo, not primary witness, and may themselves be legend hardening into pseudo-history.\n\n**Scholarly majority.** Most modern historians of the period conclude the evidence cannot establish a historical Arthur. [[scholar-guy-halsall|Halsall]] argues it is almost impossible to know whether the figure existed at all ([[source-lazarescu-2015]]); [[scholar-nicholas-higham|Higham]] treats Arthur as a literary construct rather than a documented person. The mainstream reading is therefore the [[claim-arthur-legendary-composite|legendary/composite]] one.\n\n**Genuine dissent.** A minority of specialists still argue for a historical Arthur. [[scholar-andrew-breeze|Andrew Breeze]] contends Arthur really existed as a North Briton warlord ([[source-breeze-2016]]) — a live but distinctly minority position that rests on late and much-debated sources.\n\n**Verdict.** Refuted as literally stated: there is no solid evidence Arthur existed as a real 5th-6th century figure. Held at 0.15 — low confidence that the bare claim is true, while acknowledging the question is contested at the margins rather than closed. The defensible reading is [[claim-arthur-legendary-composite]].\n",
+      "in_cites": 0,
+      "out_cites": 3,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
     },
     {
       "id": "claim-knossos-child-sacrifice",
@@ -394,6 +489,19 @@
       "traces_to": []
     },
     {
+      "id": "scholar-andrew-breeze",
+      "type": "scholar",
+      "title": "Andrew Breeze",
+      "status": "reference",
+      "confidence": 0.8,
+      "body": "Celticist and philologist (University of Navarra) who defends a historical Arthur against the mythical-figure school. In [[source-breeze-2016]] he argues Arthur really existed as a North Briton (perhaps a Strathclyder) whose battles lay in southern Scotland and the Borders, dating Camlann to 537 after the Welsh annals. He represents the minority historicist position and explicitly aligns with the older Northern-Arthur proponents (Rachel Bromwich, Charles Thomas) against skeptics.\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
       "id": "scholar-antonis-bartsiokas",
       "type": "scholar",
       "title": "Antonis Bartsiokas",
@@ -428,6 +536,19 @@
       "traces_to": []
     },
     {
+      "id": "scholar-catharine-judson",
+      "type": "scholar",
+      "title": "Catharine Judson",
+      "status": "reference",
+      "confidence": 0.9,
+      "body": "Archaeologist (Duke University) working on the Aegean Bronze Age to Early Iron Age transition, with a regional focus on Crete. In her 2023 Journal of Greek Archaeology study ([[source-judson-2023]]) she examines how the Dorian invasion narrative was built out of early excavation results and why a minimally modified version of it survives despite the failure of a distinct Dorian assemblage to appear, arguing for a complex, regionally diverse transition rather than a single migration. Her work disputes [[claim-dorian-invasion-dark-age]] and supports [[claim-dorian-no-population-signature]].\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
       "id": "scholar-david-traill",
       "type": "scholar",
       "title": "David A. Traill",
@@ -443,6 +564,32 @@
         "source-easton-1994",
         "source-traill-1989"
       ],
+      "traces_to": []
+    },
+    {
+      "id": "scholar-derek-de-solla-price",
+      "type": "scholar",
+      "title": "Derek de Solla Price (1922-1983)",
+      "status": "reference",
+      "confidence": 0.9,
+      "body": "British-born historian of science at Yale who produced the first systematic scientific study of the [[claim-antikythera-astronomical-computer]]. Using early gamma-ray and X-ray radiography of the corroded fragments recovered from [[site-antikythera-wreck]], Price counted the surviving gear teeth and reconstructed gear trains, publishing the landmark monograph Gears from the Greeks (1974). He established that the device was a calendrical/astronomical calculating machine driven by a differential-style gear train, framing it as the ancestor of mechanical clockwork and coining the popular characterization of the mechanism as an ancient computer (analogue and mechanical, not electronic). Later high-resolution imaging by [[scholar-tony-freeth]] and colleagues corrected several of Price's specific gear counts and functions, but confirmed his core thesis that the object is a geared astronomical device.\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
+      "id": "scholar-duane-roller",
+      "type": "scholar",
+      "title": "Duane W. Roller — classicist, biographer of Cleopatra",
+      "status": "reference",
+      "confidence": 0.9,
+      "body": "**Duane W. Roller** is an American classical scholar (Ohio State University) and author of Cleopatra: A Biography (Oxford University Press, 2010), a standard modern scholarly life of Cleopatra VII. His treatment represents the mainstream position reflected in [[claim-cleopatra-greek-ancestry]]: Cleopatra was of Macedonian Greek royal descent and culture, while the identity of her mother, and of Ptolemy XII's mother, is unknown, so a small fraction of her ancestry cannot be pinned down and speculation about substantial Egyptian or African descent is unproven. This is a context/scholar node; no work of Roller's was fetched in this run, so no specific quotation is attributed to him here.\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
+      "citogenesis_root": false,
       "traces_to": []
     },
     {
@@ -468,6 +615,37 @@
       "in_cites": 1,
       "out_cites": 0,
       "funnel_size": 1,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
+      "id": "scholar-gerhard-weber",
+      "type": "scholar",
+      "title": "Gerhard W. Weber — evolutionary anthropologist, University of Vienna",
+      "status": "reference",
+      "confidence": 0.9,
+      "body": "**Gerhard W. Weber** is an evolutionary anthropologist at the University of Vienna (Department of Evolutionary Anthropology; Human Evolution and Archaeological Science) and lead author of the 2025 Scientific Reports study [[source-weber-2025-octagon]] that re-examined the Octagon cranium from Ephesos using morphology, ancient DNA and radiocarbon dating. That work established the remains are those of an adolescent boy of Italian/Sardinian genetic ancestry, not Cleopatra VII's half-sister Arsinoe IV, thereby dismantling a widely cited physical argument for African ancestry in the Ptolemaic family. Scholar node; details grounded in the fetched paper.\n",
+      "in_cites": 1,
+      "out_cites": 0,
+      "funnel_size": 3,
+      "citogenesis_root": true,
+      "funnel_members": [
+        "claim-cleopatra-greek-ancestry",
+        "claim-cleopatra-maternal-uncertain",
+        "source-weber-2025-octagon"
+      ],
+      "traces_to": []
+    },
+    {
+      "id": "scholar-guy-halsall",
+      "type": "scholar",
+      "title": "Guy Halsall",
+      "status": "reference",
+      "confidence": 0.85,
+      "body": "Historian of the early medieval West (University of York), author of Worlds of Arthur: Facts and Fictions of the Dark Ages (Oxford, 2014). A leading skeptic of Arthurian historicity: he argues the literary sources cannot establish whether Arthur existed and that the sensible response is to ask the right questions of the evidence rather than force answers from it. His position is summarised in the open-access review [[source-lazarescu-2015]].\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
       "citogenesis_root": false,
       "traces_to": []
     },
@@ -516,6 +694,19 @@
       "traces_to": [
         "source-bosman-2002"
       ]
+    },
+    {
+      "id": "scholar-iosif-lazaridis",
+      "type": "scholar",
+      "title": "Iosif Lazaridis",
+      "status": "reference",
+      "confidence": 0.9,
+      "body": "Population geneticist at Harvard Medical School (David Reich laboratory) specialising in ancient DNA and the peopling of Europe and the Near East. Lead author of the 2017 study on the genetic origins of the Minoans and Mycenaeans ([[source-lazaridis-2017]]), which found broad genetic continuity from the Bronze Age Aegean populations down to modern Greeks. That continuity is evidence against a mass population replacement of the kind a literal Dorian Invasion would require, supporting [[claim-dorian-no-population-signature]].\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
     },
     {
       "id": "scholar-israel-finkelstein",
@@ -622,6 +813,19 @@
       "traces_to": []
     },
     {
+      "id": "scholar-nicholas-higham",
+      "type": "scholar",
+      "title": "Nicholas J. Higham",
+      "status": "reference",
+      "confidence": 0.8,
+      "body": "Historian of Anglo-Saxon and post-Roman Britain (University of Manchester), author of King Arthur: The Making of the Legend (Yale, 2018) among earlier works on the sub-Roman period. He argues Arthur is best understood as a literary and legendary construct rather than a documented 5th-6th century figure, and traces how the legend was built from late sources. (No open-access Higham text was fetchable this run — his History Compass 2004 article returned HTTP 403 — so this node records his well-attested scholarly position without a grounded source node.)\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
       "id": "scholar-peter-warren",
       "type": "scholar",
       "title": "Peter Warren",
@@ -670,6 +874,19 @@
         "scholar-sturt-manning",
         "source-pearson-2018"
       ]
+    },
+    {
+      "id": "scholar-tony-freeth",
+      "type": "scholar",
+      "title": "Tony Freeth (b. 1946)",
+      "status": "reference",
+      "confidence": 0.9,
+      "body": "British mathematician and filmmaker, a leading figure of the Antikythera Mechanism Research Project and honorary professor at UCL. Freeth led the 2005 application of Microfocus X-ray Computed Tomography and Polynomial Texture Mapping to the 82 fragments, which decoded the rear dials and roughly doubled the number of legible inscriptions. He is lead author of the two most cited modern decodings: the 2006 Nature letter [[source-freeth-2006-nature]] establishing eclipse prediction via Babylonian arithmetic cycles and a mechanization of Hipparchos' lunar theory, the 2014 PLoS ONE eclipse-scheme paper [[source-freeth-2014-eclipse]], and the 2021 Scientific Reports reconstruction of the front-face Cosmos display [[source-freeth-2021-cosmos]]. His work is the empirical backbone of [[claim-antikythera-astronomical-computer]].\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
     },
     {
       "id": "scholar-william-dever",
@@ -724,12 +941,38 @@
       "traces_to": []
     },
     {
+      "id": "site-alexandria",
+      "type": "site",
+      "title": "Alexandria — Ptolemaic capital of Egypt",
+      "status": "reference",
+      "confidence": 0.95,
+      "body": "**Alexandria (Alexandria ad Aegyptum)**, founded by Alexander the Great in 331 BC on the Egyptian Mediterranean coast, was the royal capital of the Ptolemaic kingdom and the seat of Cleopatra VII. It was a fundamentally Greek foundation and civic institution: a Greek-speaking court, the Mouseion and Library, and a citizen body organised on the Hellenic polis model, set within, but administratively distinct from, native Egypt. It is the setting for the Ptolemaic Greek court culture described in [[source-plutarch-antony]] and underlies the cultural dimension of [[claim-cleopatra-greek-ancestry]]. This is a reference/context node; specific claims about the city are not independently sourced in this run.\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
       "id": "site-anemospilia",
       "type": "site",
       "title": "Anemospilia (Minoan shrine on Mount Juktas, near Archanes, Crete)",
       "status": "reference",
       "confidence": 0.9,
       "body": "A Middle Minoan building on the north slope of Mount Juktas near Archanes in central Crete, excavated by [[scholar-yannis-sakellarakis|Yannis Sakellarakis]] and Efi Sapouna-Sakellaraki in 1979. It belongs to the wider palatial landscape of [[site-minoan-crete]] and sits below the Juktas peak sanctuary.\n\nThe tripartite structure, probably a shrine, was destroyed and burned in an earthquake around 1700 BCE (Middle Minoan II) and never reoccupied, which sealed its contents where they fell. Four human skeletons were recovered in the collapse, including a young man on a raised platform associated with a large bronze blade. The site is famous almost entirely for the disputed claim that these remains record a human sacrifice interrupted by the quake ([[claim-anemospilia-sacrifice]]).\n\nA place node, not a document. Unlike the palace centres of [[site-minoan-crete]], Anemospilia is a small rural cult building rather than a palace, which is part of why its dramatic deposit is so unusual.\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
+      "id": "site-antikythera-wreck",
+      "type": "site",
+      "title": "Antikythera shipwreck (off Antikythera, Aegean Sea)",
+      "status": "reference",
+      "confidence": 0.9,
+      "body": "A Roman-era shipwreck off the island of Antikythera between Crete and the Peloponnese, discovered by Symi sponge divers in 1900 and first salvaged in 1901 — one of the earliest underwater archaeology operations. The wreck yielded bronze and marble statuary, glassware, coins and the corroded lumps that proved to contain the geared device now called the Antikythera Mechanism (see [[claim-antikythera-astronomical-computer]]). Ceramic and numismatic finds, together with inscription letter-forms on the mechanism, place the ship's loss in the mid-to-late 1st century BCE, with the mechanism itself generally dated c. 150-100 BCE. The site was reinvestigated by Cousteau (1976) and by ongoing Greek/international expeditions in the 2010s. Primary provenance for [[scholar-derek-de-solla-price]]'s and [[scholar-tony-freeth]]'s study material.\n",
       "in_cites": 0,
       "out_cites": 0,
       "funnel_size": 0,
@@ -952,6 +1195,20 @@
       "traces_to": []
     },
     {
+      "id": "source-breeze-2016",
+      "type": "source",
+      "title": "Breeze 2016 — The Early Welsh Cult of Arthur: Some Points at Issue (Studia Celtica Posnaniensia)",
+      "status": "secondary",
+      "confidence": 0.6,
+      "body": "**Open-access article (fetched this run; Studia Celtica Posnaniensia, Adam Mickiewicz University, CC-BY-NC-ND; landing page with full abstract retrieved).** [[scholar-andrew-breeze|Andrew Breeze]] replies to a recent discussion of Arthur and Wales.\n\n**Stated argument.** Breeze concludes, in his own summary, that Arthur really existed: he is not a myth or a legend, but historical. He argues Arthur was not Welsh but a North Briton, perhaps a Strathclyder, whose battles against other Britons can be located in southern Scotland and the Borders; he dates Camlann to 537 after the Welsh annals and places it north of Carlisle, while detaching Mount Badon (dated 493) from Arthur. He aligns with Northern-Arthur proponents Rachel Bromwich and Charles Thomas against skeptics such as Kenneth Jackson.\n\n**Bearing on the claim.** This is the minority historicist voice, included for balance. It supports [[claim-king-arthur-historical]] and disputes [[claim-arthur-legendary-composite]] — but note the argument rests on late Welsh sources and locations that are themselves heavily contested, so it does not overturn the skeptical majority.\n",
+      "in_cites": 2,
+      "out_cites": 0,
+      "funnel_size": 2,
+      "citogenesis_root": false,
+      "tier": "secondary",
+      "traces_to": []
+    },
+    {
       "id": "source-bruins-2009",
       "type": "source",
       "title": "Bruins, van der Plicht & MacGillivray 2009 — The Minoan Santorini Eruption and Tsunami Deposits in Palaikastro (Crete)",
@@ -1000,6 +1257,48 @@
       "traces_to": []
     },
     {
+      "id": "source-freeth-2006-nature",
+      "type": "source",
+      "title": "Freeth et al. 2006 — Decoding the ancient Greek astronomical calculator known as the Antikythera Mechanism",
+      "status": "primary",
+      "confidence": 0.95,
+      "body": "Peer-reviewed Nature letter; the landing page with the full abstract was fetched this run via the DOI. The paper describes surface imaging plus high-resolution X-ray tomography of the surviving fragments from [[site-antikythera-wreck]], enabling reconstruction of the gear function and roughly doubling the number of deciphered inscriptions. Key findings grounding [[claim-antikythera-astronomical-computer]]: the device is a unique Greek geared instrument built around the end of the 2nd century BCE that calculated and displayed celestial information (lunar phases, a luni-solar calendar); it predicted lunar and solar eclipses using Babylonian arithmetic-progression cycles; and its gearing mechanically realizes Hipparchos' theory of the Moon's variable motion, an unexpected degree of technical sophistication for the period. Primary decoding based on physical imaging of the artefact, not an echo. Authored by [[scholar-tony-freeth]] and the Antikythera Mechanism Research Project.\n",
+      "in_cites": 1,
+      "out_cites": 0,
+      "funnel_size": 1,
+      "citogenesis_root": false,
+      "tier": "primary",
+      "traces_to": []
+    },
+    {
+      "id": "source-freeth-2014-eclipse",
+      "type": "source",
+      "title": "Freeth 2014 — Eclipse Prediction on the Ancient Greek Astronomical Calculating Machine Known as the Antikythera Mechanism",
+      "status": "primary",
+      "confidence": 0.93,
+      "body": "Open-access peer-reviewed PLoS ONE article; full text fetched this run via the DOI. Freeth analyses the back-plate Saros Dial, a four-turn spiral on which eclipse events are marked by glyphs describing the type and time of each eclipse, keyed by alphabetical index letters to solar-eclipse inscriptions. He shows the machine predicted eclipses on the basis of the 223-lunar-month Saros cycle and presents two arithmetical models reproducing the glyph distribution, index-letter grouping, and eclipse times, implying a surprisingly early epoch for the mechanism. He notes the predictions were not entirely accurate but an astonishing achievement for the era. Strong primary support for [[claim-antikythera-astronomical-computer]], specifically the eclipse-prediction function. By [[scholar-tony-freeth]]; artefact from [[site-antikythera-wreck]].\n",
+      "in_cites": 1,
+      "out_cites": 0,
+      "funnel_size": 1,
+      "citogenesis_root": false,
+      "tier": "primary",
+      "traces_to": []
+    },
+    {
+      "id": "source-freeth-2021-cosmos",
+      "type": "source",
+      "title": "Freeth et al. 2021 — A Model of the Cosmos in the ancient Greek Antikythera Mechanism",
+      "status": "primary",
+      "confidence": 0.94,
+      "body": "Open-access peer-reviewed Scientific Reports paper; full HTML fetched this run via the DOI. The abstract calls the Antikythera Mechanism an ancient Greek astronomical calculator, now split into 82 fragments with only about a third surviving including 30 corroded bronze gearwheels, and describes it in the introduction as a mechanical computer of bronze gears that mechanized astronomical cycles and theories. Building on 2005 Microfocus X-ray CT (which decoded the rear), the authors read inscriptions specifying complex planetary periods and propose a new reconstruction of the lost front display as a Cosmos showing the Sun, Moon and all five planets known in antiquity. They characterize it as combining Babylonian period cycles, mathematics from Plato's Academy and Greek astronomical theory. Primary reconstruction from imaging of the artefact; supports the planetary-display aspect of [[claim-antikythera-astronomical-computer]]. Lead author [[scholar-tony-freeth]]; fragments from [[site-antikythera-wreck]].\n",
+      "in_cites": 1,
+      "out_cites": 0,
+      "funnel_size": 1,
+      "citogenesis_root": false,
+      "tier": "primary",
+      "traces_to": []
+    },
+    {
       "id": "source-friedrich-2006",
       "type": "source",
       "title": "Friedrich et al. 2006 — Santorini Eruption Radiocarbon Dated to 1627–1600 B.C.",
@@ -1031,6 +1330,20 @@
       "funnel_size": 2,
       "citogenesis_root": false,
       "tier": "primary",
+      "traces_to": []
+    },
+    {
+      "id": "source-judson-2023",
+      "type": "source",
+      "title": "Judson 2023 — Beware of Greeks bearing gifts: Cretan archaeology and the Dorian invasion",
+      "status": "secondary",
+      "confidence": 0.75,
+      "body": "**Open-access article (fetched this run; Journal of Greek Archaeology, Archaeopress).** A regional case study by Catharine Judson ([[scholar-catharine-judson]], Duke University) on the Early Iron Age of Crete, used to trace how the Dorian invasion narrative arose and why it persists.\n\n**Core argument (from the fetched abstract and references).** When systematic excavation first revealed major shifts in material culture and political structure after the Mycenaean palace destructions, archaeology appeared to confirm the historical reality of a Dorian migration that until then was known only from much later texts. In subsequent excavations a distinct Dorian assemblage failed to materialise, and the Late Bronze Age to Early Iron Age transition proved more complex and regionally diverse than any simple migration model. The mid-20th century rejection of culture-history as a paradigm further undercut using migrations as straightforward explanations for material or linguistic change. Judson notes that a minimally modified Dorian-migration narrative nonetheless retains currency, and that the recent surge of ancient-DNA studies has revived interest in tracing prehistoric mobility.\n\n**Bearing on the claim.** Directly disputes [[claim-dorian-invasion-dark-age]] and supports both [[claim-dorian-no-population-signature]] and the multi-causal collapse framework [[claim-lbac-multicausal]]. This is secondary, review-level scholarship rather than a new excavation report, but it is a recent specialist synthesis of the Cretan evidence and its historiography. Touches the postpalatial Mycenaean world at [[site-mycenae]].\n",
+      "in_cites": 2,
+      "out_cites": 0,
+      "funnel_size": 2,
+      "citogenesis_root": false,
+      "tier": "secondary",
       "traces_to": []
     },
     {
@@ -1071,6 +1384,34 @@
       "in_cites": 0,
       "out_cites": 0,
       "funnel_size": 0,
+      "citogenesis_root": false,
+      "tier": "primary",
+      "traces_to": []
+    },
+    {
+      "id": "source-lazarescu-2015",
+      "type": "source",
+      "title": "Lazarescu 2015 — review of Guy Halsall, Worlds of Arthur (JAHA)",
+      "status": "secondary",
+      "confidence": 0.7,
+      "body": "**Open-access review (fetched this run; JAHA, CC-BY-NC-ND; full PDF galley retrieved).** Lazarescu reviews [[scholar-guy-halsall|Guy Halsall]]'s Worlds of Arthur: Facts and Fictions of the Dark Ages (Oxford, 2014).\n\n**Core report.** The reviewer states the book's first three parts serve as a guide to why we do not possess any consistent information related to King Arthur and to why it is almost impossible to know whether this historical figure did indeed exist or not, while providing a tool-kit for evaluating the claims made in pseudo-histories. He relays Halsall's methodological line that medieval writers saw no sharp distinction between history and legend, so the reader should ask the right questions of the sources rather than expect right answers, setting aside their ideological framing.\n\n**Bearing on the claim.** Secondary/echo-level (a review, not new evidence), but it accurately documents the skeptical mainstream: the surviving sources cannot establish a historical Arthur. Supports [[claim-arthur-legendary-composite]] and disputes [[claim-king-arthur-historical]].\n",
+      "in_cites": 2,
+      "out_cites": 0,
+      "funnel_size": 2,
+      "citogenesis_root": false,
+      "tier": "secondary",
+      "traces_to": []
+    },
+    {
+      "id": "source-lazaridis-2017",
+      "type": "source",
+      "title": "Lazaridis et al. 2017 — Genetic origins of the Minoans and Mycenaeans",
+      "status": "primary",
+      "confidence": 0.72,
+      "body": "**Open-access full text (fetched this run; Nature author manuscript in Europe/NCBI PMC, PMC5565772).** Genome-wide ancient DNA from nineteen individuals, including Minoans from Crete, Mycenaeans from mainland Greece, and Bronze Age neighbours from southwestern Anatolia.\n\n**Key findings from the fetched text.** Minoans and Mycenaeans were genetically similar, deriving at least three quarters of their ancestry from the first Neolithic farmers of western Anatolia and the Aegean, with most of the remainder from Caucasus/Iran-related populations. The Mycenaeans differed from Minoans in a further minority component of ancestry related ultimately to hunter-gatherers of eastern Europe and Siberia, introduced via a source related to the Eurasian steppe or Armenia. Crucially, the authors state that modern Greeks resemble the Mycenaeans, with some additional dilution of the early Neolithic ancestry, and that their results support the idea of continuity but not isolation in the populations of the Aegean before and after its earliest civilizations.\n\n**Bearing on the claim.** Primary genetic data. It does not directly sample the 12th-11th century BCE collapse horizon, so it is indirect for the Dorian question, but continuity from the Mycenaeans down to modern Greeks is inconsistent with the mass population replacement that a literal Dorian Invasion implies. Disputes [[claim-dorian-invasion-dark-age]] and supports [[claim-dorian-no-population-signature]]; bears on the Mycenaean world [[site-mycenae]]. Lead author [[scholar-iosif-lazaridis]].\n",
+      "in_cites": 2,
+      "out_cites": 0,
+      "funnel_size": 2,
       "citogenesis_root": false,
       "tier": "primary",
       "traces_to": []
@@ -1199,6 +1540,20 @@
       "traces_to": []
     },
     {
+      "id": "source-plutarch-antony",
+      "type": "source",
+      "title": "Plutarch, Life of Antony (esp. ch. 27) — Loeb/LacusCurtius public-domain text",
+      "status": "primary",
+      "confidence": 0.85,
+      "body": "**Primary ancient source.** Plutarch (c. AD 46-120) wrote within about a century and a half of Cleopatra, drawing on now-lost near-contemporary accounts (including the physician Olympos and Cleopatra's own circle). Fetched as the public-domain 1920 Loeb translation on LacusCurtius (full running text, not a login stub).\n\n**Grounded content (ch. 27).** The fetched text states that Cleopatra could turn her tongue, like an instrument of many strings, to whatever language she pleased, so that she seldom needed an interpreter with Ethiopians, Troglodytes, Hebrews, Arabians, Syrians, Medes or Parthians, and knew the speech of many other peoples too; whereas the kings of Egypt before her had not even made an effort to learn the native language, and some actually gave up their Macedonian dialect.\n\n**Why it matters.** Two load-bearing points for [[claim-cleopatra-greek-ancestry]]: (1) the Ptolemaic house was Macedonian-Greek-speaking (its native tongue is called the Macedonian dialect, and Egyptian is the foreign native language none of them learned), confirming Greek dynastic culture; (2) Cleopatra is singled out as exceptional for her languages, consistent with the tradition that she was the first Ptolemy to learn Egyptian. Note the limits: Plutarch is describing culture and language, not pedigree, so this source speaks to Greek identity and culture, not to the DNA of her undocumented maternal line. Confidence 0.85 for the philological content; the anecdote is rhetorical but the linguistic claim is not seriously doubted.\n",
+      "in_cites": 1,
+      "out_cites": 0,
+      "funnel_size": 1,
+      "citogenesis_root": false,
+      "tier": "primary",
+      "traces_to": []
+    },
+    {
       "id": "source-schliemann-mycenae-1878",
       "type": "source",
       "title": "Schliemann 1878 — Mycenae: A Narrative of Researches and Discoveries at Mycenae and Tiryns",
@@ -1288,6 +1643,22 @@
       "citogenesis_root": false,
       "tier": "primary",
       "traces_to": []
+    },
+    {
+      "id": "source-weber-2025-octagon",
+      "type": "source",
+      "title": "Weber et al. 2025 — The cranium from the Octagon in Ephesos",
+      "status": "primary",
+      "confidence": 0.9,
+      "body": "**Open-access primary study**, fully fetched from PubMed Central. Weber and colleagues (University of Vienna) applied morphological analysis, ancient-DNA sequencing and radiocarbon dating to the cranium and skeleton from the Octagon tomb at Ephesos.\n\n**Grounded findings.** For a century the remains were repeatedly proposed to be Arsinoe IV, daughter of Ptolemy XII and younger half-sister of Cleopatra VII. The fetched text states the connection with Arsinoe IV can be excluded because the individual is genetically male; the cranium is that of an 11-14 year old boy with significant developmental disturbances; radiocarbon dates fall in 205-36 BC; and the genetics suggest an ancestry from the Italian peninsula or Sardinia. The authors conclude the fate of the actual body of Arsinoe IV remains open.\n\n**Relevance to the ancestry debate.** An earlier reconstruction of this skull was widely publicised as showing Arsinoe IV had an African mother, and used to argue that Cleopatra's family, via a shared mother, was partly African. This study removes that evidentiary basis entirely: the skull is not Arsinoe, not female, and not of African ancestry. It therefore supports the framing of [[claim-cleopatra-maternal-uncertain]] (popular substantial-African-ancestry claims are unproven) and indirectly bolsters [[claim-cleopatra-greek-ancestry]] by demolishing a key counter-argument. Limits: the paper is about the misidentified Octagon boy, NOT about Cleopatra's or Arsinoe's own remains, which are unlocated; it disproves a specific claim rather than positively documenting Cleopatra's maternal line. Confidence 0.9. Authored by [[scholar-gerhard-weber]].\n",
+      "in_cites": 2,
+      "out_cites": 1,
+      "funnel_size": 2,
+      "citogenesis_root": false,
+      "tier": "primary",
+      "traces_to": [
+        "scholar-gerhard-weber"
+      ]
     }
   ],
   "links": [
@@ -1314,6 +1685,171 @@
     {
       "source": "claim-anemospilia-sacrifice",
       "target": "site-akrotiri-thera",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-antikythera-astronomical-computer",
+      "target": "source-freeth-2006-nature",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-antikythera-astronomical-computer",
+      "target": "source-freeth-2014-eclipse",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-antikythera-astronomical-computer",
+      "target": "source-freeth-2021-cosmos",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-antikythera-astronomical-computer",
+      "target": "site-antikythera-wreck",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-antikythera-astronomical-computer",
+      "target": "scholar-derek-de-solla-price",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-antikythera-astronomical-computer",
+      "target": "scholar-tony-freeth",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-arthur-legendary-composite",
+      "target": "claim-king-arthur-historical",
+      "rel": "disputes"
+    },
+    {
+      "source": "claim-arthur-legendary-composite",
+      "target": "source-lazarescu-2015",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-arthur-legendary-composite",
+      "target": "source-breeze-2016",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-arthur-legendary-composite",
+      "target": "scholar-guy-halsall",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-arthur-legendary-composite",
+      "target": "scholar-nicholas-higham",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-arthur-legendary-composite",
+      "target": "scholar-andrew-breeze",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-cleopatra-greek-ancestry",
+      "target": "source-plutarch-antony",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-cleopatra-greek-ancestry",
+      "target": "source-weber-2025-octagon",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-cleopatra-greek-ancestry",
+      "target": "claim-cleopatra-maternal-uncertain",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-cleopatra-greek-ancestry",
+      "target": "site-alexandria",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-cleopatra-greek-ancestry",
+      "target": "scholar-duane-roller",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-cleopatra-maternal-uncertain",
+      "target": "claim-cleopatra-greek-ancestry",
+      "rel": "disputes"
+    },
+    {
+      "source": "claim-cleopatra-maternal-uncertain",
+      "target": "source-weber-2025-octagon",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-cleopatra-maternal-uncertain",
+      "target": "scholar-duane-roller",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-dorian-invasion-dark-age",
+      "target": "claim-dorian-no-population-signature",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-dorian-invasion-dark-age",
+      "target": "claim-lbac-multicausal",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-dorian-invasion-dark-age",
+      "target": "claim-sea-peoples-collapse",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-dorian-invasion-dark-age",
+      "target": "site-mycenae",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-dorian-invasion-dark-age",
+      "target": "source-judson-2023",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-dorian-invasion-dark-age",
+      "target": "source-lazaridis-2017",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-dorian-invasion-dark-age",
+      "target": "scholar-catharine-judson",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-dorian-invasion-dark-age",
+      "target": "scholar-john-chadwick",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-dorian-no-population-signature",
+      "target": "claim-dorian-invasion-dark-age",
+      "rel": "disputes"
+    },
+    {
+      "source": "claim-dorian-no-population-signature",
+      "target": "claim-lbac-multicausal",
+      "rel": "supports"
+    },
+    {
+      "source": "claim-dorian-no-population-signature",
+      "target": "source-judson-2023",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-dorian-no-population-signature",
+      "target": "source-lazaridis-2017",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-dorian-no-population-signature",
+      "target": "site-mycenae",
       "rel": "mentions"
     },
     {
@@ -1359,6 +1895,36 @@
     {
       "source": "claim-exodus-small-kernel",
       "target": "claim-exodus-historical",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-king-arthur-historical",
+      "target": "claim-arthur-legendary-composite",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-king-arthur-historical",
+      "target": "source-lazarescu-2015",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-king-arthur-historical",
+      "target": "source-breeze-2016",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-king-arthur-historical",
+      "target": "scholar-guy-halsall",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-king-arthur-historical",
+      "target": "scholar-nicholas-higham",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-king-arthur-historical",
+      "target": "scholar-andrew-breeze",
       "rel": "mentions"
     },
     {
@@ -2012,6 +2578,21 @@
       "rel": "mentions"
     },
     {
+      "source": "scholar-andrew-breeze",
+      "target": "claim-king-arthur-historical",
+      "rel": "supports"
+    },
+    {
+      "source": "scholar-andrew-breeze",
+      "target": "claim-arthur-legendary-composite",
+      "rel": "disputes"
+    },
+    {
+      "source": "scholar-andrew-breeze",
+      "target": "source-breeze-2016",
+      "rel": "mentions"
+    },
+    {
       "source": "scholar-antonis-bartsiokas",
       "target": "claim-tomb-ii-arrhidaios",
       "rel": "supports"
@@ -2047,6 +2628,21 @@
       "rel": "mentions"
     },
     {
+      "source": "scholar-catharine-judson",
+      "target": "claim-dorian-invasion-dark-age",
+      "rel": "disputes"
+    },
+    {
+      "source": "scholar-catharine-judson",
+      "target": "claim-dorian-no-population-signature",
+      "rel": "supports"
+    },
+    {
+      "source": "scholar-catharine-judson",
+      "target": "source-judson-2023",
+      "rel": "mentions"
+    },
+    {
       "source": "scholar-david-traill",
       "target": "scholar-heinrich-schliemann",
       "rel": "mentions"
@@ -2064,6 +2660,31 @@
     {
       "source": "scholar-david-traill",
       "target": "claim-mask-authenticity-dispute",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-derek-de-solla-price",
+      "target": "claim-antikythera-astronomical-computer",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-derek-de-solla-price",
+      "target": "site-antikythera-wreck",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-derek-de-solla-price",
+      "target": "scholar-tony-freeth",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-duane-roller",
+      "target": "claim-cleopatra-greek-ancestry",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-duane-roller",
+      "target": "claim-cleopatra-maternal-uncertain",
       "rel": "mentions"
     },
     {
@@ -2104,6 +2725,26 @@
     {
       "source": "scholar-frank-kolb",
       "target": "source-kolb-2005",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-gerhard-weber",
+      "target": "source-weber-2025-octagon",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-guy-halsall",
+      "target": "claim-arthur-legendary-composite",
+      "rel": "supports"
+    },
+    {
+      "source": "scholar-guy-halsall",
+      "target": "claim-king-arthur-historical",
+      "rel": "disputes"
+    },
+    {
+      "source": "scholar-guy-halsall",
+      "target": "source-lazarescu-2015",
       "rel": "mentions"
     },
     {
@@ -2155,6 +2796,16 @@
       "source": "scholar-hendrik-bosman",
       "target": "source-bosman-2014",
       "rel": "cites"
+    },
+    {
+      "source": "scholar-iosif-lazaridis",
+      "target": "claim-dorian-no-population-signature",
+      "rel": "supports"
+    },
+    {
+      "source": "scholar-iosif-lazaridis",
+      "target": "source-lazaridis-2017",
+      "rel": "mentions"
     },
     {
       "source": "scholar-israel-finkelstein",
@@ -2292,6 +2943,16 @@
       "rel": "mentions"
     },
     {
+      "source": "scholar-nicholas-higham",
+      "target": "claim-arthur-legendary-composite",
+      "rel": "supports"
+    },
+    {
+      "source": "scholar-nicholas-higham",
+      "target": "claim-king-arthur-historical",
+      "rel": "disputes"
+    },
+    {
       "source": "scholar-peter-warren",
       "target": "site-minoan-crete",
       "rel": "mentions"
@@ -2334,6 +2995,26 @@
     {
       "source": "scholar-sturt-manning",
       "target": "scholar-antonis-bartsiokas",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-tony-freeth",
+      "target": "claim-antikythera-astronomical-computer",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-tony-freeth",
+      "target": "source-freeth-2006-nature",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-tony-freeth",
+      "target": "source-freeth-2014-eclipse",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-tony-freeth",
+      "target": "source-freeth-2021-cosmos",
       "rel": "mentions"
     },
     {
@@ -2397,6 +3078,16 @@
       "rel": "mentions"
     },
     {
+      "source": "site-alexandria",
+      "target": "claim-cleopatra-greek-ancestry",
+      "rel": "mentions"
+    },
+    {
+      "source": "site-alexandria",
+      "target": "source-plutarch-antony",
+      "rel": "mentions"
+    },
+    {
       "source": "site-anemospilia",
       "target": "site-minoan-crete",
       "rel": "mentions"
@@ -2409,6 +3100,21 @@
     {
       "source": "site-anemospilia",
       "target": "claim-anemospilia-sacrifice",
+      "rel": "mentions"
+    },
+    {
+      "source": "site-antikythera-wreck",
+      "target": "claim-antikythera-astronomical-computer",
+      "rel": "mentions"
+    },
+    {
+      "source": "site-antikythera-wreck",
+      "target": "scholar-derek-de-solla-price",
+      "rel": "mentions"
+    },
+    {
+      "source": "site-antikythera-wreck",
+      "target": "scholar-tony-freeth",
       "rel": "mentions"
     },
     {
@@ -2727,6 +3433,21 @@
       "rel": "mentions"
     },
     {
+      "source": "source-breeze-2016",
+      "target": "claim-king-arthur-historical",
+      "rel": "supports"
+    },
+    {
+      "source": "source-breeze-2016",
+      "target": "claim-arthur-legendary-composite",
+      "rel": "disputes"
+    },
+    {
+      "source": "source-breeze-2016",
+      "target": "scholar-andrew-breeze",
+      "rel": "mentions"
+    },
+    {
       "source": "source-bruins-2009",
       "target": "claim-thera-destroyed-minoans",
       "rel": "disputes"
@@ -2777,6 +3498,51 @@
       "rel": "mentions"
     },
     {
+      "source": "source-freeth-2006-nature",
+      "target": "claim-antikythera-astronomical-computer",
+      "rel": "supports"
+    },
+    {
+      "source": "source-freeth-2006-nature",
+      "target": "scholar-tony-freeth",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-freeth-2006-nature",
+      "target": "site-antikythera-wreck",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-freeth-2014-eclipse",
+      "target": "claim-antikythera-astronomical-computer",
+      "rel": "supports"
+    },
+    {
+      "source": "source-freeth-2014-eclipse",
+      "target": "scholar-tony-freeth",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-freeth-2014-eclipse",
+      "target": "site-antikythera-wreck",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-freeth-2021-cosmos",
+      "target": "claim-antikythera-astronomical-computer",
+      "rel": "supports"
+    },
+    {
+      "source": "source-freeth-2021-cosmos",
+      "target": "scholar-tony-freeth",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-freeth-2021-cosmos",
+      "target": "site-antikythera-wreck",
+      "rel": "mentions"
+    },
+    {
       "source": "source-friedrich-2006",
       "target": "claim-thera-high-chronology",
       "rel": "supports"
@@ -2800,6 +3566,31 @@
       "source": "source-hansen-1997",
       "target": "site-troy-hisarlik",
       "rel": "cites"
+    },
+    {
+      "source": "source-judson-2023",
+      "target": "claim-dorian-invasion-dark-age",
+      "rel": "disputes"
+    },
+    {
+      "source": "source-judson-2023",
+      "target": "claim-dorian-no-population-signature",
+      "rel": "supports"
+    },
+    {
+      "source": "source-judson-2023",
+      "target": "claim-lbac-multicausal",
+      "rel": "supports"
+    },
+    {
+      "source": "source-judson-2023",
+      "target": "scholar-catharine-judson",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-judson-2023",
+      "target": "site-mycenae",
+      "rel": "mentions"
     },
     {
       "source": "source-kaniewski-2013",
@@ -2844,6 +3635,41 @@
     {
       "source": "source-kuitems-2021",
       "target": "site-lanse-aux-meadows",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-lazarescu-2015",
+      "target": "claim-arthur-legendary-composite",
+      "rel": "supports"
+    },
+    {
+      "source": "source-lazarescu-2015",
+      "target": "claim-king-arthur-historical",
+      "rel": "disputes"
+    },
+    {
+      "source": "source-lazarescu-2015",
+      "target": "scholar-guy-halsall",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-lazaridis-2017",
+      "target": "claim-dorian-invasion-dark-age",
+      "rel": "disputes"
+    },
+    {
+      "source": "source-lazaridis-2017",
+      "target": "claim-dorian-no-population-signature",
+      "rel": "supports"
+    },
+    {
+      "source": "source-lazaridis-2017",
+      "target": "scholar-iosif-lazaridis",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-lazaridis-2017",
+      "target": "site-mycenae",
       "rel": "mentions"
     },
     {
@@ -3017,6 +3843,16 @@
       "rel": "mentions"
     },
     {
+      "source": "source-plutarch-antony",
+      "target": "claim-cleopatra-greek-ancestry",
+      "rel": "supports"
+    },
+    {
+      "source": "source-plutarch-antony",
+      "target": "site-alexandria",
+      "rel": "mentions"
+    },
+    {
       "source": "source-schliemann-mycenae-1878",
       "target": "claim-mask-of-agamemnon",
       "rel": "mentions"
@@ -3145,22 +3981,37 @@
       "source": "source-wall-musgrave-warren-1986",
       "target": "scholar-jonathan-musgrave",
       "rel": "mentions"
+    },
+    {
+      "source": "source-weber-2025-octagon",
+      "target": "claim-cleopatra-maternal-uncertain",
+      "rel": "supports"
+    },
+    {
+      "source": "source-weber-2025-octagon",
+      "target": "claim-cleopatra-greek-ancestry",
+      "rel": "supports"
+    },
+    {
+      "source": "source-weber-2025-octagon",
+      "target": "scholar-gerhard-weber",
+      "rel": "cites"
     }
   ],
   "meta": {
-    "node_count": 89,
-    "link_count": 371,
+    "node_count": 116,
+    "link_count": 467,
     "by_type": {
-      "claim": 28,
-      "scholar": 21,
-      "site": 12,
-      "source": 28
+      "claim": 35,
+      "scholar": 30,
+      "site": 14,
+      "source": 37
     },
     "by_rel": {
-      "supports": 42,
-      "mentions": 222,
-      "cites": 77,
-      "disputes": 30
+      "supports": 59,
+      "mentions": 274,
+      "cites": 93,
+      "disputes": 41
     },
     "citogenesis_roots": [
       {
@@ -3190,6 +4041,12 @@
       {
         "id": "scholar-david-traill",
         "title": "David A. Traill",
+        "type": "scholar",
+        "funnel_size": 3
+      },
+      {
+        "id": "scholar-gerhard-weber",
+        "title": "Gerhard W. Weber — evolutionary anthropologist, University of Vienna",
         "type": "scholar",
         "funnel_size": 3
       },
