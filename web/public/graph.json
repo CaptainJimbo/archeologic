@@ -96,6 +96,32 @@
       "traces_to": []
     },
     {
+      "id": "claim-etruscan-anatolian-origin",
+      "type": "claim",
+      "title": "The Etruscans originated in Anatolia (migrated from the East, as Herodotus claimed)",
+      "status": "refuted",
+      "confidence": 0.25,
+      "body": "**The claim.** The ancient Greek historian Herodotus ([[scholar-herodotus]], Histories 1.94) reported that the Etruscans (Tyrrhenians) were Lydians who migrated by sea from Anatolia to Italy after a famine — the classic Eastern-origin or migrationist hypothesis. It was contested already in antiquity: Dionysius of Halicarnassus ([[scholar-dionysius-of-halicarnassus]]) argued the Etruscans were autochthonous, indigenous to Italy.\n\n**What the genetic evidence shows.** Modern archaeogenetics refutes the claim as a RECENT demic migration. The genome-wide time transect of Posth et al. 2021 ([[source-posth-2021]]) found Iron Age Etruscans carried Indo-European-associated steppe ancestry and, crucially, LACKED any recent Anatolian-related admixture; they shared a local genetic profile with neighbouring Latins despite speaking a non-Indo-European language. The earlier mtDNA study of Ghirotto et al. 2013 ([[source-ghirotto-2013]]) independently concluded the culture developed locally, dating the only Tuscany-Anatolia genetic link to at least 5,000 years ago (Neolithic), not the first millennium BCE.\n\n**Verdict.** Refuted as literally stated, confidence 0.25. Two independent genetic methods find no signal of a recent Anatolian/Lydian migration; the Etruscans are genetically largely local. Kept marginally above zero because (a) a deep Neolithic Anatolian-farmer component does exist across the whole region, so an unwary reader could conflate that with Herodotus's story, and (b) genetics constrains people, not language.\n\n**The live nuance.** The refutation applies to the PEOPLE. The origin of the non-Indo-European Etruscan language remains genuinely open — recorded separately as [[claim-etruscan-language-origin]] — because a language isolate persisting among Indo-European neighbours with no matching demic signal is, in the words of Posth et al., still unexplained.\n",
+      "in_cites": 0,
+      "out_cites": 2,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
+      "id": "claim-etruscan-language-origin",
+      "type": "claim",
+      "title": "The origin of the non-Indo-European Etruscan language remains genuinely open",
+      "status": "contested",
+      "confidence": 0.5,
+      "body": "**The claim.** Etruscan is a non-Indo-European language isolate (with only the fragmentary Raetic and Lemnian as apparent relatives, the so-called Tyrsenian family). How such a language came to be spoken in Iron Age central Italy, surrounded by Indo-European Italic groups such as the Latins, is unresolved.\n\n**Why the genetic result does not settle it.** The archaeogenomic evidence — [[source-posth-2021]] and [[source-ghirotto-2013]] — refutes a recent mass migration of PEOPLE from Anatolia (see [[claim-etruscan-anatolian-origin]]). But Posth et al. explicitly state that the persistence of a probable non-Indo-European language isolate among Indo-European-speaking neighbours is an intriguing and still unexplained phenomenon requiring further archaeological, historical-linguistic, and genetic investigation. Language and genes can decouple: a language can survive or spread without a detectable demic signal.\n\n**The open positions.** (1) The language is a pre-Indo-European survival, in place before the steppe/Italic Indo-European spread and simply not overwritten. (2) It reflects a much older (e.g. Neolithic) connection to the eastern Mediterranean that left no Iron Age genetic trace. (3) Small-scale elite or contact-driven transmission. None is currently decisive.\n\n**Status.** Contested, confidence held at 0.5. This is the correct residue of the investigation: the People question leans refuted, the Language question stays open. It is not evidence FOR Herodotus; it is a genuinely unsolved linguistic-prehistory problem.\n",
+      "in_cites": 0,
+      "out_cites": 2,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
       "id": "claim-exodus-historical",
       "type": "claim",
       "title": "The biblical Exodus was a real, large-scale historical event",
@@ -124,6 +150,32 @@
       "traces_to": [
         "source-bosman-2002"
       ]
+    },
+    {
+      "id": "claim-gobekli-tepe-pre-agricultural",
+      "type": "claim",
+      "title": "Gobekli Tepe was built by pre-agricultural hunter-gatherers",
+      "status": "supported",
+      "confidence": 0.88,
+      "body": "Claim: Gobekli Tepe, the monumental T-shaped-pillar complex on the Germus ridge above the Harran plain in southeastern Turkey, was raised by pre-agricultural hunter-gatherer communities, before farming was established in the region.\n\nVerdict: SUPPORTED (confidence ~0.88). The site [[site-gobekli-tepe]] was excavated from 1995 by [[scholar-klaus-schmidt]] and, after his death, [[scholar-oliver-dietrich]] and the wider German Archaeological Institute team. Its enclosures belong to the Pre-Pottery Neolithic A and B (PPNA/PPNB), radiocarbon-dated to roughly 9500-8000 BCE, which is before pottery, before metal, and, in this region, before fully domesticated crops and herd animals. The excavator's first report [[source-schmidt-2000]] places the megaliths and pillars firmly in the PPN. The excavation team's synthesis [[source-dietrich-2012-antiquity]] states outright that the site pushes the origins of monumentality back beyond the emergence of agriculture, describing hunter-gatherers congregating to carve pillars, dance, feast, and brew beer from wild (not domesticated) crops.\n\nWhy this matters: the finding overturned the older farming-first model, in which agricultural surplus was thought to be a precondition for monumental architecture and organised cult. At Gobekli Tepe the monuments come first and established farming follows, inverting the assumed causal order.\n\nNuance and live debate: the strong reading, purely foragers with zero incipient cultivation, is genuinely contested. The same communities processed wild cereals at scale, and neighbouring PPN sites show early plant management, so some researchers frame the builders as very early Neolithic communities on the cusp of cultivation rather than classic Palaeolithic hunter-gatherers. The review entry [[source-peters-2020-domestication]] surveys this agriculture-and-domestication question for the site. This nuance qualifies but does not overturn the core claim: the monuments predate established agriculture and were built by (largely) foraging communities, which is why confidence sits high but short of certainty.\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
+      "id": "claim-kensington-runestone-genuine",
+      "type": "claim",
+      "title": "The Kensington Runestone is a genuine medieval (1362) Norse artifact",
+      "status": "refuted",
+      "confidence": 0.12,
+      "body": "**Verdict: REFUTED, confidence 0.12.** The Kensington Runestone — a greywacke slab reportedly unearthed in 1898 by the Swedish immigrant farmer Olof Ohman near [[site-kensington-minnesota]], bearing a runic inscription that describes a party of Goths and Norwegians on a journey west from Vinland and closes with the date 1362 — is judged by the overwhelming consensus of runologists and Scandinavian philologists to be a modern (late-19th-century) forgery, not a genuine medieval Norse artifact.\n\nThe decisive evidence is linguistic and epigraphic. The language of the inscription is modern Scandinavian, not the Old Swedish of 1362: its vocabulary, grammar and spelling match 1800s usage, and several words are late loans from German that did not exist in the medieval language. Its runes and numerals include forms unknown to authentic medieval carving — dotted runes, umlaut dots, and pentadic (base-five) numerals — that are hallmarks of 19th-century Scandinavian schoolroom and almanac tradition. As early as 1910 the philologist [[scholar-george-flom]] concluded in [[source-flom-1910]] that the text is a modern inscription in modern runic characters; in 1920 the Scandinavian scholar Rasmus B. Anderson reported in [[source-anderson-1920]] that the examining scholars judged it a clumsy fraud, most likely concocted by Ohman and the itinerant ex-clergyman Sven Fogelblad.\n\nThe modern authority [[scholar-henrik-williams]] (Uppsala) reaffirms the forgery verdict on runological grounds; his 2012 survey The Kensington Runestone: Fact and Fiction is the standard modern statement but was paywalled (Project MUSE) during this investigation, so it is recorded here as a lead rather than a fetched source. A small, largely non-specialist minority — chiefly the promoter [[scholar-hjalmar-holand]] and, later, popular authors such as Scott Wolter — continues to defend authenticity, but no professional runologist endorses it. Confidence 0.12 (not 0.0) reflects only residual uncertainty about find-circumstances, not any genuine scholarly doubt: as stated, the claim is settled-false.\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
     },
     {
       "id": "claim-king-arthur-historical",
@@ -248,6 +300,32 @@
       "traces_to": []
     },
     {
+      "id": "claim-nebra-disc-bronze-age",
+      "type": "claim",
+      "title": "The Nebra Sky Disc is a genuine Early Bronze Age object (c. 1600 BCE)",
+      "status": "supported",
+      "confidence": 0.65,
+      "body": "The Nebra Sky Disc — a ~30 cm bronze disc with gold inlays showing a sun or full moon, a crescent, stars including what is read as the Pleiades, and later horizon arcs and a solar barque — is dated by most scholars to the central European Early Bronze Age Unetice culture, around 1600 BCE, and is celebrated as one of the oldest concrete depictions of the cosmos (UNESCO Memory of the World).\n\nWHY THE DATE IS INDIRECT: the object was looted, not excavated. It was dug up by metal detectorists on the [[site-nebra-mittelberg]] in 1999 and recovered by police in 2002; there is no scientific method to directly date the copper alloy. As even its defenders state ([[source-pernicka-2020]]), the ~1600 BCE date rests on reconstructing the find context and radiocarbon/typological dating of the accompanying hoard (swords, axes, bracelets, chisel), plus material analyses linking disc, hoard and site.\n\nSUPPORTING MATERIAL EVIDENCE (fetched this run): gold-provenance geochemistry tying the first-phase inlays to Cornish sources within an EBA metal-trade network [[source-ehser-2011]]; metallographic study showing manufacture by flat casting then repeated hot forging, consistent with EBA sheet-bronze technology [[source-dieck-2024]]; and the interdisciplinary corrosion/sediment, gold and lead-isotope synthesis of [[source-pernicka-2020]] corroborating burial with the hoard.\n\nLIVE MINORITY CHALLENGE: in 2020 Gebhard and Krause ([[scholar-gebhard-krause]]) argued the disc could be Iron Age and might not derive from the Mittelberg or from the hoard at all — see [[claim-nebra-iron-age-challenge]]. This was strongly rebutted by [[scholar-ernst-pernicka]] and colleagues, and the EBA dating remains consensus.\n\nVERDICT: SUPPORTED but not settled. The genuineness (not a modern forgery) is very well established; the EBA date is the strong majority view resting on a coherent, multiply-analysed material and contextual case. Confidence held at 0.65 rather than higher because the anchoring context is reconstructed from a looted find and a credentialed minority has published a still-unretracted alternative dating — a real, live scholarly dispute rather than a fringe claim.\n",
+      "in_cites": 0,
+      "out_cites": 3,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
+      "id": "claim-nebra-iron-age-challenge",
+      "type": "claim",
+      "title": "The Nebra Sky Disc may be Iron Age and not from the Nebra hoard/findspot (Gebhard & Krause 2020)",
+      "status": "contested",
+      "confidence": 0.3,
+      "body": "Sub-claim / minority position. In 2020 Rupert Gebhard and Ruediger Krause ([[scholar-gebhard-krause]]) challenged the standard account of the Nebra Sky Disc, arguing that: (1) the disc should be typologically dated to the Iron Age rather than ~1600 BCE; and (2) it may not have been found together with the bronze hoard, and possibly not even on the [[site-nebra-mittelberg]] near Nebra — i.e. the looter-derived find context that anchors the Early Bronze Age date is unreliable.\n\nSTATUS: contested and largely, but not universally, rejected. The challenge was published in a peer-reviewed venue by established prehistorians, which makes it a genuine scholarly dispute rather than pseudoarchaeology; the underlying epistemic worry (a looted object with reconstructed context) is legitimate. However it was rapidly and forcefully rebutted by [[scholar-ernst-pernicka]] and a large interdisciplinary team in [[source-pernicka-2020]], who argue it relies on selective use of early/unpublished material, ignores much subsequent work, and distorts court-trial and laboratory evidence (sediment/corrosion attachments, gold chemistry, lead isotopes) that ties the disc to the hoard and the site. The Early Bronze Age dating [[claim-nebra-disc-bronze-age]] remains the consensus.\n\nCONFIDENCE 0.3: this reflects low credence that the Iron-Age / not-from-Nebra hypothesis is correct, while keeping the node open because the challenge is published, not formally withdrawn, and the debate is live. GATE NOTE: the Gebhard & Krause 2020 paper itself could not be fetched this run (not returned by the source index; DOI probes missed), so its argument is recorded second-hand via the fetched rebuttal that quotes it, and no source node was created for it.\n",
+      "in_cites": 0,
+      "out_cites": 1,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
       "id": "claim-norse-precolumbian-america",
       "type": "claim",
       "title": "Norse explorers (Vikings) reached North America centuries before Columbus",
@@ -256,6 +334,32 @@
       "body": "**Verdict: SUPPORTED (settled-true), confidence 0.92.** Norse seafarers from Greenland/Iceland reached and briefly settled the North American mainland around AD 1000, roughly five centuries before Columbus's 1492 crossing.\n\nThe decisive physical evidence is [[site-lanse-aux-meadows]] in Newfoundland — the only unambiguously confirmed Norse site in the Americas — excavated from 1960 by [[scholar-helge-anne-ingstad]]. Its material culture (Norse-style turf halls, a bronze ring-headed pin, a soapstone spindle whorl, iron nails and slag from smithing) is diagnostically Norse, not Indigenous.\n\nDating converges from two independent lab efforts: [[source-nydal-1989]] gives a calibrated radiocarbon range of AD 975-1020, and [[source-kuitems-2021]] uses the AD 993 cosmic-ray radiocarbon spike as a dendro anchor to pin the felling of metal-cut Norse wood to exactly AD 1021 (see the sub-claim [[claim-lanse-aux-meadows-ad1021]]) — 471 years before Columbus.\n\nThe Vinland sagas (Graenlendinga saga, Eirik the Red's saga) independently corroborate voyages to 'Vinland,' though as oral histories written down two-plus centuries later they are treated here as leads, not primary evidence. Confidence is held just below 1.0 only because the sagas are secondary and the precise extent/duration of Norse activity beyond L'Anse aux Meadows remains debated; the core claim itself is not scholarly contested.\n",
       "in_cites": 0,
       "out_cites": 1,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
+      "id": "claim-phaistos-disc-authentic",
+      "type": "claim",
+      "title": "The Phaistos Disc is an authentic Minoan artifact (not a modern forgery)",
+      "status": "supported",
+      "confidence": 0.68,
+      "body": "The claim. The Phaistos Disk — a fired-clay disk about 16 cm across, stamped on both faces with a spiral of 241-242 undeciphered signs in 61 boxes, reported by Luigi Pernier (see [[scholar-luigi-pernier]]) at the Phaistos palace on [[site-minoan-crete]] in 1908 — is a genuine Bronze Age Minoan artifact, not a modern fabrication.\n\nMainstream standing (primary vs echo). This is the consensus. The specialists who have handled the object read it as authentic and merely undeciphered: Arthur Evans dated it in 1921 (see [[scholar-arthur-evans]]), Yves Duhoux to 1850-1600 BC in 1977, and Louis Godart (see [[scholar-louis-godart]]) to the Middle/Late Minoan range in 1995 — all recorded in the fetched [[source-reczko-2009]]. A 2021 reference entry ([[source-encyclopedic-dict-archaeology-2021]]) likewise places it, without caveat, in a deposit dated c 1700 BC, contemporary with Linear A. Both fetched sources are secondary/reference echoes of consensus rather than the original excavation report, but they document that authenticity is the settled baseline.\n\nWhy not certainty (held at 0.68). Two things keep this SUPPORTED rather than confirmed. First, the disk is genuinely anomalous — a unique stamped-clay document with no comparanda — which is what gives the forgery hypothesis ([[claim-phaistos-forgery-hypothesis]]) its opening. Second, and decisively, the object has never been laboratory-tested: the Heraklion museum has declined thermoluminescence dating, so authenticity rests on find-context, style and expert judgement, not on a physical date for the clay. Authenticity is well supported and very probably correct, but it is not lab-confirmed.\n\nVerdict. SUPPORTED at 0.68. The overwhelming weight of specialist opinion, backed by a documented Middle Minoan find-context, holds the disk genuine; the forgery hypothesis is a real but minority position kept unresolvable only by the absence of a thermoluminescence test. A settled-enough claim with an honest, still-open forgery sub-debate, extending the Minoan cluster around [[site-minoan-crete]].\n",
+      "in_cites": 0,
+      "out_cites": 2,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
+      "id": "claim-phaistos-forgery-hypothesis",
+      "type": "claim",
+      "title": "The Phaistos Disc is a modern forgery (Eisenberg 2008)",
+      "status": "contested",
+      "confidence": 0.3,
+      "body": "The minority claim. Jerome Eisenberg (see [[scholar-jerome-eisenberg]]) argued in 2008 that the disk is not a Bronze Age object at all but a hoax made in or about 1908, whether by Luigi Pernier (see [[scholar-luigi-pernier]]) or for him. The case rests on the object's anomalies: it is unique (no second stamped-clay document exists anywhere), its sign edges are unusually crisp, its firing looks deliberate where Minoan clay documents were typically sun-dried, and — the argument's strongest lever — no laboratory test has ever authenticated it.\n\nWhy it stays alive rather than settled: the Heraklion museum has declined thermoluminescence testing, which could in principle date the clay's last firing and either confirm a Bronze Age origin or expose a modern one. Absent that test, the forgery hypothesis cannot be laboratory-refuted, so it survives as a genuine, if minority, contest.\n\nWhy it is nonetheless held LOW (0.30). Mainstream specialists reject it. The disk was excavated in a documented Middle Minoan deposit on [[site-minoan-crete]] beside independently datable finds, not surface-collected; features such as the sign overcuts (corrections a forger would have no reason to fake) point to genuine scribal use; and no positive evidence of fabrication has surfaced in a century. This node stays CONTESTED, not refuted: the debate is unresolved for want of a lab test, but the evidential balance favours authenticity. Disputes [[claim-phaistos-disc-authentic]]. Note: Eisenberg's primary 2008 text could not be fetched open-access this run (see the scholar node), so this claim is built from the fetchable mainstream record plus the attribution, not from a fabricated source node.\n",
+      "in_cites": 0,
+      "out_cites": 0,
       "funnel_size": 0,
       "citogenesis_root": false,
       "traces_to": []
@@ -282,6 +386,32 @@
       "body": "**The claim.** Groups collectively labelled the Sea Peoples are a genuine historical phenomenon documented in contemporary Egyptian sources, most prominently the Year 8 reliefs and inscriptions of Ramesses III (c. 1177 BCE) at his mortuary temple of Medinet Habu, which depict land and sea battles against named groups (Peleset, Tjeker, Shekelesh, Denyen, Weshesh and others). They also appear in earlier records of Merneptah and in correspondence from [[site-ugarit]].\n\n**Why this is separated from the causal claim.** This node exists to keep two things apart that popular accounts fuse: (1) that the Sea Peoples were real and militarily active — well supported — versus (2) that they *caused* the Late Bronze Age collapse — contested and leaning refuted (see [[claim-sea-peoples-collapse]]). The Egyptian evidence is royal commemorative propaganda: it establishes the encounters and the Egyptian victory claim, but it does not establish a unified confederation responsible for the region-wide systems failure captured by [[claim-lbac-multicausal]].\n\n**Status.** Supported at 0.85. Note: this attestation is drawn from the well-known Medinet Habu corpus and standard Egyptological literature; no primary Egyptological edition was fetched in this run, so the confidence reflects general scholarly consensus rather than a source node verified here. Eric Cline ([[scholar-eric-cline]]) treats the Medinet Habu evidence at length while cautioning against reading it as the cause of collapse.\n",
       "in_cites": 0,
       "out_cites": 0,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
+      "id": "claim-shroud-repair-sample-objection",
+      "type": "claim",
+      "title": "The 1988 radiocarbon sample was non-representative (medieval repair/reweave or statistical heterogeneity), so the medieval date need not apply to the whole Shroud",
+      "status": "contested",
+      "confidence": 0.4,
+      "body": "**Verdict: CONTESTED, confidence 0.4.** This is the strongest genuine scientific objection to the 1988 result [[source-damon-1989-nature]]. It has two distinct forms, which must be kept apart.\n\n**(1) Statistical heterogeneity.** The twelve subsample measurements scatter more than counting statistics predict, and [[source-riani-2013-heterogeneity]] (peer-reviewed, Statistics and Computing) reports a spatial trend across the sampled strip. This is real and published: the single corner sample was not demonstrably homogeneous, and better sampling design would have been preferable. Backed by [[scholar-marco-riani]].\n\n**(2) Invisible reweave / repair.** The stronger form claims the corner was a later (16th-century) 'French invisible weaving' repair, so the labs unknowingly dated patch material, not the original cloth (associated with Raymond Rogers and Benford-Marino). This form is weakly supported: [[source-freer-waters-jull-2026]] microscopically examined leftover Arizona sample fragments and found them consistent with the main cloth with no spliced repair yarn or cotton, i.e. no evidence of reweave in the dated material.\n\nWhy contested but low-ish confidence: a spatial gradient exists, but no line of evidence turns the sampled linen into a first-century object, and the reweave mechanism specifically is contradicted by direct fragment analysis. The honest scientific position is that the 1988 single-corner sampling was methodologically imperfect and its homogeneity cannot be assumed — but the material actually dated is medieval. This objection therefore qualifies [[claim-shroud-turin-first-century]] without rescuing it.\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
+      "id": "claim-shroud-turin-first-century",
+      "type": "claim",
+      "title": "The Shroud of Turin dates to the 1st century AD (the time of Jesus)",
+      "status": "refuted",
+      "confidence": 0.15,
+      "body": "**Verdict: REFUTED as stated, confidence 0.15.** The scientific dating evidence places the Shroud's linen in the medieval period, roughly a millennium after the 1st century AD. (This note assesses the physical dating evidence only, not any theological question.)\n\n**Primary evidence.** In 1988 linen samples were dated by accelerator mass spectrometry independently at three laboratories — Arizona, Oxford, and ETH Zurich — coordinated with blind controls by the British Museum, and published as [[source-damon-1989-nature]] (Nature). The combined calibrated result is **AD 1260-1390 at 95% confidence** — medieval, consistent with the cloth's first undisputed appearance in France in the 1350s. A genuine 1st-century linen would date near AD 1-100. The independent assessment [[source-gove-1990-assessment]] by AMS co-inventor Harry Gove judged the result 'credible.' Two independent, converging lines (three-lab AMS agreement; documentary history) both point medieval, so this rests on primary evidence, not citation echo.\n\n**The one real scientific caveat** is the sub-claim [[claim-shroud-repair-sample-objection]]: all samples came from a single corner that shows statistically significant heterogeneity ([[source-riani-2013-heterogeneity]]), and some have argued that corner was a later repair. But the reweave variant is contradicted by direct microscopy of the dated fragments ([[source-freer-waters-jull-2026]]), and no analysis produces a 1st-century date — the objection undermines the sampling's representativeness, not the medieval age of the material measured.\n\n**Confidence 0.15** (not lower) leaves room for the acknowledged sampling imperfection and the theoretical possibility of a future re-dating of multiple, spatially separated sites on the cloth. But on all published scientific dating evidence to date, the 1st-century claim is refuted.\n",
+      "in_cites": 0,
+      "out_cites": 2,
       "funnel_size": 0,
       "citogenesis_root": false,
       "traces_to": []
@@ -549,6 +679,19 @@
       "traces_to": []
     },
     {
+      "id": "scholar-cosimo-posth",
+      "type": "scholar",
+      "title": "Cosimo Posth",
+      "status": "modern",
+      "confidence": 0.8,
+      "body": "Archaeogeneticist (Max Planck Institute for the Science of Human History, Jena; University of Tuebingen). Lead author of the 2000-year Etruscan archaeogenomic time transect ([[source-posth-2021]], senior author Johannes Krause), the study whose finding of no recent Anatolian admixture is the central genetic evidence disputing [[claim-etruscan-anatolian-origin]]. His work also frames the still-open puzzle recorded in [[claim-etruscan-language-origin]].\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
       "id": "scholar-david-traill",
       "type": "scholar",
       "title": "David A. Traill",
@@ -573,6 +716,19 @@
       "status": "reference",
       "confidence": 0.9,
       "body": "British-born historian of science at Yale who produced the first systematic scientific study of the [[claim-antikythera-astronomical-computer]]. Using early gamma-ray and X-ray radiography of the corroded fragments recovered from [[site-antikythera-wreck]], Price counted the surviving gear teeth and reconstructed gear trains, publishing the landmark monograph Gears from the Greeks (1974). He established that the device was a calendrical/astronomical calculating machine driven by a differential-style gear train, framing it as the ancestor of mechanical clockwork and coining the popular characterization of the mechanism as an ancient computer (analogue and mechanical, not electronic). Later high-resolution imaging by [[scholar-tony-freeth]] and colleagues corrected several of Price's specific gear counts and functions, but confirmed his core thesis that the object is a geared astronomical device.\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
+      "id": "scholar-dionysius-of-halicarnassus",
+      "type": "scholar",
+      "title": "Dionysius of Halicarnassus (autochthonous-origin advocate)",
+      "status": "ancient",
+      "confidence": 0.5,
+      "body": "Greek historian and rhetorician active in Rome, 1st century BCE. In Roman Antiquities (Book 1) he rejected Herodotus's Lydian-migration story and argued the Etruscans were autochthonous — indigenous to Italy, an ancient people resembling no other in language or customs. His autochthonous position anticipates the modern genetic finding that Etruscans were largely a LOCAL population ([[source-posth-2021]], [[source-ghirotto-2013]]), and stands opposite the Eastern-origin claim [[claim-etruscan-anatolian-origin]]. Ancient literary testimony, weighed as a competing claim rather than as evidence.\n",
       "in_cites": 0,
       "out_cites": 0,
       "funnel_size": 0,
@@ -606,6 +762,19 @@
       "traces_to": []
     },
     {
+      "id": "scholar-ernst-pernicka",
+      "type": "scholar",
+      "title": "Ernst Pernicka (b. 1950)",
+      "status": "reference",
+      "confidence": 0.9,
+      "body": "German-Austrian archaeometallurgist and analytical chemist, a leading authority on the material analysis of the Nebra Sky Disc and long the scientific director of the Curt-Engelhorn-Zentrum Archaeometrie in Mannheim. He led or co-authored the core provenance and composition studies underpinning the Early Bronze Age attribution, including the Cornish-gold provenance work [[source-ehser-2011]], and is lead author of the 2020 interdisciplinary rebuttal [[source-pernicka-2020]] to the Iron-Age reattribution. His work is the empirical backbone of the mainstream position on [[claim-nebra-disc-bronze-age]] and the principal counter to [[claim-nebra-iron-age-challenge]].\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
       "id": "scholar-frank-kolb",
       "type": "scholar",
       "title": "Frank Kolb",
@@ -615,6 +784,32 @@
       "in_cites": 1,
       "out_cites": 0,
       "funnel_size": 1,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
+      "id": "scholar-gebhard-krause",
+      "type": "scholar",
+      "title": "Rupert Gebhard & Ruediger Krause",
+      "status": "reference",
+      "confidence": 0.6,
+      "body": "Rupert Gebhard (director of the Archaeological State Collection, Munich) and Ruediger Krause (professor of prehistory, Goethe University Frankfurt), joint authors of the 2020 article that questioned the Nebra Sky Disc's Early Bronze Age date and its association with the Mittelberg hoard. They argued the disc should be typologically placed in the Iron Age and that it may not have been found with the hoard or even on the Mittelberg, treating the looter-derived context as unreliable. Their proposal is the basis of [[claim-nebra-iron-age-challenge]]. It was rapidly and forcefully rebutted by [[scholar-ernst-pernicka]] and colleagues in [[source-pernicka-2020]]; the Early Bronze Age attribution [[claim-nebra-disc-bronze-age]] remains the scholarly consensus. NOTE: their 2020 paper (Archaeologische Informationen) could not be fetched directly this run, so no source node is created for it; its content here is characterised via the fetched Pernicka rebuttal that quotes it.\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
+      "id": "scholar-george-flom",
+      "type": "scholar",
+      "title": "George T. Flom",
+      "status": "reference",
+      "confidence": 0.8,
+      "body": "American Germanic philologist and runologist (University of Illinois; later University of Iowa), a specialist in Old Norse and Scandinavian dialectology. In [[source-flom-1910]] he produced one of the earliest expert refutations of the [[claim-kensington-runestone-genuine|Kensington Runestone]], demonstrating that its language is modern Scandinavian rather than the Old Swedish of 1362 and that its runes are modern characters. He represents the professional-philological consensus that formed against the stone within a decade of its 1898 appearance.\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
       "citogenesis_root": false,
       "traces_to": []
     },
@@ -696,6 +891,45 @@
       ]
     },
     {
+      "id": "scholar-henrik-williams",
+      "type": "scholar",
+      "title": "Henrik Williams",
+      "status": "reference",
+      "confidence": 0.85,
+      "body": "Runologist and professor of Scandinavian languages at Uppsala University, one of the leading modern authorities on runic inscriptions. Williams upholds the mainstream verdict that the [[claim-kensington-runestone-genuine|Kensington Runestone]] is a modern forgery, pointing to runic and numeral forms (dotted runes, pentadic numerals, umlaut dots) and orthography that belong to 19th-century Scandinavia rather than the medieval period. His survey The Kensington Runestone: Fact and Fiction (Swedish-American Historical Quarterly, 2012) is the standard modern treatment; it was paywalled (Project MUSE) during this investigation and so is cited here as a lead rather than a fetched source. He is the contemporary runological voice confirming that the forgery consensus has only hardened since Flom.\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
+      "id": "scholar-herodotus",
+      "type": "scholar",
+      "title": "Herodotus (ancient source of the claim)",
+      "status": "ancient",
+      "confidence": 0.5,
+      "body": "Greek historian, 5th century BCE. In Histories 1.94 he reports that the Tyrrhenians (Etruscans) were Lydians who, driven by famine, migrated by sea from Anatolia to Umbria in Italy — the origin of the Eastern-migration hypothesis under test in [[claim-etruscan-anatolian-origin]]. Herodotus is treated here as the SOURCE OF THE CLAIM, an ancient literary report, not as physical evidence; his account was disputed in antiquity by [[scholar-dionysius-of-halicarnassus]] and is refuted as a recent demic migration by modern aDNA ([[source-posth-2021]], [[source-ghirotto-2013]]).\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
+      "id": "scholar-hjalmar-holand",
+      "type": "scholar",
+      "title": "Hjalmar R. Holand",
+      "status": "reference",
+      "confidence": 0.2,
+      "body": "Norwegian-American writer and amateur historian (1872-1963) who acquired the [[claim-kensington-runestone-genuine|Kensington Runestone]] from Olof Ohman around 1907 and became its lifelong champion, producing a long series of books defending its authenticity and tying it to a supposed 14th-century Norse expedition (the Paul Knutson expedition). Holand had no training in runology or historical linguistics, and professional philologists — from [[scholar-george-flom]] and Rasmus B. Anderson ([[source-anderson-1920]]) onward — rejected his arguments. He is the principal figure of the authenticity-defending minority; the node is retained, with a supports edge to the refuted claim, to represent that minority honestly, not because the position carries scholarly weight.\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
       "id": "scholar-iosif-lazaridis",
       "type": "scholar",
       "title": "Iosif Lazaridis",
@@ -715,6 +949,19 @@
       "status": "reference",
       "confidence": 0.9,
       "body": "Israeli archaeologist (Tel Aviv University), a leading figure in the archaeology of early Israel and co-author with Neil Asher Silberman of The Bible Unearthed (2001). On the basis of highland settlement surveys he argues that early Israel emerged from within Canaanite society in Iron Age I rather than arriving from Egypt, and that the exodus and conquest narratives are largely a later literary construction reflecting the geopolitical horizon of the 7th century BCE Kingdom of Judah.\n\nHe is the principal voice disputing [[claim-exodus-historical]] as a large-scale event and is skeptical even of a recoverable historical kernel [[claim-exodus-small-kernel]], though he acknowledges the tradition preserves cultural memory. Paired here with [[scholar-william-dever]], who reaches similar conclusions about the large-scale claim while remaining somewhat more open to a small kernel.\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
+      "id": "scholar-jerome-eisenberg",
+      "type": "scholar",
+      "title": "Jerome M. Eisenberg",
+      "status": "reference",
+      "confidence": 0.7,
+      "body": "American antiquities dealer, editor of Minerva magazine and a specialist in detecting art forgeries. In 2008 he published the principal modern challenge to the disk's authenticity — an article arguing the Phaistos Disk is a hoax fabricated in or around 1908, the year Luigi Pernier (see [[scholar-luigi-pernier]]) reported finding it. His stated grounds are stylistic and technical: uniquely clean-cut edges, the improbable singularity of a stamped clay document with no comparanda, and the absence of a laboratory authentication.\n\nProtagonist node for the minority position [[claim-phaistos-forgery-hypothesis]], the counterpart to the mainstream defenders. Epistemic caveat recorded here honestly: Eisenberg's 2008 forgery article appeared in Minerva, a non-peer-reviewed magazine with no DOI, and was NOT fetchable in this run (not indexed on Crossref; the peer-reviewed venues that discuss it, Kadmos and Brill, returned HTTP 202/403). So no source node stands in for that text — this scholar node records the attribution without fabricating a document.\n",
       "in_cites": 0,
       "out_cites": 0,
       "funnel_size": 0,
@@ -761,6 +1008,45 @@
       "traces_to": []
     },
     {
+      "id": "scholar-klaus-schmidt",
+      "type": "scholar",
+      "title": "Klaus Schmidt (1953-2014)",
+      "status": "reference",
+      "confidence": 0.9,
+      "body": "German prehistorian of the German Archaeological Institute (DAI) who recognised the Neolithic megalithic character of [[site-gobekli-tepe]] in 1994 and directed its excavation from 1995 until his death in 2014. His work established the site's Pre-Pottery Neolithic date and made it the central evidence for the argument that monumental sanctuaries were built by pre-agricultural communities.\n\nHis 2000 Paleorient preliminary report [[source-schmidt-2000]] is the foundational published account of the 1995-1999 excavations, and he is lead or co-author of the excavation-team syntheses including [[source-dietrich-2012-antiquity]]. He is a key proponent of [[claim-gobekli-tepe-pre-agricultural]].\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
+      "id": "scholar-louis-godart",
+      "type": "scholar",
+      "title": "Louis Godart",
+      "status": "reference",
+      "confidence": 0.85,
+      "body": "Belgian-Italian epigrapher and Aegean-scripts scholar, a leading authority on the Phaistos Disk and on Linear A/B from [[site-minoan-crete]]. His 1995 study of the disk (cited in [[source-reczko-2009]]) dates it broadly within the Middle/Late Minoan range and treats it, with the rest of mainstream Aegean scholarship, as a genuine Bronze Age artifact whose script is simply undeciphered.\n\nIncluded as a representative of the consensus that underpins [[claim-phaistos-disc-authentic]]: the specialists who have worked most closely on the object read it as authentic. His dating attribution is grounded via the Reczko fetch; his monograph itself was not fetched this run, so no separate source node is created for it.\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
+      "id": "scholar-luigi-pernier",
+      "type": "scholar",
+      "title": "Luigi Pernier",
+      "status": "reference",
+      "confidence": 0.88,
+      "body": "Italian archaeologist (1874-1937) of the Italian Archaeological School, excavator of the Phaistos palace on [[site-minoan-crete]]. On 3 July 1908 he reported recovering the disk from a Middle Minoan context in the palace's north-east apartments, alongside a Linear A tablet and datable pottery.\n\nPernier sits at the centre of both claims. In the mainstream account his documented find-context is a load-bearing argument FOR authenticity ([[claim-phaistos-disc-authentic]]). In the forgery hypothesis ([[claim-phaistos-forgery-hypothesis]]) he is the alleged fabricator or commissioner — the charge being that a young excavator manufactured a spectacular find. Because the museum has never permitted thermoluminescence testing, neither reading can be closed by laboratory evidence, which is exactly why the dispute persists.\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
       "id": "scholar-manfred-korfmann",
       "type": "scholar",
       "title": "Manfred Korfmann (1942-2005)",
@@ -783,6 +1069,19 @@
       "in_cites": 1,
       "out_cites": 1,
       "funnel_size": 2,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
+      "id": "scholar-marco-riani",
+      "type": "scholar",
+      "title": "Marco Riani",
+      "status": "reference",
+      "confidence": 0.85,
+      "body": "Statistician at the University of Parma, specialist in robust regression and the 'forward search' method (developed with Anthony C. Atkinson). With Atkinson and collaborators he applied these tools to the twelve raw subsample results of the 1988 Shroud dating.\n\nHe is lead author of [[source-riani-2013-heterogeneity]], which reports statistically significant heterogeneity and a spatial trend in the 1988 results, and of a later Entropy (2020) proactive-analysis follow-up. This body of work is the most methodologically credible support for [[claim-shroud-repair-sample-objection]] — the argument that the single sampled corner may not represent the whole cloth. Riani argues about sampling adequacy and does not himself claim a 1st-century date; his co-author Giulio Fanti, by contrast, is an outspoken authenticity advocate whose interpretations should be weighed for bias.\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
       "citogenesis_root": false,
       "traces_to": []
     },
@@ -819,6 +1118,19 @@
       "status": "reference",
       "confidence": 0.8,
       "body": "Historian of Anglo-Saxon and post-Roman Britain (University of Manchester), author of King Arthur: The Making of the Legend (Yale, 2018) among earlier works on the sub-Roman period. He argues Arthur is best understood as a literary and legendary construct rather than a documented 5th-6th century figure, and traces how the legend was built from late sources. (No open-access Higham text was fetchable this run — his History Compass 2004 article returned HTTP 403 — so this node records his well-attested scholarly position without a grounded source node.)\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
+      "id": "scholar-oliver-dietrich",
+      "type": "scholar",
+      "title": "Oliver Dietrich (b. 20th c.)",
+      "status": "reference",
+      "confidence": 0.85,
+      "body": "German prehistorian who worked on the Gobekli Tepe project and has been a leading author of the excavation team's interpretive and chronological publications, continuing the research programme begun by [[scholar-klaus-schmidt]] at [[site-gobekli-tepe]].\n\nHe is lead author of the 2012 Antiquity synthesis on cult and feasting [[source-dietrich-2012-antiquity]] and a co-author of the Encyclopedia of Global Archaeology review on agriculture and domestication at the site [[source-peters-2020-domestication]]. His publications support and refine [[claim-gobekli-tepe-pre-agricultural]], including work on the imagery, radiocarbon dating, and the debate over incipient plant use.\n",
       "in_cites": 0,
       "out_cites": 0,
       "funnel_size": 0,
@@ -874,6 +1186,19 @@
         "scholar-sturt-manning",
         "source-pearson-2018"
       ]
+    },
+    {
+      "id": "scholar-timothy-jull",
+      "type": "scholar",
+      "title": "A. J. Timothy Jull",
+      "status": "reference",
+      "confidence": 0.9,
+      "body": "Radiocarbon geoscientist at the University of Arizona (long-time director of the NSF-Arizona AMS Laboratory and editor of the journal Radiocarbon). Jull is a rare figure who sits on both sides of the Shroud sampling debate with primary access to the material.\n\nHe was a co-author of the original 1988 dating team [[source-damon-1989-nature]] (Arizona was one of the three AMS labs). Decades later he co-authored [[source-freer-waters-jull-2026]], the direct microscopic examination of leftover Arizona sample fragments that found them consistent with the main Shroud cloth and free of the spliced repair material posited by the reweave hypothesis. His work is central to assessing [[claim-shroud-turin-first-century]] and the objection [[claim-shroud-repair-sample-objection]].\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
     },
     {
       "id": "scholar-tony-freeth",
@@ -980,6 +1305,19 @@
       "traces_to": []
     },
     {
+      "id": "site-gobekli-tepe",
+      "type": "site",
+      "title": "Gobekli Tepe (Germus range, Sanliurfa, SE Turkey)",
+      "status": "reference",
+      "confidence": 0.95,
+      "body": "Gobekli Tepe is a tell on one of the highest points of the Germus mountain range (ca. 770 m asl) overlooking the Harran plain, about 15 km northeast of Sanliurfa in Upper Mesopotamia, southeastern Turkey. The mound is roughly 15 m high and around 300 m across, formed of several knolls divided by hollows and surrounded by a largely soil-free limestone plateau.\n\nFirst noted as a lithic scatter during the 1960s Istanbul-Chicago survey (site V52/1, reported by Peter Benedict), its megalithic architecture went unrecognised until [[scholar-klaus-schmidt]] identified it in 1994; excavation began in 1995 and continued under [[scholar-oliver-dietrich]] and the German Archaeological Institute after Schmidt's death in 2014.\n\nThe site is famous for monumental round-to-oval enclosures, 10-30 m in diameter, ringed by and centred on massive T-shaped limestone pillars, many carved in relief with animals (foxes, snakes, boars, birds, scorpions) and anthropomorphic elements. The architecture belongs to the Pre-Pottery Neolithic A and B and dates to roughly 9500-8000 BCE. It is the type-site for the claim that monumental construction preceded established agriculture: see [[claim-gobekli-tepe-pre-agricultural]].\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
       "id": "site-great-tumulus",
       "type": "site",
       "title": "The Great Tumulus, Vergina",
@@ -989,6 +1327,19 @@
       "in_cites": 5,
       "out_cites": 2,
       "funnel_size": 11,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
+      "id": "site-kensington-minnesota",
+      "type": "site",
+      "title": "Kensington find-spot, Douglas County, Minnesota",
+      "status": "reference",
+      "confidence": 0.9,
+      "body": "The find-spot of the [[claim-kensington-runestone-genuine|Kensington Runestone]]: a farm in Solem Township, Douglas County, west-central Minnesota, near the small town of Kensington. The Swedish-born farmer Olof Ohman reported unearthing the inscribed greywacke slab in 1898, said to have been clasped in the roots of a poplar (aspen) tree while he was clearing land.\n\nNo controlled excavation ever documented the discovery, and the stone was for a time used by Ohman as a stepping-stone to his granary before it drew scholarly and popular attention. The absence of a secure archaeological context is one strand of the case against authenticity, alongside the decisive linguistic and runological objections. The stone is today displayed at the Runestone Museum in Alexandria, Minnesota, where it remains a regional tourist attraction and civic emblem despite the scholarly forgery verdict.\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
       "citogenesis_root": false,
       "traces_to": []
     },
@@ -1028,6 +1379,19 @@
       "in_cites": 2,
       "out_cites": 0,
       "funnel_size": 2,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
+      "id": "site-nebra-mittelberg",
+      "type": "site",
+      "title": "Mittelberg, Nebra (Saxony-Anhalt, Germany)",
+      "status": "reference",
+      "confidence": 0.7,
+      "body": "Wooded hilltop near Nebra in the Ziegelroda Forest, Saxony-Anhalt, central Germany, given as the findspot of the Nebra Sky Disc and its accompanying bronze hoard. The material was not recovered in a controlled excavation: it was dug up by unlicensed metal detectorists in 1999 and passed through the black market before police recovery in 2002. Only afterwards did archaeologists (Landesamt fuer Denkmalpflege Sachsen-Anhalt / State Museum of Prehistory, Halle) excavate the reported spot in detail to reconstruct the context.\n\nThe findspot is itself a contested node in the dispute. The Early Bronze Age case (see [[source-pernicka-2020]]) holds that detailed excavation plus sediment / corrosion-attachment analyses corroborated the looters testimony that the disc was buried here with the hoard around 1600 BC. The Iron-Age challenge ([[claim-nebra-iron-age-challenge]]) argues the disc may not even have come from the Mittelberg and may not belong with the hoard. Because provenance was reconstructed rather than observed, the site anchors both [[claim-nebra-disc-bronze-age]] and its challenge.\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
       "citogenesis_root": false,
       "traces_to": []
     },
@@ -1094,6 +1458,20 @@
       "out_cites": 0,
       "funnel_size": 0,
       "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
+      "id": "source-anderson-1920",
+      "type": "source",
+      "title": "Anderson 1920 — Another View of the Kensington Rune Stone",
+      "status": "secondary",
+      "confidence": 0.7,
+      "body": "**Public-domain pamphlet (fetched this run as full text from the Internet Archive; 1920).** The Norwegian-American scholar Rasmus B. Anderson — first professor of Scandinavian studies in the United States (Wisconsin) and a former U.S. minister to Denmark — sets out his case against the [[claim-kensington-runestone-genuine|Kensington inscription]].\n\n**Stated argument.** Anderson recounts that the scholars who first examined the stone agreed in declaring it a rather clumsy fraud, after which it received little attention and Ohman reused it as a stepping-stone to his granary. He names Olof Ohman and the itinerant ex-clergyman Sven Fogelblad as the likely concocters of the hoax and lists facts he considers conclusive against genuineness, beginning with the date at the end of the inscription. He explicitly rebuts the stone's chief promoter, [[scholar-hjalmar-holand]].\n\n**Bearing on the claim.** An independent early critique from a leading Scandinavian-American scholar; it disputes [[claim-kensington-runestone-genuine]]. It is polemical and partly anecdotal rather than a formal runological study, so it is weighted below the philological analysis of [[source-flom-1910]], but it corroborates that contemporary experts uniformly read the stone as a modern fabrication.\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "tier": "secondary",
       "traces_to": []
     },
     {
@@ -1227,6 +1605,48 @@
       ]
     },
     {
+      "id": "source-damon-1989-nature",
+      "type": "source",
+      "title": "Damon et al. 1989 — Radiocarbon dating of the Shroud of Turin (Nature 337:611-615)",
+      "status": "primary",
+      "confidence": 0.95,
+      "body": "**Peer-reviewed article, Nature, 16 February 1989 — the primary radiocarbon result.** The landing page was fetched this run via the DOI; the abstract, the full 21-author list, and the reference section were extracted and grounded this note. The full body sits behind a subscription preview, so quantitative detail here is drawn from the abstract plus the corroborating open assessment [[source-gove-1990-assessment]], not from model memory.\n\nVery small linen samples cut in 1988 from a single corner of the Shroud were dated by accelerator mass spectrometry (AMS) independently at three laboratories — the University of Arizona, Oxford University, and ETH Zurich — with the British Museum coordinating certification and blind controls (three textiles of independently known age). The abstract states the result plainly: the measurements 'provide conclusive evidence that the linen of the Shroud of Turin is mediaeval.' The three labs' means agree, and the combined calibrated calendar age is AD 1260-1390 at 95% confidence (reported quantitatively in [[source-gove-1990-assessment]]).\n\nThis is primary laboratory evidence and the single strongest datum against the claim [[claim-shroud-turin-first-century]]: a 1st-century linen would date roughly AD 1-100, some 1200-1300 years earlier than the measured range. The paper directly refutes the first-century claim and supports a 13th-14th century (medieval) origin. Caveats acknowledged by later work: all subsamples came from one corner, and the twelve subsample results show more scatter than counting statistics predict (see [[source-riani-2013-heterogeneity]]) — the basis of the [[claim-shroud-repair-sample-objection]] sub-claim. Note co-author [[scholar-timothy-jull]] later directly tested the reweave hypothesis in [[source-freer-waters-jull-2026]].\n",
+      "in_cites": 1,
+      "out_cites": 0,
+      "funnel_size": 1,
+      "citogenesis_root": false,
+      "tier": "primary",
+      "traces_to": []
+    },
+    {
+      "id": "source-dieck-2024",
+      "type": "source",
+      "title": "Dieck et al. 2024 — Archaeometallurgical investigation of the Nebra Sky Disc",
+      "status": "primary",
+      "confidence": 0.85,
+      "body": "Open-access Scientific Reports paper; full HTML fetched this run via the DOI. Primary materials-science study of how the disc was made, reading the object itself rather than repeating context arguments.\n\nA small piece from the outer part of the disc was studied metallographically (optical microscopy on a colour-etched surface, EDS, electron backscatter diffraction, plus microhardness) and compared against a cast-and-forged replica. The microstructure shows the disc was manufactured from a flat cast followed by a hot-forging process, reheated and forged roughly ten times. The introduction restates the mainstream framing: the disc is the oldest precise depiction of the heavens in human history, was looted by metal detectorists on the Mittelberg near Nebra in 1999 within a hoard of two swords, two flanged axes, two spiral bracelets and a chisel, and the associated finds date the deposition to the end of the central European Early Bronze Age, ca. 1600 BC, with the disc itself likely made some 100 to 200 years earlier and reworked over five phases.\n\nThe study assumes and operates within the Early Bronze Age attribution and adds independent manufacturing evidence consistent with EBA sheet-bronze technology; it supports [[claim-nebra-disc-bronze-age]]. Co-authors overlap with the Halle museum team ([[scholar-ernst-pernicka]] not among them, but Meller and Wunderlich are shared with [[source-pernicka-2020]]). Findspot: [[site-nebra-mittelberg]].\n",
+      "in_cites": 1,
+      "out_cites": 0,
+      "funnel_size": 1,
+      "citogenesis_root": false,
+      "tier": "primary",
+      "traces_to": []
+    },
+    {
+      "id": "source-dietrich-2012-antiquity",
+      "type": "source",
+      "title": "Dietrich, Heun, Notroff, Schmidt & Zarnkow 2012 - The role of cult and feasting in the emergence of Neolithic communities: new evidence from Gobekli Tepe",
+      "status": "primary",
+      "confidence": 0.9,
+      "body": "Excavation-team synthesis. Fetched this run as HTML from Cambridge Core via the DOI; the abstract, keyword set and reference list were captured.\n\nThe abstract states the case directly: Gobekli Tepe is pushing back the origins of monumentality beyond the emergence of agriculture, and that at the dawn of the Neolithic, hunter-gatherers congregating at [[site-gobekli-tepe]] created social and ideological cohesion through the carving of decorated pillars, dancing, feasting and, almost certainly, the drinking of beer made from fermented wild crops. The keywords list Epipalaeolithic and Pre-Pottery Neolithic A and B, monumentality, congregation, feasting, and alcohol.\n\nThis is strong, near-direct support for [[claim-gobekli-tepe-pre-agricultural]]: the builders are characterised as hunter-gatherers and the crops as wild rather than domesticated, placing the monuments before established farming. Authored by the excavation team including [[scholar-oliver-dietrich]] and [[scholar-klaus-schmidt]]. Note the wild-crop detail also grounds the nuance that these communities were already intensively processing wild cereals. Primary interpretive report by the excavators, not a textbook echo.\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "tier": "primary",
+      "traces_to": []
+    },
+    {
       "id": "source-easton-1994",
       "type": "source",
       "title": "Easton 1994 — Review of D. A. Traill, Excavating Schliemann",
@@ -1251,6 +1671,62 @@
       "body": "**Peer-reviewed article, Scientific Reports, 2023 (open access).** Verified via\nthe Nature record and PMC (PMC10147620); the fetch hit an IdP redirect but\ncitation and result are confirmed from the indexed record and abstract.\n\nReports a second, independent buried olive — a shrub carbonised in life position\non neighbouring Therasia — radiocarbon-dated to the **mid-16th century BCE**,\nslightly younger than the [[source-friedrich-2006|1627–1600 BCE branch]]. The\nauthors read it as support for a high (16th-c) date while noting the persistent\ngap with the archaeological chronology.\n\nA useful stress-test node: a *new primary datum* rather than a review, it nudges\n[[claim-thera-high-chronology]] later within the high-chronology range and\ntightens the case against [[claim-thera-low-chronology]] — showing the graph can\nrepresent evidence that supports one claim while only partly agreeing with an\nallied source.\n",
       "in_cites": 0,
       "out_cites": 1,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "tier": "primary",
+      "traces_to": []
+    },
+    {
+      "id": "source-ehser-2011",
+      "type": "source",
+      "title": "Ehser, Borg & Pernicka 2011 — Provenance of the gold of the Early Bronze Age Nebra Sky Disk",
+      "status": "primary",
+      "confidence": 0.82,
+      "body": "Peer-reviewed geochemical provenance study; abstract fetched this run via the DOI landing page. Primary lab evidence bearing on the material identity of the disc.\n\nUsing LA-ICP-MS, the authors compared the composition of a fragment of the disc gold sun-sheet (the first of three gold-application phases, comprising the sun or full-moon disc, crescent and 32 stars) against 66 native gold particles from Cornish placer and lode deposits. The Carnon placers at Devoran and Feock, when mixed, correlate in trace elements (Co, Ni, Pd, Ag, Sn, Sb) with the sun-sheet gold; earlier comparison with central and southeastern European gold showed no similarity. Lead-isotope comparison of the hoard bronze with 18 Cornish copper ores showed no correlation, excluding Cornwall as the copper source. The paper concludes the first-phase gold likely originates from Cornwall, implying substantial Early Bronze Age metal trade from the British Isles to central Germany.\n\nRelevance to the dating dispute: the disc is analysed as an Early Bronze Age object embedded in an EBA long-distance metal-trade network; the geochemical fingerprinting is part of the material-science case that grounds [[claim-nebra-disc-bronze-age]]. Co-author [[scholar-ernst-pernicka]]. Note this is provenance of raw material, not a direct absolute date of manufacture.\n",
+      "in_cites": 1,
+      "out_cites": 0,
+      "funnel_size": 1,
+      "citogenesis_root": false,
+      "tier": "primary",
+      "traces_to": []
+    },
+    {
+      "id": "source-encyclopedic-dict-archaeology-2021",
+      "type": "source",
+      "title": "Phaistos Disk — entry in the Encyclopedic Dictionary of Archaeology (Springer, 2021)",
+      "status": "secondary",
+      "confidence": 0.8,
+      "body": "Reference entry, Encyclopedic Dictionary of Archaeology, Springer 2021 (DOI 10.1007/978-3-030-58292-0_160440). Fetched via Springer Nature Link this run; the entry definition was returned in full and grounds this note, though the extended article body sits behind a paywall.\n\nThe entry describes the object as mainstream archaeology treats it — a single genuine artifact, no forgery caveat. Verbatim substance: a unique clay disk with stamped inscriptions in a spiral on each face of its 16 cm diameter, found in 1908 at Phaistos, Crete; made of baked clay; signs impressed on the wet clay with a punch or stamp; the world's first typewritten document in the words of John Chadwick (see [[scholar-john-chadwick]]). It records 242 signs in 61 groups, read from the outer edge spiralling inward clockwise.\n\nCrucially for authenticity: the entry states the disk comes from a deposit dated c 1700 BC, which makes it contemporary with the Linear A script — i.e. it is placed by find-context in the Middle Minoan sequence on [[site-minoan-crete]], not treated as an intrusive modern object. This is echo (a reference summary of consensus), not primary excavation data, but it documents that the settled scholarly baseline is authenticity. Supports [[claim-phaistos-disc-authentic]]; does not engage the forgery hypothesis [[claim-phaistos-forgery-hypothesis]].\n",
+      "in_cites": 1,
+      "out_cites": 0,
+      "funnel_size": 1,
+      "citogenesis_root": false,
+      "tier": "secondary",
+      "traces_to": []
+    },
+    {
+      "id": "source-flom-1910",
+      "type": "source",
+      "title": "Flom 1910 — The Kensington Rune-Stone: A Modern Inscription from Douglas County, Minnesota",
+      "status": "secondary",
+      "confidence": 0.85,
+      "body": "**Public-domain scholarly monograph (fetched this run as full text from the Internet Archive; Illinois State Historical Society, 1910).** [[scholar-george-flom]], then of the University of Illinois, gives a philological analysis of the [[claim-kensington-runestone-genuine|Kensington inscription]] under the pointed title A Modern Inscription from Douglas County, Minnesota.\n\n**Stated argument.** Flom notes that the Minnesota Historical Society museum committee which had pronounced the stone genuine included no Scandinavian philologist. Examining the text himself, he concludes that we deal not with a fourteenth-century inscription but with a narrative in a modern dialect recorded in modern runic characters. He shows the vocabulary and grammar to be modern Scandinavian rather than the Old Swedish of 1362 — for instance lager, and the sense journey for resa, are late loans from German absent in the medieval language — and judges the stone a proven forgery.\n\n**Bearing on the claim.** A primary, early, expert linguistic refutation that disputes [[claim-kensington-runestone-genuine]]. Its 1910 date is a strength rather than a weakness: trained philologists rejected the inscription within a decade of its appearance, and later runology has only confirmed the verdict.\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "tier": "secondary",
+      "traces_to": []
+    },
+    {
+      "id": "source-freer-waters-jull-2026",
+      "type": "source",
+      "title": "Freer-Waters & Jull 2026 — Analysis of textile fragments from the 1988 radiocarbon samples of the Turin Shroud (npj Heritage Science 14:263)",
+      "status": "primary",
+      "confidence": 0.9,
+      "body": "**Peer-reviewed, open-access article, npj Heritage Science, 18 April 2026.** Full HTML fetched this run via the DOI; abstract and introduction extracted and grounded this note.\n\nThe authors physically examine two leftover linen fragments from the very material the University of Arizona cut for the 1988 dating (see [[source-damon-1989-nature]]), comparing them microscopically against the control textiles distributed to the labs. Co-author [[scholar-timothy-jull]] ran the Arizona AMS work in 1988, so this is a direct test of the sampled material itself. The abstract's finding: the analyzed fragments are 'consistent with the main body of the Shroud and show no evidence of contamination' — no cotton, no spliced-in dyed or gummed medieval repair yarn, i.e. no microscopic sign of the 'invisible reweave' proposed to explain a spuriously young date.\n\nThis is primary physical evidence bearing directly on [[claim-shroud-repair-sample-objection]]: it disputes the reweave/repair variant of that objection for the actually-dated corner, while the statistical-heterogeneity variant (see [[source-riani-2013-heterogeneity]]) is untouched by it. It therefore reinforces the medieval result and the refutation of [[claim-shroud-turin-first-century]]. Weight it as one line of evidence: it examines small fragments, and reweave proponents dispute whether these came from the exact dated thread.\n",
+      "in_cites": 0,
+      "out_cites": 0,
       "funnel_size": 0,
       "citogenesis_root": false,
       "tier": "primary",
@@ -1316,6 +1792,34 @@
         "source-bruins-2009"
       ],
       "tier": "primary",
+      "traces_to": []
+    },
+    {
+      "id": "source-ghirotto-2013",
+      "type": "source",
+      "title": "Ghirotto et al. 2013 — Origins and Evolution of the Etruscans' mtDNA",
+      "status": "primary",
+      "confidence": 0.7,
+      "body": "**Open-access full text (fetched this run; PLOS ONE, PMC3566088).** An mitochondrial-DNA study combining hypervariable-region sequences from 14 newly typed Etruscan individuals with other ancient Etruscan and Medieval samples and 4,910 modern Mediterranean individuals, analysed against millions of coalescent computer simulations — an independent, earlier method from the genome-wide transect of [[source-posth-2021]].\n\n**Key findings from the fetched text.** The Etruscans can be considered ancestral, with high confidence, to present-day inhabitants of the Tuscan communities of Casentino and Volterra, but not to the general modern population of the former Etruscan homeland. Critically, the authors estimate that the genetic links between Tuscany and Anatolia date back at least 5,000 years — i.e. to the Neolithic — strongly suggesting that the Etruscan culture developed LOCALLY and not as an immediate consequence of recent immigration from the eastern Mediterranean.\n\n**Provenance note.** This is an independent line of evidence (maternal mtDNA + simulation) reaching the same conclusion as the later genome-wide data, so the refutation of a recent Anatolian migration does not rest on a single study. Any Anatolian genetic signal is deep-time (Neolithic), not Iron Age. This source disputes [[claim-etruscan-anatolian-origin]].\n",
+      "in_cites": 2,
+      "out_cites": 0,
+      "funnel_size": 2,
+      "citogenesis_root": false,
+      "tier": "primary",
+      "traces_to": []
+    },
+    {
+      "id": "source-gove-1990-assessment",
+      "type": "source",
+      "title": "Gove 1990 — Dating the Turin Shroud: An Assessment (Radiocarbon 32:87-92)",
+      "status": "secondary",
+      "confidence": 0.9,
+      "body": "**Peer-reviewed assessment, Radiocarbon, 1990.** The Cambridge Core landing page was fetched this run via the DOI; the full abstract and reference list were extracted and grounded this note (full PDF is gated but the abstract carries the quantitative findings).\n\nHarry Gove was a co-inventor of AMS radiocarbon dating and an outside observer of the Shroud project, which makes this an informed independent appraisal rather than a self-report by the dating teams. The abstract confirms the headline numbers of [[source-damon-1989-nature]]: 'a calibrated calendar age range of AD 1260-1390 for the linen of the Turin shroud at a 95% confidence level,' measured independently at Arizona, Oxford, and ETH Zurich with British Museum support. Gove concludes the results are 'credible' despite noting that procedures diverged from those recommended at the Pontifical Academy of Sciences workshop, and he catalogues 'many doubts... both real and fanciful' that had been raised.\n\nThis is a secondary source (an assessment of the primary measurement, not a new measurement), but a high-quality one from an authority with no stake in the outcome. It corroborates the medieval date and thus supports the refutation of [[claim-shroud-turin-first-century]]. Its candid airing of doubts is also the honest counterweight recorded under [[claim-shroud-repair-sample-objection]].\n",
+      "in_cites": 1,
+      "out_cites": 0,
+      "funnel_size": 1,
+      "citogenesis_root": false,
+      "tier": "secondary",
       "traces_to": []
     },
     {
@@ -1526,6 +2030,34 @@
       ]
     },
     {
+      "id": "source-pernicka-2020",
+      "type": "source",
+      "title": "Pernicka et al. 2020 — Why the Nebra Sky Disc Dates to the Early Bronze Age",
+      "status": "primary",
+      "confidence": 0.86,
+      "body": "Interdisciplinary overview and point-by-point rebuttal, published in Archaeologia Austriaca 104/2020; article landing page and abstract fetched this run via the DOI. It responds directly to the Iron-Age reattribution proposed by Gebhard and Krause (2020), which underlies [[claim-nebra-iron-age-challenge]].\n\nKey points grounded in the fetched text. The authors concede the epistemic weakness at the heart of the case: since the Nebra Sky Disc is a unique find that was not recovered during a controlled excavation, it can neither be dated by traditional typological methods nor prima facie by its appearance, and there is no scientific method yet available to date copper alloys exactly. The Early Bronze Age date was therefore established by reconstructing the find context and by analysing the accompanying finds (two swords, axes, bracelets, a chisel) that are typologically and radiocarbon dated to around 1600 BC.\n\nAgainst the challenge they argue: the Mittelberg find location was excavated in great detail and multiple scientific analyses confirmed the looters court-trial testimony that the disc had been buried there together with the hoard; these same analyses had earlier disproved the claim that the disc was a modern fake. They state that the Gebhard and Krause argument is based on early published and unpublished material used and cited selectively, ignores a substantial number of subsequent publications, and rests on a distortion of the evidence derived both in the court trial and by scientific analyses, combined with a superficial typological discussion of the imagery. Sediment (corrosion-attachment) analysis, gold chemistry and lead-isotope work are cited as tying the disc to the hoard and the site.\n\nThis is the principal published rebuttal; it supports [[claim-nebra-disc-bronze-age]] and disputes [[claim-nebra-iron-age-challenge]]. Lead author [[scholar-ernst-pernicka]]; the challenged authors are treated at [[scholar-gebhard-krause]]. Findspot: [[site-nebra-mittelberg]].\n",
+      "in_cites": 2,
+      "out_cites": 0,
+      "funnel_size": 2,
+      "citogenesis_root": false,
+      "tier": "primary",
+      "traces_to": []
+    },
+    {
+      "id": "source-peters-2020-domestication",
+      "type": "source",
+      "title": "Peters, Schmidt, L. Dietrich, O. Dietrich, Pollath, Kinzel & Clare 2020 - Gobekli Tepe: Agriculture and Domestication",
+      "status": "review",
+      "confidence": 0.8,
+      "body": "Review / reference synthesis by the excavation and archaeozoology team. Fetched this run as HTML from Springer Nature Link via the DOI; only the open preview was accessible (the State of Knowledge and Current Debates opening section plus the full reference list), so the note is grounded on that preview, not the paywalled body.\n\nThe entry is explicitly titled Agriculture and Domestication and is framed as State of Knowledge and Current Debates, which establishes that the agricultural and domestication status of the [[site-gobekli-tepe]] community is treated as a live scholarly question by the excavators themselves. The preview confirms the site setting (Germus range, ca. 770 m asl over the Harran plain, a 15 m mound ca. 300 m across), that the megalithic architecture was unrecognised until Klaus Schmidt's 1994 discovery, that excavation began in 1995, and that the site is best known for monumental round-oval buildings 10-30 m across.\n\nRole for this investigation: it supports [[claim-gobekli-tepe-pre-agricultural]] while carrying its central nuance, namely the ongoing debate over whether the builders were pure foragers or very early cultivators. Authored by [[scholar-klaus-schmidt]], [[scholar-oliver-dietrich]] and colleagues. Secondary/review status: a survey of the evidence rather than a primary excavation datum, and only the preview was verifiable this run.\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "tier": "primary",
+      "traces_to": []
+    },
+    {
       "id": "source-pichler-schiering-1977",
       "type": "source",
       "title": "Pichler & Schiering 1977 — The Thera eruption and Late Minoan-IB destructions on Crete",
@@ -1554,6 +2086,48 @@
       "traces_to": []
     },
     {
+      "id": "source-posth-2021",
+      "type": "source",
+      "title": "Posth et al. 2021 — The origin and legacy of the Etruscans through a 2000-year archeogenomic time transect",
+      "status": "primary",
+      "confidence": 0.8,
+      "body": "**Open-access full text (fetched this run; Science Advances, PMC8462907).** A genome-wide ancient-DNA time transect of 82 individuals spanning roughly 800 BCE to 1000 CE across Etruria and southern Italy — the largest direct genetic sampling of Etruscan-associated populations to date.\n\n**Key findings from the fetched text.** During the Iron Age the putative non-Indo-European-speaking Etruscans carry a component of Indo-European-associated steppe ancestry and show a LACK of recent Anatolian-related admixture. The authors state that the Etruscan-related gene pool does not seem to have originated from recent population movements from the Near East, and that Etruscans carry a local genetic profile shared with neighbouring populations such as the Latins of Rome and its environs, despite the cultural and linguistic differences between the two groups. The local gene pool is largely maintained across the first millennium BCE; a population-wide shift to about 50 percent eastern-Mediterranean admixture appears only later, in the Roman Imperial period.\n\n**On the language.** The paper explicitly flags that the persistence of a probable non-Indo-European language isolate surrounded by Italic Indo-European-speaking groups such as the Latins is an intriguing and still unexplained phenomenon requiring further archaeological, historical-linguistic, and genetic investigation. Genetics therefore refutes a RECENT demic migration but does not by itself explain the language.\n\nThis fetched source disputes [[claim-etruscan-anatolian-origin]] and is cited by [[claim-etruscan-language-origin]]. Lead author: [[scholar-cosimo-posth]].\n",
+      "in_cites": 2,
+      "out_cites": 0,
+      "funnel_size": 2,
+      "citogenesis_root": false,
+      "tier": "primary",
+      "traces_to": []
+    },
+    {
+      "id": "source-reczko-2009",
+      "type": "source",
+      "title": "Reczko 2009 — Analyzing and dating the structure of the Phaistos Disk",
+      "status": "secondary",
+      "confidence": 0.45,
+      "body": "Peer-reviewed open-access article, Archaeological and Anthropological Sciences 2009 (DOI 10.1007/s12520-009-0015-2). Full text fetched and stored this run.\n\nUSE WITH CARE: the paper's own thesis is fringe — it argues disk side A encodes a Saros eclipse cycle beginning 1377 BCE computed for the Phaistos latitude. That decipherment-style claim is not accepted and this note does NOT endorse it. It is cited here only for its uncontested descriptive and bibliographic content, which it reports reliably.\n\nWhat it grounds: the disk is a clay object about 16 cm across and 1 cm thick, excavated by Luigi Pernier in 1908 in the ruins of the Phaistos Palace on [[site-minoan-crete]], carrying 241-242 undeciphered stamped signs in roughly 61 boxes over two sides. It compiles the mainstream dating attributions: Arthur Evans 1921 (see [[scholar-arthur-evans]]); Yves Duhoux 1977 dates it between 1850 and 1600 BC; Louis Godart 1995 (see [[scholar-louis-godart]]) dates it anywhere in Middle/Late Minoan. Every cited authority treats the disk as a genuine Bronze Age artifact — none entertains forgery. Mentions [[claim-phaistos-disc-authentic]].\n",
+      "in_cites": 1,
+      "out_cites": 0,
+      "funnel_size": 1,
+      "citogenesis_root": false,
+      "tier": "secondary",
+      "traces_to": []
+    },
+    {
+      "id": "source-riani-2013-heterogeneity",
+      "type": "source",
+      "title": "Riani, Atkinson, Fanti & Crosilla 2013 — Carbon dating of the Shroud: regression with partially labelled regressors (Statistics and Computing 23:551-561)",
+      "status": "secondary",
+      "confidence": 0.8,
+      "body": "**Peer-reviewed statistical reanalysis, Statistics and Computing, 2013.** The Springer landing page was fetched this run via the DOI; the full abstract and reference list were extracted and grounded this note (full text gated, but the abstract states the method and finding).\n\nThe authors re-examine the twelve individual subsample results behind [[source-damon-1989-nature]]. The abstract reports that these 'show surprising heterogeneity' — more scatter than the quoted counting-statistics uncertainties allow (the 1988 chi-squared homogeneity test was already borderline). Modelling the results by regression on the samples' spatial coordinates across all 387,072 plausible subsample allocations, they 'establish the existence of a trend in the results': measured age appears to vary systematically with position along the sampled strip. They argue better experimental design (multiple, spatially separated samples) would have permitted stronger conclusions.\n\nThis is the strongest peer-reviewed support for the sub-claim [[claim-shroud-repair-sample-objection]]: a spatial gradient is consistent with the sampled corner being non-representative (e.g. an admixture of later material). Crucially, the paper does NOT establish a 1st-century date and does not overturn the medieval result for the sampled material — it argues the single-corner sample cannot be assumed representative of the whole cloth. So it disputes the sufficiency of the 1988 sampling, not the measurement itself; it does not support [[claim-shroud-turin-first-century]]. Co-author Fanti is a known Shroud-authenticity advocate, a source of interpretive bias to weigh; co-authors Riani and Atkinson are mainstream robust-statistics methodologists.\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "tier": "secondary",
+      "traces_to": []
+    },
+    {
       "id": "source-schliemann-mycenae-1878",
       "type": "source",
       "title": "Schliemann 1878 — Mycenae: A Narrative of Researches and Discoveries at Mycenae and Tiryns",
@@ -1568,6 +2142,20 @@
       "traces_to": [
         "scholar-heinrich-schliemann"
       ]
+    },
+    {
+      "id": "source-schmidt-2000",
+      "type": "source",
+      "title": "Schmidt 2000 - Gobekli Tepe, Southeastern Turkey. A Preliminary Report on the 1995-1999 Excavations",
+      "status": "primary",
+      "confidence": 0.9,
+      "body": "Primary excavation report. Fetched this run as open-access HTML from the Persee landing page (persee.fr) via the DOI; the article page and its keyword set and introduction grounded this note.\n\nThis is the excavator's first published account of the 1995-1999 excavations at [[site-gobekli-tepe]]. The keyword set (Upper Mesopotamia, Fertile Crescent, Golden Triangle, PPN, Neolithization, Megaliths, Pillars, Religion) situates the site in the Pre-Pottery Neolithic and frames its megalithic pillars as evidence for early cult. The introduction traces the site from Peter Benedict's 1960s Istanbul-Chicago survey (recorded as V52/1, a flint-littered limestone ridge) to Schmidt's own recognition of buried monumental architecture.\n\nAs the foundational primary report by [[scholar-klaus-schmidt]], it anchors the PPN dating and monumental character that underpin [[claim-gobekli-tepe-pre-agricultural]]. Note: the Persee record mis-lists the author initial as Katja; the excavator and author is Klaus Schmidt. Primary field evidence, not an echo. (Only the landing page and introduction were extracted this run; the full descriptive text of the enclosures was not captured.)\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "tier": "primary",
+      "traces_to": []
     },
     {
       "id": "source-schurr-2019",
@@ -1853,6 +2441,46 @@
       "rel": "mentions"
     },
     {
+      "source": "claim-etruscan-anatolian-origin",
+      "target": "source-posth-2021",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-etruscan-anatolian-origin",
+      "target": "source-ghirotto-2013",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-etruscan-anatolian-origin",
+      "target": "claim-etruscan-language-origin",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-etruscan-anatolian-origin",
+      "target": "scholar-herodotus",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-etruscan-anatolian-origin",
+      "target": "scholar-dionysius-of-halicarnassus",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-etruscan-language-origin",
+      "target": "source-posth-2021",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-etruscan-language-origin",
+      "target": "source-ghirotto-2013",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-etruscan-language-origin",
+      "target": "claim-etruscan-anatolian-origin",
+      "rel": "mentions"
+    },
+    {
       "source": "claim-exodus-historical",
       "target": "source-bosman-2002",
       "rel": "cites"
@@ -1895,6 +2523,66 @@
     {
       "source": "claim-exodus-small-kernel",
       "target": "claim-exodus-historical",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-gobekli-tepe-pre-agricultural",
+      "target": "site-gobekli-tepe",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-gobekli-tepe-pre-agricultural",
+      "target": "scholar-klaus-schmidt",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-gobekli-tepe-pre-agricultural",
+      "target": "scholar-oliver-dietrich",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-gobekli-tepe-pre-agricultural",
+      "target": "source-schmidt-2000",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-gobekli-tepe-pre-agricultural",
+      "target": "source-dietrich-2012-antiquity",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-gobekli-tepe-pre-agricultural",
+      "target": "source-peters-2020-domestication",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-kensington-runestone-genuine",
+      "target": "site-kensington-minnesota",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-kensington-runestone-genuine",
+      "target": "scholar-george-flom",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-kensington-runestone-genuine",
+      "target": "source-flom-1910",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-kensington-runestone-genuine",
+      "target": "source-anderson-1920",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-kensington-runestone-genuine",
+      "target": "scholar-henrik-williams",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-kensington-runestone-genuine",
+      "target": "scholar-hjalmar-holand",
       "rel": "mentions"
     },
     {
@@ -2158,6 +2846,66 @@
       "rel": "mentions"
     },
     {
+      "source": "claim-nebra-disc-bronze-age",
+      "target": "source-pernicka-2020",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-nebra-disc-bronze-age",
+      "target": "source-ehser-2011",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-nebra-disc-bronze-age",
+      "target": "source-dieck-2024",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-nebra-disc-bronze-age",
+      "target": "claim-nebra-iron-age-challenge",
+      "rel": "disputes"
+    },
+    {
+      "source": "claim-nebra-disc-bronze-age",
+      "target": "site-nebra-mittelberg",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-nebra-disc-bronze-age",
+      "target": "scholar-ernst-pernicka",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-nebra-disc-bronze-age",
+      "target": "scholar-gebhard-krause",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-nebra-iron-age-challenge",
+      "target": "claim-nebra-disc-bronze-age",
+      "rel": "disputes"
+    },
+    {
+      "source": "claim-nebra-iron-age-challenge",
+      "target": "source-pernicka-2020",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-nebra-iron-age-challenge",
+      "target": "scholar-gebhard-krause",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-nebra-iron-age-challenge",
+      "target": "site-nebra-mittelberg",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-nebra-iron-age-challenge",
+      "target": "scholar-ernst-pernicka",
+      "rel": "mentions"
+    },
+    {
       "source": "claim-norse-precolumbian-america",
       "target": "site-lanse-aux-meadows",
       "rel": "mentions"
@@ -2180,6 +2928,61 @@
     {
       "source": "claim-norse-precolumbian-america",
       "target": "source-kuitems-2021",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-phaistos-disc-authentic",
+      "target": "source-encyclopedic-dict-archaeology-2021",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-phaistos-disc-authentic",
+      "target": "source-reczko-2009",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-phaistos-disc-authentic",
+      "target": "claim-phaistos-forgery-hypothesis",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-phaistos-disc-authentic",
+      "target": "scholar-luigi-pernier",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-phaistos-disc-authentic",
+      "target": "scholar-louis-godart",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-phaistos-disc-authentic",
+      "target": "scholar-arthur-evans",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-phaistos-disc-authentic",
+      "target": "site-minoan-crete",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-phaistos-forgery-hypothesis",
+      "target": "claim-phaistos-disc-authentic",
+      "rel": "disputes"
+    },
+    {
+      "source": "claim-phaistos-forgery-hypothesis",
+      "target": "scholar-jerome-eisenberg",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-phaistos-forgery-hypothesis",
+      "target": "scholar-luigi-pernier",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-phaistos-forgery-hypothesis",
+      "target": "site-minoan-crete",
       "rel": "mentions"
     },
     {
@@ -2235,6 +3038,56 @@
     {
       "source": "claim-sea-peoples-egyptian-attestation",
       "target": "site-ugarit",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-shroud-repair-sample-objection",
+      "target": "claim-shroud-turin-first-century",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-shroud-repair-sample-objection",
+      "target": "source-damon-1989-nature",
+      "rel": "disputes"
+    },
+    {
+      "source": "claim-shroud-repair-sample-objection",
+      "target": "source-riani-2013-heterogeneity",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-shroud-repair-sample-objection",
+      "target": "scholar-marco-riani",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-shroud-repair-sample-objection",
+      "target": "source-freer-waters-jull-2026",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-shroud-turin-first-century",
+      "target": "source-damon-1989-nature",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-shroud-turin-first-century",
+      "target": "source-gove-1990-assessment",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-shroud-turin-first-century",
+      "target": "claim-shroud-repair-sample-objection",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-shroud-turin-first-century",
+      "target": "source-riani-2013-heterogeneity",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-shroud-turin-first-century",
+      "target": "source-freer-waters-jull-2026",
       "rel": "mentions"
     },
     {
@@ -2643,6 +3496,21 @@
       "rel": "mentions"
     },
     {
+      "source": "scholar-cosimo-posth",
+      "target": "source-posth-2021",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-cosimo-posth",
+      "target": "claim-etruscan-anatolian-origin",
+      "rel": "disputes"
+    },
+    {
+      "source": "scholar-cosimo-posth",
+      "target": "claim-etruscan-language-origin",
+      "rel": "mentions"
+    },
+    {
       "source": "scholar-david-traill",
       "target": "scholar-heinrich-schliemann",
       "rel": "mentions"
@@ -2675,6 +3543,26 @@
     {
       "source": "scholar-derek-de-solla-price",
       "target": "scholar-tony-freeth",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-dionysius-of-halicarnassus",
+      "target": "claim-etruscan-anatolian-origin",
+      "rel": "disputes"
+    },
+    {
+      "source": "scholar-dionysius-of-halicarnassus",
+      "target": "scholar-herodotus",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-dionysius-of-halicarnassus",
+      "target": "source-posth-2021",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-dionysius-of-halicarnassus",
+      "target": "source-ghirotto-2013",
       "rel": "mentions"
     },
     {
@@ -2713,6 +3601,26 @@
       "rel": "mentions"
     },
     {
+      "source": "scholar-ernst-pernicka",
+      "target": "claim-nebra-disc-bronze-age",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-ernst-pernicka",
+      "target": "claim-nebra-iron-age-challenge",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-ernst-pernicka",
+      "target": "source-ehser-2011",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-ernst-pernicka",
+      "target": "source-pernicka-2020",
+      "rel": "mentions"
+    },
+    {
       "source": "scholar-frank-kolb",
       "target": "site-troy-hisarlik",
       "rel": "mentions"
@@ -2725,6 +3633,36 @@
     {
       "source": "scholar-frank-kolb",
       "target": "source-kolb-2005",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-gebhard-krause",
+      "target": "claim-nebra-iron-age-challenge",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-gebhard-krause",
+      "target": "claim-nebra-disc-bronze-age",
+      "rel": "disputes"
+    },
+    {
+      "source": "scholar-gebhard-krause",
+      "target": "scholar-ernst-pernicka",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-gebhard-krause",
+      "target": "source-pernicka-2020",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-george-flom",
+      "target": "claim-kensington-runestone-genuine",
+      "rel": "disputes"
+    },
+    {
+      "source": "scholar-george-flom",
+      "target": "source-flom-1910",
       "rel": "mentions"
     },
     {
@@ -2798,6 +3736,46 @@
       "rel": "cites"
     },
     {
+      "source": "scholar-henrik-williams",
+      "target": "claim-kensington-runestone-genuine",
+      "rel": "disputes"
+    },
+    {
+      "source": "scholar-herodotus",
+      "target": "claim-etruscan-anatolian-origin",
+      "rel": "supports"
+    },
+    {
+      "source": "scholar-herodotus",
+      "target": "scholar-dionysius-of-halicarnassus",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-herodotus",
+      "target": "source-posth-2021",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-herodotus",
+      "target": "source-ghirotto-2013",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-hjalmar-holand",
+      "target": "claim-kensington-runestone-genuine",
+      "rel": "supports"
+    },
+    {
+      "source": "scholar-hjalmar-holand",
+      "target": "scholar-george-flom",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-hjalmar-holand",
+      "target": "source-anderson-1920",
+      "rel": "mentions"
+    },
+    {
       "source": "scholar-iosif-lazaridis",
       "target": "claim-dorian-no-population-signature",
       "rel": "supports"
@@ -2820,6 +3798,21 @@
     {
       "source": "scholar-israel-finkelstein",
       "target": "scholar-william-dever",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-jerome-eisenberg",
+      "target": "claim-phaistos-forgery-hypothesis",
+      "rel": "supports"
+    },
+    {
+      "source": "scholar-jerome-eisenberg",
+      "target": "claim-phaistos-disc-authentic",
+      "rel": "disputes"
+    },
+    {
+      "source": "scholar-jerome-eisenberg",
+      "target": "scholar-luigi-pernier",
       "rel": "mentions"
     },
     {
@@ -2878,6 +3871,56 @@
       "rel": "mentions"
     },
     {
+      "source": "scholar-klaus-schmidt",
+      "target": "site-gobekli-tepe",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-klaus-schmidt",
+      "target": "source-schmidt-2000",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-klaus-schmidt",
+      "target": "source-dietrich-2012-antiquity",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-klaus-schmidt",
+      "target": "claim-gobekli-tepe-pre-agricultural",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-louis-godart",
+      "target": "claim-phaistos-disc-authentic",
+      "rel": "supports"
+    },
+    {
+      "source": "scholar-louis-godart",
+      "target": "site-minoan-crete",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-louis-godart",
+      "target": "source-reczko-2009",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-luigi-pernier",
+      "target": "claim-phaistos-disc-authentic",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-luigi-pernier",
+      "target": "claim-phaistos-forgery-hypothesis",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-luigi-pernier",
+      "target": "site-minoan-crete",
+      "rel": "mentions"
+    },
+    {
       "source": "scholar-manfred-korfmann",
       "target": "site-troy-hisarlik",
       "rel": "mentions"
@@ -2905,6 +3948,16 @@
     {
       "source": "scholar-manolis-andronikos",
       "target": "site-tomb-ii",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-marco-riani",
+      "target": "source-riani-2013-heterogeneity",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-marco-riani",
+      "target": "claim-shroud-repair-sample-objection",
       "rel": "mentions"
     },
     {
@@ -2953,6 +4006,31 @@
       "rel": "disputes"
     },
     {
+      "source": "scholar-oliver-dietrich",
+      "target": "site-gobekli-tepe",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-oliver-dietrich",
+      "target": "scholar-klaus-schmidt",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-oliver-dietrich",
+      "target": "source-dietrich-2012-antiquity",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-oliver-dietrich",
+      "target": "source-peters-2020-domestication",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-oliver-dietrich",
+      "target": "claim-gobekli-tepe-pre-agricultural",
+      "rel": "mentions"
+    },
+    {
       "source": "scholar-peter-warren",
       "target": "site-minoan-crete",
       "rel": "mentions"
@@ -2995,6 +4073,26 @@
     {
       "source": "scholar-sturt-manning",
       "target": "scholar-antonis-bartsiokas",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-timothy-jull",
+      "target": "source-damon-1989-nature",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-timothy-jull",
+      "target": "source-freer-waters-jull-2026",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-timothy-jull",
+      "target": "claim-shroud-turin-first-century",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-timothy-jull",
+      "target": "claim-shroud-repair-sample-objection",
       "rel": "mentions"
     },
     {
@@ -3118,6 +4216,21 @@
       "rel": "mentions"
     },
     {
+      "source": "site-gobekli-tepe",
+      "target": "scholar-klaus-schmidt",
+      "rel": "mentions"
+    },
+    {
+      "source": "site-gobekli-tepe",
+      "target": "scholar-oliver-dietrich",
+      "rel": "mentions"
+    },
+    {
+      "source": "site-gobekli-tepe",
+      "target": "claim-gobekli-tepe-pre-agricultural",
+      "rel": "mentions"
+    },
+    {
       "source": "site-great-tumulus",
       "target": "site-tomb-i",
       "rel": "cites"
@@ -3135,6 +4248,11 @@
     {
       "source": "site-great-tumulus",
       "target": "scholar-manolis-andronikos",
+      "rel": "mentions"
+    },
+    {
+      "source": "site-kensington-minnesota",
+      "target": "claim-kensington-runestone-genuine",
       "rel": "mentions"
     },
     {
@@ -3205,6 +4323,21 @@
     {
       "source": "site-mycenae",
       "target": "source-manning-weninger-1992",
+      "rel": "mentions"
+    },
+    {
+      "source": "site-nebra-mittelberg",
+      "target": "claim-nebra-disc-bronze-age",
+      "rel": "mentions"
+    },
+    {
+      "source": "site-nebra-mittelberg",
+      "target": "claim-nebra-iron-age-challenge",
+      "rel": "mentions"
+    },
+    {
+      "source": "site-nebra-mittelberg",
+      "target": "source-pernicka-2020",
       "rel": "mentions"
     },
     {
@@ -3310,6 +4443,21 @@
     {
       "source": "site-ugarit",
       "target": "scholar-eric-cline",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-anderson-1920",
+      "target": "claim-kensington-runestone-genuine",
+      "rel": "disputes"
+    },
+    {
+      "source": "source-anderson-1920",
+      "target": "scholar-hjalmar-holand",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-anderson-1920",
+      "target": "source-flom-1910",
       "rel": "mentions"
     },
     {
@@ -3468,6 +4616,76 @@
       "rel": "mentions"
     },
     {
+      "source": "source-damon-1989-nature",
+      "target": "claim-shroud-turin-first-century",
+      "rel": "disputes"
+    },
+    {
+      "source": "source-damon-1989-nature",
+      "target": "scholar-timothy-jull",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-damon-1989-nature",
+      "target": "source-gove-1990-assessment",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-damon-1989-nature",
+      "target": "source-riani-2013-heterogeneity",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-damon-1989-nature",
+      "target": "claim-shroud-repair-sample-objection",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-damon-1989-nature",
+      "target": "source-freer-waters-jull-2026",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-dieck-2024",
+      "target": "claim-nebra-disc-bronze-age",
+      "rel": "supports"
+    },
+    {
+      "source": "source-dieck-2024",
+      "target": "site-nebra-mittelberg",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-dieck-2024",
+      "target": "scholar-ernst-pernicka",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-dieck-2024",
+      "target": "source-pernicka-2020",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-dietrich-2012-antiquity",
+      "target": "claim-gobekli-tepe-pre-agricultural",
+      "rel": "supports"
+    },
+    {
+      "source": "source-dietrich-2012-antiquity",
+      "target": "site-gobekli-tepe",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-dietrich-2012-antiquity",
+      "target": "scholar-oliver-dietrich",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-dietrich-2012-antiquity",
+      "target": "scholar-klaus-schmidt",
+      "rel": "mentions"
+    },
+    {
       "source": "source-easton-1994",
       "target": "claim-mask-authenticity-dispute",
       "rel": "supports"
@@ -3498,6 +4716,71 @@
       "rel": "mentions"
     },
     {
+      "source": "source-ehser-2011",
+      "target": "claim-nebra-disc-bronze-age",
+      "rel": "supports"
+    },
+    {
+      "source": "source-ehser-2011",
+      "target": "scholar-ernst-pernicka",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-encyclopedic-dict-archaeology-2021",
+      "target": "claim-phaistos-disc-authentic",
+      "rel": "supports"
+    },
+    {
+      "source": "source-encyclopedic-dict-archaeology-2021",
+      "target": "site-minoan-crete",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-encyclopedic-dict-archaeology-2021",
+      "target": "scholar-john-chadwick",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-encyclopedic-dict-archaeology-2021",
+      "target": "claim-phaistos-forgery-hypothesis",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-flom-1910",
+      "target": "claim-kensington-runestone-genuine",
+      "rel": "disputes"
+    },
+    {
+      "source": "source-flom-1910",
+      "target": "scholar-george-flom",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-freer-waters-jull-2026",
+      "target": "claim-shroud-repair-sample-objection",
+      "rel": "disputes"
+    },
+    {
+      "source": "source-freer-waters-jull-2026",
+      "target": "source-damon-1989-nature",
+      "rel": "supports"
+    },
+    {
+      "source": "source-freer-waters-jull-2026",
+      "target": "scholar-timothy-jull",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-freer-waters-jull-2026",
+      "target": "source-riani-2013-heterogeneity",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-freer-waters-jull-2026",
+      "target": "claim-shroud-turin-first-century",
+      "rel": "mentions"
+    },
+    {
       "source": "source-freeth-2006-nature",
       "target": "claim-antikythera-astronomical-computer",
       "rel": "supports"
@@ -3551,6 +4834,31 @@
       "source": "source-friedrich-2006",
       "target": "site-akrotiri-thera",
       "rel": "cites"
+    },
+    {
+      "source": "source-ghirotto-2013",
+      "target": "claim-etruscan-anatolian-origin",
+      "rel": "disputes"
+    },
+    {
+      "source": "source-ghirotto-2013",
+      "target": "source-posth-2021",
+      "rel": "supports"
+    },
+    {
+      "source": "source-gove-1990-assessment",
+      "target": "claim-shroud-turin-first-century",
+      "rel": "disputes"
+    },
+    {
+      "source": "source-gove-1990-assessment",
+      "target": "source-damon-1989-nature",
+      "rel": "supports"
+    },
+    {
+      "source": "source-gove-1990-assessment",
+      "target": "claim-shroud-repair-sample-objection",
+      "rel": "mentions"
     },
     {
       "source": "source-hansen-1997",
@@ -3823,6 +5131,51 @@
       "rel": "mentions"
     },
     {
+      "source": "source-pernicka-2020",
+      "target": "claim-nebra-disc-bronze-age",
+      "rel": "supports"
+    },
+    {
+      "source": "source-pernicka-2020",
+      "target": "claim-nebra-iron-age-challenge",
+      "rel": "disputes"
+    },
+    {
+      "source": "source-pernicka-2020",
+      "target": "scholar-ernst-pernicka",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-pernicka-2020",
+      "target": "scholar-gebhard-krause",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-pernicka-2020",
+      "target": "site-nebra-mittelberg",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-peters-2020-domestication",
+      "target": "claim-gobekli-tepe-pre-agricultural",
+      "rel": "supports"
+    },
+    {
+      "source": "source-peters-2020-domestication",
+      "target": "site-gobekli-tepe",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-peters-2020-domestication",
+      "target": "scholar-klaus-schmidt",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-peters-2020-domestication",
+      "target": "scholar-oliver-dietrich",
+      "rel": "mentions"
+    },
+    {
       "source": "source-pichler-schiering-1977",
       "target": "claim-thera-destroyed-minoans",
       "rel": "disputes"
@@ -3853,6 +5206,61 @@
       "rel": "mentions"
     },
     {
+      "source": "source-posth-2021",
+      "target": "claim-etruscan-anatolian-origin",
+      "rel": "disputes"
+    },
+    {
+      "source": "source-posth-2021",
+      "target": "claim-etruscan-language-origin",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-posth-2021",
+      "target": "scholar-cosimo-posth",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-reczko-2009",
+      "target": "claim-phaistos-disc-authentic",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-reczko-2009",
+      "target": "scholar-arthur-evans",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-reczko-2009",
+      "target": "scholar-louis-godart",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-reczko-2009",
+      "target": "site-minoan-crete",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-riani-2013-heterogeneity",
+      "target": "claim-shroud-repair-sample-objection",
+      "rel": "supports"
+    },
+    {
+      "source": "source-riani-2013-heterogeneity",
+      "target": "source-damon-1989-nature",
+      "rel": "disputes"
+    },
+    {
+      "source": "source-riani-2013-heterogeneity",
+      "target": "scholar-marco-riani",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-riani-2013-heterogeneity",
+      "target": "claim-shroud-turin-first-century",
+      "rel": "mentions"
+    },
+    {
       "source": "source-schliemann-mycenae-1878",
       "target": "claim-mask-of-agamemnon",
       "rel": "mentions"
@@ -3865,6 +5273,21 @@
     {
       "source": "source-schliemann-mycenae-1878",
       "target": "site-mycenae",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-schmidt-2000",
+      "target": "claim-gobekli-tepe-pre-agricultural",
+      "rel": "supports"
+    },
+    {
+      "source": "source-schmidt-2000",
+      "target": "site-gobekli-tepe",
+      "rel": "mentions"
+    },
+    {
+      "source": "source-schmidt-2000",
+      "target": "scholar-klaus-schmidt",
       "rel": "mentions"
     },
     {
@@ -3999,19 +5422,19 @@
     }
   ],
   "meta": {
-    "node_count": 116,
-    "link_count": 467,
+    "node_count": 160,
+    "link_count": 634,
     "by_type": {
-      "claim": 35,
-      "scholar": 30,
-      "site": 14,
-      "source": 37
+      "claim": 45,
+      "scholar": 45,
+      "site": 17,
+      "source": 53
     },
     "by_rel": {
-      "supports": 59,
-      "mentions": 274,
-      "cites": 93,
-      "disputes": 41
+      "supports": 74,
+      "mentions": 395,
+      "cites": 105,
+      "disputes": 60
     },
     "citogenesis_roots": [
       {

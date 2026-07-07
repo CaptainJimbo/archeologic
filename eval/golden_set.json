@@ -76,6 +76,25 @@
      "rationale": "The Dorian-Invasion-as-cause has no material signature and is superseded by systems-collapse models."},
 
     {"id": "claim-cleopatra-maternal-uncertain", "domain": "ptolemaic", "expected": "contested",
-     "rationale": "The identity of Cleopatra's mother and one grandmother is undocumented; a small non-Greek fraction is unexcludable."}
+     "rationale": "The identity of Cleopatra's mother and one grandmother is undocumented; a small non-Greek fraction is unexcludable."},
+
+    {"id": "claim-gobekli-tepe-pre-agricultural", "domain": "neolithic", "expected": "settled-true",
+     "rationale": "Gobekli Tepe's monumental enclosures are securely PPNA/B (~9500 BCE), predating established agriculture."},
+
+    {"id": "claim-kensington-runestone-genuine", "domain": "norse", "expected": "settled-false",
+     "rationale": "Runologists judge it a modern forgery: 19th-c. language and rune/numeral forms anachronistic for 1362."},
+    {"id": "claim-shroud-turin-first-century", "domain": "relics", "expected": "settled-false",
+     "rationale": "Three-lab 1988 radiocarbon dated the linen to AD 1260-1390; a 1st-century date is refuted."},
+    {"id": "claim-etruscan-anatolian-origin", "domain": "etruscan", "expected": "settled-false",
+     "rationale": "Ancient DNA shows Iron Age Etruscans were genetically local, with no recent Anatolian migration signal."},
+
+    {"id": "claim-shroud-repair-sample-objection", "domain": "relics", "expected": "contested",
+     "rationale": "Statistical heterogeneity of the single sample is published, but the reweave variant is contradicted by microscopy."},
+    {"id": "claim-nebra-iron-age-challenge", "domain": "bronze-age", "expected": "contested",
+     "rationale": "The 2020 Iron-Age/not-from-Nebra proposal is a published, unretracted minority challenge to the EBA consensus."},
+    {"id": "claim-etruscan-language-origin", "domain": "etruscan", "expected": "contested",
+     "rationale": "The non-IE Etruscan language isolate among IE neighbours, with no demic signal, remains unexplained."},
+    {"id": "claim-phaistos-forgery-hypothesis", "domain": "minoan", "expected": "contested",
+     "rationale": "Eisenberg's forgery hypothesis is a real minority view kept unresolvable by the museum's refusal of TL testing."}
   ]
 }
