@@ -2,22 +2,23 @@ name: deploy-pages
 
 # Builds the graph + web app and publishes it to GitHub Pages.
 #
-# ⚠️ Publishing is a PUBLIC, outward-facing action: the built site (including the
-# full wiki content baked into graph.json) becomes visible on the web, even while
-# this repository stays private. It therefore runs ONLY on manual dispatch — it
-# will never publish on a push by itself. To auto-deploy on every push to main
-# later, uncomment the `push:` trigger below.
+# Auto-deploys on every push to main — the wiki is the source of truth, so any
+# change to it (or the tooling/UI) rebuilds graph.json and republishes the live
+# site. Also runnable manually from the Actions tab. Note: the published site
+# bakes the full wiki content into graph.json, so it is public.
 #
-# Prerequisites (one-time):
-#   1. GitHub Pages from a PRIVATE repo requires a paid plan (GitHub Pro is
-#      enough). On the free plan the repo must be public.
-#   2. Repo → Settings → Pages → Build and deployment → Source: "GitHub Actions".
-# Then run this workflow from the Actions tab (Run workflow).
+# Pages source is "GitHub Actions" (repo is public → free). Path filter keeps
+# doc-only tweaks from triggering a pointless redeploy.
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - "wiki/**"
+      - "web/**"
+      - "tools/build_graph.py"
+      - ".github/workflows/deploy-pages.yml"
   workflow_dispatch:
-  # push:
-  #   branches: [main]
 
 permissions:
   contents: read
