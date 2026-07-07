@@ -31,6 +31,15 @@
     {"id": "claim-thera-lmib-gap", "domain": "thera", "expected": "settled-true",
      "rationale": "The chronological separation between the eruption and the LM IB destructions is well established."},
     {"id": "claim-mask-chronological-gap", "domain": "mycenae", "expected": "settled-true",
-     "rationale": "The mask's Late Helladic I date is securely established by grave-goods and Aegean chronology."}
+     "rationale": "The mask's Late Helladic I date is securely established by grave-goods and Aegean chronology."},
+    {"id": "claim-troy-is-hisarlik", "domain": "troy", "expected": "settled-true",
+     "rationale": "The identification of Homer's Troy with the Hisarlik mound is old and effectively uncontested."},
+
+    {"id": "claim-trojan-war-historical", "domain": "troy", "expected": "contested",
+     "rationale": "A historical kernel is plausible but the Iliad's war as described is not documented; specialists disagree."},
+    {"id": "claim-wilusa-is-troy", "domain": "troy", "expected": "contested",
+     "rationale": "Mainstream Anatolian scholarship accepts Wilusa=Ilios, but the equation is seriously challenged."},
+    {"id": "claim-troy-vi-viia-war-destruction", "domain": "troy", "expected": "contested",
+     "rationale": "Troy VI/VIIa ended in destruction, but war vs earthquake vs internal collapse is unresolved."}
   ]
 }

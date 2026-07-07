@@ -195,6 +195,58 @@
       "traces_to": []
     },
     {
+      "id": "claim-trojan-war-historical",
+      "type": "claim",
+      "title": "The Trojan War describes a real historical conflict",
+      "status": "contested",
+      "confidence": 0.45,
+      "body": "**The popular claim.** Homer's *Iliad* preserves the memory of a real war fought by a Greek ([[site-mycenae|Mycenaean]]) coalition against the city of Troy in the Late Bronze Age.\n\n**What is solid.** There was a real settlement at [[site-troy-hisarlik|Hisarlik]], destroyed more than once in the Bronze Age; the Hittite archives attest genuine Mycenaean-Anatolian friction, and one tablet ([[source-hansen-1997]]) may record warfare in Troy's region c. 1240 BC. A historical *kernel* — some conflict, at that place, in that era — is plausible.\n\n**What is not.** The *Iliad* was composed centuries later (8th c. BC) as oral epic. Skeptics push back hard: [[scholar-frank-kolb]] argues LBA Troy was not even a significant city ([[source-kolb-2005]]), and [[source-schurr-2019]] rejects the [[claim-wilusa-is-troy|Wilusa = Troy]] equation the historical case leans on.\n\n**Verdict.** Genuinely contested. A real event *behind* the legend is plausible; the Trojan War *as Homer describes it* is a literary composition, not documented history. Held at 0.45.\n",
+      "in_cites": 0,
+      "out_cites": 4,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
+      "id": "claim-troy-is-hisarlik",
+      "type": "claim",
+      "title": "Homer's Troy is the mound of Hisarlik in NW Anatolia",
+      "status": "supported",
+      "confidence": 0.85,
+      "body": "Homer's Troy/Ilios is identified with the settlement mound of [[site-troy-hisarlik|Hisarlik]] in the Troad. The identification is old (classical Greeks and Romans built Ilion on the spot) and was reinforced by [[scholar-heinrich-schliemann|Schliemann]]'s 1870s digs and all later excavation. This *site* identification is well established and largely uncontested — a separate, easier question from whether LBA Troy was important or whether a war occurred.\n",
+      "in_cites": 1,
+      "out_cites": 1,
+      "funnel_size": 1,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
+      "id": "claim-troy-vi-viia-war-destruction",
+      "type": "claim",
+      "title": "Troy VI/VIIa was destroyed by war around the 13th-12th c. BC",
+      "status": "contested",
+      "confidence": 0.5,
+      "body": "Troy VI / VIIa (~1300-1180 BC) ended in destruction, and some read the evidence — burning, hastily buried dead, sling bullets — as a violent sack that could underlie the epic. [[source-hansen-1997]] ties a Hittite tablet (KUB XXIII.13) recording warfare c. 1240 BC to the fall of Mycenaean Troy VI.\n\nHowever, Bronze-Age destruction layers can equally reflect earthquake or internal collapse, and the phasing/dating is debated; [[scholar-frank-kolb]] is skeptical of reading a Homeric war into the stratigraphy. Contested.\n",
+      "in_cites": 1,
+      "out_cites": 2,
+      "funnel_size": 1,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
+      "id": "claim-wilusa-is-troy",
+      "type": "claim",
+      "title": "The Hittite Wilusa/Taruwisa equals Greek Ilios/Troy",
+      "status": "contested",
+      "confidence": 0.5,
+      "body": "The Hittite toponyms **Wilusa** (and Taru(w)isa) are widely equated with Greek **(W)ilios / Troia**, which would place Homer's Troy inside the documented Hittite world — e.g. the Alaksandu treaty, with Alaksandu of Wilusa compared to Alexandros/Paris. Mainstream Anatolian scholarship (Hawkins, Latacz) accepts the equation; it is a main plank of the historicity case.\n\nBut [[source-schurr-2019]] argues it rests on little more than name-associations, none individually cogent, and that no western kingdom named in Hittite sources has yet been confirmed by excavation. Contested.\n",
+      "in_cites": 1,
+      "out_cites": 1,
+      "funnel_size": 1,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
       "id": "scholar-antonis-bartsiokas",
       "type": "scholar",
       "title": "Antonis Bartsiokas",
@@ -231,6 +283,19 @@
         "source-easton-1994",
         "source-traill-1989"
       ],
+      "traces_to": []
+    },
+    {
+      "id": "scholar-frank-kolb",
+      "type": "scholar",
+      "title": "Frank Kolb",
+      "status": "reference",
+      "confidence": 0.85,
+      "body": "Ancient historian (Tübingen) and the most prominent skeptic of the [[scholar-manfred-korfmann|Korfmann]] 'Troia' picture. He argues Late Bronze Age Troy was a minor settlement, not a major trade metropolis, and that the excavation overinterpreted its finds ([[source-kolb-2005]]) — a leading voice against over-historicizing the Trojan War.\n",
+      "in_cites": 1,
+      "out_cites": 0,
+      "funnel_size": 1,
+      "citogenesis_root": false,
       "traces_to": []
     },
     {
@@ -274,6 +339,19 @@
       "in_cites": 1,
       "out_cites": 0,
       "funnel_size": 2,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
+      "id": "scholar-manfred-korfmann",
+      "type": "scholar",
+      "title": "Manfred Korfmann (1942-2005)",
+      "status": "reference",
+      "confidence": 0.88,
+      "body": "German archaeologist who directed the Troy excavations from 1988. He argued that Late Bronze Age Troy (Troia VI) was a substantial fortified trading city commanding the Dardanelles — a reading that revived the plausibility of a historically significant Troy behind the epic. His interpretation was sharply contested by [[scholar-frank-kolb]].\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
       "citogenesis_root": false,
       "traces_to": []
     },
@@ -419,6 +497,19 @@
       "traces_to": []
     },
     {
+      "id": "site-troy-hisarlik",
+      "type": "site",
+      "title": "Troy / Hisarlik (the Troad, NW Anatolia)",
+      "status": "reference",
+      "confidence": 0.95,
+      "body": "The multi-period settlement mound of Hisarlik in the Troad (NW Türkiye), excavated by [[scholar-heinrich-schliemann|Schliemann]] from the 1870s, then Carl Blegen, then [[scholar-manfred-korfmann|Korfmann]]. Identified with Homer's Troy/Ilios. Occupied across the Bronze Age (Troy I-VII); the Late Bronze Age phases Troy VI and VIIa are the candidates for 'Homer's Troy' and the setting of [[claim-troy-vi-viia-war-destruction|its destruction]].\n",
+      "in_cites": 4,
+      "out_cites": 0,
+      "funnel_size": 5,
+      "citogenesis_root": false,
+      "traces_to": []
+    },
+    {
       "id": "source-bartsiokas-2000",
       "type": "source",
       "title": "Bartsiokas 2000 — The Eye Injury of King Philip II and the Skeletal Evidence from Royal Tomb II at Vergina",
@@ -538,6 +629,34 @@
       "traces_to": []
     },
     {
+      "id": "source-hansen-1997",
+      "type": "source",
+      "title": "Hansen 1997 — KUB XXIII.13: a possible contemporary Bronze Age source for the sack of Troy/Hisarlik?",
+      "status": "primary",
+      "confidence": 0.8,
+      "body": "Peer-reviewed note (BSA, 1997); abstract + references fetched from Cambridge Core. Observes that the Hittite tablet KUB XXIII.13 reports Hittite warfare in western/NW Asia Minor c. 1240 BC (the Seha River Land against Tudhaliya IV), *contemporary* with the destruction of Mycenaean [[claim-troy-vi-viia-war-destruction|Troy VI]] — raising the possibility that this conflict provided historical background for the *Iliad*. Explicitly a cautious 'possibility', not proof. The strongest documentary plank on the pro-kernel side.\n",
+      "in_cites": 2,
+      "out_cites": 1,
+      "funnel_size": 2,
+      "citogenesis_root": false,
+      "tier": "primary",
+      "traces_to": []
+    },
+    {
+      "id": "source-kolb-2005",
+      "type": "source",
+      "title": "Kolb 2005 — Late Bronze Age Troy: A Response to P. Jablonka and C.B. Rose",
+      "status": "primary",
+      "confidence": 0.8,
+      "body": "Peer-reviewed forum response (AJA, open access BY-NC); full text fetched. [[scholar-frank-kolb|Kolb]] defends his argument that Late Bronze Age Troy was NOT a significant trade city and that the Korfmann excavation 'mingles actual findings with mere assumptions and wishful thinking' — noting the scarcity of genuine imported Mycenaean pottery and the absence of Black Sea trade goods. Undercuts the material basis for a historically important Troy, and thus a key support for the war's plausibility.\n",
+      "in_cites": 0,
+      "out_cites": 1,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "tier": "primary",
+      "traces_to": []
+    },
+    {
       "id": "source-lespez-2021",
       "type": "source",
       "title": "Lespez et al. 2021 — Discovery of a tsunami deposit from the Bronze Age Santorini eruption at Malia (Crete)",
@@ -633,6 +752,20 @@
       "traces_to": [
         "scholar-heinrich-schliemann"
       ]
+    },
+    {
+      "id": "source-schurr-2019",
+      "type": "source",
+      "title": "Schürr 2019 — Ist Troja das Wilusa der Hethiter? (Is Troy the Hittites' Wilusa?)",
+      "status": "primary",
+      "confidence": 0.8,
+      "body": "Peer-reviewed article (Gephyra, open access); full text fetched. Argues the widely accepted link between Homer's Troy and the Hittite land of Wilusa/Taruwisa rests on 'little other than name associations' (Alaksandu~Alexandros, Wilusa~Ilios, appaliunas~Apollo), none cogent, and that attempts to prove a town around the Hisarlik stronghold have failed — 'there is no connection with Hittite history or culture.' Directly attacks the Hittite-texts plank of the historicity case.\n",
+      "in_cites": 0,
+      "out_cites": 0,
+      "funnel_size": 0,
+      "citogenesis_root": false,
+      "tier": "primary",
+      "traces_to": []
     },
     {
       "id": "source-traill-1989",
@@ -995,6 +1128,96 @@
       "rel": "mentions"
     },
     {
+      "source": "claim-trojan-war-historical",
+      "target": "claim-wilusa-is-troy",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-trojan-war-historical",
+      "target": "claim-troy-is-hisarlik",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-trojan-war-historical",
+      "target": "claim-troy-vi-viia-war-destruction",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-trojan-war-historical",
+      "target": "source-hansen-1997",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-trojan-war-historical",
+      "target": "site-mycenae",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-trojan-war-historical",
+      "target": "site-troy-hisarlik",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-trojan-war-historical",
+      "target": "scholar-heinrich-schliemann",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-trojan-war-historical",
+      "target": "scholar-frank-kolb",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-trojan-war-historical",
+      "target": "scholar-manfred-korfmann",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-trojan-war-historical",
+      "target": "source-kolb-2005",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-trojan-war-historical",
+      "target": "source-schurr-2019",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-troy-is-hisarlik",
+      "target": "site-troy-hisarlik",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-troy-is-hisarlik",
+      "target": "scholar-heinrich-schliemann",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-troy-vi-viia-war-destruction",
+      "target": "source-hansen-1997",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-troy-vi-viia-war-destruction",
+      "target": "site-troy-hisarlik",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-troy-vi-viia-war-destruction",
+      "target": "scholar-frank-kolb",
+      "rel": "mentions"
+    },
+    {
+      "source": "claim-wilusa-is-troy",
+      "target": "site-troy-hisarlik",
+      "rel": "cites"
+    },
+    {
+      "source": "claim-wilusa-is-troy",
+      "target": "source-schurr-2019",
+      "rel": "mentions"
+    },
+    {
       "source": "scholar-antonis-bartsiokas",
       "target": "claim-tomb-ii-arrhidaios",
       "rel": "supports"
@@ -1037,6 +1260,21 @@
     {
       "source": "scholar-david-traill",
       "target": "claim-mask-authenticity-dispute",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-frank-kolb",
+      "target": "site-troy-hisarlik",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-frank-kolb",
+      "target": "scholar-manfred-korfmann",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-frank-kolb",
+      "target": "source-kolb-2005",
       "rel": "mentions"
     },
     {
@@ -1097,6 +1335,16 @@
     {
       "source": "scholar-jonathan-musgrave",
       "target": "scholar-john-prag",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-manfred-korfmann",
+      "target": "site-troy-hisarlik",
+      "rel": "mentions"
+    },
+    {
+      "source": "scholar-manfred-korfmann",
+      "target": "scholar-frank-kolb",
       "rel": "mentions"
     },
     {
@@ -1285,6 +1533,21 @@
       "rel": "mentions"
     },
     {
+      "source": "site-troy-hisarlik",
+      "target": "scholar-heinrich-schliemann",
+      "rel": "mentions"
+    },
+    {
+      "source": "site-troy-hisarlik",
+      "target": "scholar-manfred-korfmann",
+      "rel": "mentions"
+    },
+    {
+      "source": "site-troy-hisarlik",
+      "target": "claim-troy-vi-viia-war-destruction",
+      "rel": "mentions"
+    },
+    {
       "source": "source-bartsiokas-2000",
       "target": "claim-tomb-ii-arrhidaios",
       "rel": "supports"
@@ -1425,6 +1688,36 @@
       "rel": "cites"
     },
     {
+      "source": "source-hansen-1997",
+      "target": "claim-trojan-war-historical",
+      "rel": "supports"
+    },
+    {
+      "source": "source-hansen-1997",
+      "target": "claim-troy-vi-viia-war-destruction",
+      "rel": "supports"
+    },
+    {
+      "source": "source-hansen-1997",
+      "target": "site-troy-hisarlik",
+      "rel": "cites"
+    },
+    {
+      "source": "source-kolb-2005",
+      "target": "claim-trojan-war-historical",
+      "rel": "disputes"
+    },
+    {
+      "source": "source-kolb-2005",
+      "target": "scholar-frank-kolb",
+      "rel": "cites"
+    },
+    {
+      "source": "source-kolb-2005",
+      "target": "site-troy-hisarlik",
+      "rel": "mentions"
+    },
+    {
       "source": "source-lespez-2021",
       "target": "claim-thera-indirect-contribution",
       "rel": "supports"
@@ -1540,6 +1833,21 @@
       "rel": "mentions"
     },
     {
+      "source": "source-schurr-2019",
+      "target": "claim-wilusa-is-troy",
+      "rel": "disputes"
+    },
+    {
+      "source": "source-schurr-2019",
+      "target": "claim-trojan-war-historical",
+      "rel": "disputes"
+    },
+    {
+      "source": "source-schurr-2019",
+      "target": "site-troy-hisarlik",
+      "rel": "mentions"
+    },
+    {
       "source": "source-traill-1989",
       "target": "claim-mask-authenticity-dispute",
       "rel": "supports"
@@ -1591,19 +1899,19 @@
     }
   ],
   "meta": {
-    "node_count": 43,
-    "link_count": 184,
+    "node_count": 53,
+    "link_count": 219,
     "by_type": {
-      "claim": 13,
-      "scholar": 8,
-      "site": 7,
-      "source": 15
+      "claim": 17,
+      "scholar": 10,
+      "site": 8,
+      "source": 18
     },
     "by_rel": {
-      "mentions": 93,
-      "cites": 49,
-      "disputes": 18,
-      "supports": 24
+      "mentions": 113,
+      "cites": 59,
+      "disputes": 21,
+      "supports": 26
     },
     "citogenesis_roots": [
       {
