@@ -11,6 +11,21 @@ python investigate.py "Vergina Tomb II holds Philip II of Macedon"
 It writes to `runs/<run-id>/wiki/` — deliberately **separate** from the
 hand-authored `wiki/`, so its output can be diffed against the step-1 benchmark.
 
+## Two ways to run the same agent
+
+Both drive the identical client-side tools + anti-hallucination gate; they differ
+only in what plays the model:
+
+| | **`/investigate` skill** | **`investigate.py`** |
+|---|---|---|
+| Brain | your Claude Code session | the Anthropic API |
+| Cost | your Claude Code plan (no API key) | pay-per-token (needs `ANTHROPIC_API_KEY`) |
+| Best for | interactive corpus growth | reproducible, budget-capped, *measured* runs (the eval layer) + running anywhere / in CI |
+
+The skill lives at `.claude/skills/investigate/SKILL.md` — open this repo in Claude
+Code and ask it to investigate a claim. The rest of this file documents the
+script.
+
 ## The two disciplines (why this isn't just "LLM + search")
 
 **1. A per-run token budget.** `agent/loop.py` sums `input + output` tokens after
